@@ -1,0 +1,948 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:34:56.774933"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1612" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Registry&lt;/string&gt;
+&lt;string&gt;Started&lt;/string&gt;
+&lt;string&gt;	ProviderName=Registry
+	NewProviderState=Started
+
+	SequenceNumber=1
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=99446073-b859-43b4-b752-0932a8822444
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:34:56.787296"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1612" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Alias&lt;/string&gt;
+&lt;string&gt;Started&lt;/string&gt;
+&lt;string&gt;	ProviderName=Alias
+	NewProviderState=Started
+
+	SequenceNumber=3
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=99446073-b859-43b4-b752-0932a8822444
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:34:56.787296"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1612" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Environment&lt;/string&gt;
+&lt;string&gt;Started&lt;/string&gt;
+&lt;string&gt;	ProviderName=Environment
+	NewProviderState=Started
+
+	SequenceNumber=5
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=99446073-b859-43b4-b752-0932a8822444
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:34:56.787296"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1612" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;FileSystem&lt;/string&gt;
+&lt;string&gt;Started&lt;/string&gt;
+&lt;string&gt;	ProviderName=FileSystem
+	NewProviderState=Started
+
+	SequenceNumber=7
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=99446073-b859-43b4-b752-0932a8822444
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:34:56.787296"></TimeCreated>
+<EventRecordID>5</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1612" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Function&lt;/string&gt;
+&lt;string&gt;Started&lt;/string&gt;
+&lt;string&gt;	ProviderName=Function
+	NewProviderState=Started
+
+	SequenceNumber=9
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=99446073-b859-43b4-b752-0932a8822444
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:34:56.787296"></TimeCreated>
+<EventRecordID>6</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1612" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Variable&lt;/string&gt;
+&lt;string&gt;Started&lt;/string&gt;
+&lt;string&gt;	ProviderName=Variable
+	NewProviderState=Started
+
+	SequenceNumber=11
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=99446073-b859-43b4-b752-0932a8822444
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>4</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:34:57.036394"></TimeCreated>
+<EventRecordID>7</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1612" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Available&lt;/string&gt;
+&lt;string&gt;None&lt;/string&gt;
+&lt;string&gt;	NewEngineState=Available
+	PreviousEngineState=None
+
+	SequenceNumber=13
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=99446073-b859-43b4-b752-0932a8822444
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=5.1.22000.652
+	RunspaceId=b74c7aee-20bc-434f-8d53-0f7f48e8e989
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:38:18.164968"></TimeCreated>
+<EventRecordID>8</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1352" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Registry&lt;/string&gt;
+&lt;string&gt;Started&lt;/string&gt;
+&lt;string&gt;	ProviderName=Registry
+	NewProviderState=Started
+
+	SequenceNumber=1
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=046315d8-81c0-4cbb-bc67-8ce42c688050
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:38:18.164968"></TimeCreated>
+<EventRecordID>9</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1352" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Alias&lt;/string&gt;
+&lt;string&gt;Started&lt;/string&gt;
+&lt;string&gt;	ProviderName=Alias
+	NewProviderState=Started
+
+	SequenceNumber=3
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=046315d8-81c0-4cbb-bc67-8ce42c688050
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:38:18.176851"></TimeCreated>
+<EventRecordID>10</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1352" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Environment&lt;/string&gt;
+&lt;string&gt;Started&lt;/string&gt;
+&lt;string&gt;	ProviderName=Environment
+	NewProviderState=Started
+
+	SequenceNumber=5
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=046315d8-81c0-4cbb-bc67-8ce42c688050
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:38:18.176851"></TimeCreated>
+<EventRecordID>11</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1352" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;FileSystem&lt;/string&gt;
+&lt;string&gt;Started&lt;/string&gt;
+&lt;string&gt;	ProviderName=FileSystem
+	NewProviderState=Started
+
+	SequenceNumber=7
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=046315d8-81c0-4cbb-bc67-8ce42c688050
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:38:18.176851"></TimeCreated>
+<EventRecordID>12</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1352" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Function&lt;/string&gt;
+&lt;string&gt;Started&lt;/string&gt;
+&lt;string&gt;	ProviderName=Function
+	NewProviderState=Started
+
+	SequenceNumber=9
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=046315d8-81c0-4cbb-bc67-8ce42c688050
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:38:18.176851"></TimeCreated>
+<EventRecordID>13</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1352" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Variable&lt;/string&gt;
+&lt;string&gt;Started&lt;/string&gt;
+&lt;string&gt;	ProviderName=Variable
+	NewProviderState=Started
+
+	SequenceNumber=11
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=046315d8-81c0-4cbb-bc67-8ce42c688050
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>4</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:38:18.310469"></TimeCreated>
+<EventRecordID>14</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1352" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Available&lt;/string&gt;
+&lt;string&gt;None&lt;/string&gt;
+&lt;string&gt;	NewEngineState=Available
+	PreviousEngineState=None
+
+	SequenceNumber=13
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=046315d8-81c0-4cbb-bc67-8ce42c688050
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=5.1.22000.652
+	RunspaceId=769bdae8-34c8-4850-b408-3eca4f0beb3d
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:38:51.747282"></TimeCreated>
+<EventRecordID>15</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1352" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Certificate&lt;/string&gt;
+&lt;string&gt;Started&lt;/string&gt;
+&lt;string&gt;	ProviderName=Certificate
+	NewProviderState=Started
+
+	SequenceNumber=15
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=046315d8-81c0-4cbb-bc67-8ce42c688050
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=5.1.22000.652
+	RunspaceId=769bdae8-34c8-4850-b408-3eca4f0beb3d
+	PipelineId=47
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">800</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:31.658239"></TimeCreated>
+<EventRecordID>16</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1352" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;$tNZvQCljVk = Add-Type -memberDefinition $OleSPrlmhB -Name "Win32" -namespace Win32Functions -passthru;
+&lt;/string&gt;
+&lt;string&gt;	DetailSequence=1
+	DetailTotal=1
+
+	SequenceNumber=18
+
+	UserId=Council-HQ\Council Leader
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=046315d8-81c0-4cbb-bc67-8ce42c688050
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=5.1.22000.652
+	RunspaceId=769bdae8-34c8-4850-b408-3eca4f0beb3d
+	PipelineId=55
+	ScriptName=C:\sysmgr\special_orders.ps1
+	CommandLine=$tNZvQCljVk = Add-Type -memberDefinition $OleSPrlmhB -Name "Win32" -namespace Win32Functions -passthru;
+&lt;/string&gt;
+&lt;string&gt;CommandInvocation(Add-Type): "Add-Type"
+ParameterBinding(Add-Type): name="MemberDefinition"; value="[DllImport("kernel32.dll")]
+public static extern IntPtr VirtualAlloc(IntPtr lpAddress, uint dwSize, uint flAllocationType, uint flProtect);
+[DllImport("kernel32.dll")]
+public static extern IntPtr CreateThread(IntPtr lpThreadAttributes, uint dwStackSize, IntPtr lpStartAddress, IntPtr lpParameter, uint dwCreationFlags, IntPtr lpThreadId);, ..."
+ParameterBinding(Add-Type): name="Name"; value="Win32"
+ParameterBinding(Add-Type): name="Namespace"; value="Win32Functions"
+ParameterBinding(Add-Type): name="PassThru"; value="True"
+&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:42:10.914501"></TimeCreated>
+<EventRecordID>17</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="10084" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Registry&lt;/string&gt;
+&lt;string&gt;Started&lt;/string&gt;
+&lt;string&gt;	ProviderName=Registry
+	NewProviderState=Started
+
+	SequenceNumber=1
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=c3b30060-0847-4ba3-b6a0-17812f91fd01
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:42:10.914501"></TimeCreated>
+<EventRecordID>18</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="10084" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Alias&lt;/string&gt;
+&lt;string&gt;Started&lt;/string&gt;
+&lt;string&gt;	ProviderName=Alias
+	NewProviderState=Started
+
+	SequenceNumber=3
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=c3b30060-0847-4ba3-b6a0-17812f91fd01
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:42:10.914501"></TimeCreated>
+<EventRecordID>19</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="10084" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Environment&lt;/string&gt;
+&lt;string&gt;Started&lt;/string&gt;
+&lt;string&gt;	ProviderName=Environment
+	NewProviderState=Started
+
+	SequenceNumber=5
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=c3b30060-0847-4ba3-b6a0-17812f91fd01
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:42:10.930676"></TimeCreated>
+<EventRecordID>20</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="10084" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;FileSystem&lt;/string&gt;
+&lt;string&gt;Started&lt;/string&gt;
+&lt;string&gt;	ProviderName=FileSystem
+	NewProviderState=Started
+
+	SequenceNumber=7
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=c3b30060-0847-4ba3-b6a0-17812f91fd01
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:42:10.930676"></TimeCreated>
+<EventRecordID>21</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="10084" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Function&lt;/string&gt;
+&lt;string&gt;Started&lt;/string&gt;
+&lt;string&gt;	ProviderName=Function
+	NewProviderState=Started
+
+	SequenceNumber=9
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=c3b30060-0847-4ba3-b6a0-17812f91fd01
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:42:10.930676"></TimeCreated>
+<EventRecordID>22</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="10084" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Variable&lt;/string&gt;
+&lt;string&gt;Started&lt;/string&gt;
+&lt;string&gt;	ProviderName=Variable
+	NewProviderState=Started
+
+	SequenceNumber=11
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=c3b30060-0847-4ba3-b6a0-17812f91fd01
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>4</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:42:11.212538"></TimeCreated>
+<EventRecordID>23</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="10084" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Available&lt;/string&gt;
+&lt;string&gt;None&lt;/string&gt;
+&lt;string&gt;	NewEngineState=Available
+	PreviousEngineState=None
+
+	SequenceNumber=13
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=c3b30060-0847-4ba3-b6a0-17812f91fd01
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=5.1.22000.652
+	RunspaceId=b706fe7c-eb00-4212-8099-61dfbc82282a
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="PowerShell"></Provider>
+<EventID Qualifiers="0">600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:44:04.540279"></TimeCreated>
+<EventRecordID>24</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="10084" ThreadID="0"></Execution>
+<Channel>Windows PowerShell</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Certificate&lt;/string&gt;
+&lt;string&gt;Started&lt;/string&gt;
+&lt;string&gt;	ProviderName=Certificate
+	NewProviderState=Started
+
+	SequenceNumber=15
+
+	HostName=ConsoleHost
+	HostVersion=5.1.22000.652
+	HostId=c3b30060-0847-4ba3-b6a0-17812f91fd01
+	HostApplication=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+	EngineVersion=5.1.22000.652
+	RunspaceId=b706fe7c-eb00-4212-8099-61dfbc82282a
+	PipelineId=39
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+</Events>

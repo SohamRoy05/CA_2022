@@ -1,0 +1,2191 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">27</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:36.612612"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="660" ThreadID="732"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ErrorCode">2147942583</Data>
+<Data Name="Context">C:\WINDOWS\system32\config\systemprofile\AppData\Local\Packages</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">21</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000400000000002</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:36.613546"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="660" ThreadID="732"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ErrorCode">2147942410</Data>
+<Data Name="Context">onecore\ds\security\gina\profile\profext\appcontainer.cpp Line:1390 S-1-5-18 microsoft.windows.fontdrvhost</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:36.616634"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="588" ThreadID="708"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="AppContainerName">microsoft.windows.fontdrvhost</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:53.197298"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2776" ThreadID="752"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="AppContainerName">MPENG_7ECCF4E9-286B-47E1-950D-20767A3A6296</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">41</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:53.200907"></TimeCreated>
+<EventRecordID>5</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2776" ThreadID="752"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="AppContainerName">MPENG_7ECCF4E9-286B-47E1-950D-20767A3A6296</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">36</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:45.899130"></TimeCreated>
+<EventRecordID>6</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="580" ThreadID="704"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ErrorCode">2147944122</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">36</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:45.899147"></TimeCreated>
+<EventRecordID>7</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="652" ThreadID="728"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ErrorCode">2147944122</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">21</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000400000000002</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:45.900602"></TimeCreated>
+<EventRecordID>8</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="652" ThreadID="728"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ErrorCode">2147942410</Data>
+<Data Name="Context">onecore\ds\security\gina\profile\profext\appcontainer.cpp Line:1862 Usermode Font Driver Host microsoft.windows.fontdrvhost</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:45.907633"></TimeCreated>
+<EventRecordID>9</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="580" ThreadID="704"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="AppContainerName">microsoft.windows.fontdrvhost</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:00.001650"></TimeCreated>
+<EventRecordID>10</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3188" ThreadID="3452"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="AppContainerName">MPENG_7ECCF4E9-286B-47E1-950D-20767A3A6296</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">41</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:00.006420"></TimeCreated>
+<EventRecordID>11</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3188" ThreadID="3452"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="AppContainerName">MPENG_7ECCF4E9-286B-47E1-950D-20767A3A6296</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:07.619686"></TimeCreated>
+<EventRecordID>12</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0002-6308-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1548" ThreadID="4948"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.UI.Xaml.CBS_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:07.673588"></TimeCreated>
+<EventRecordID>13</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0002-6308-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1548" ThreadID="4948"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.VCLibs.140.00_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">40</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:07.697531"></TimeCreated>
+<EventRecordID>14</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0002-6308-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1548" ThreadID="4948"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="AppContainerName">onecore\ds\security\gina\profile\profext\appcontainer.cpp Line:1827 Microsoft Visual C++ 2015 UWP Runtime Package Microsoft.VCLibs.140.00_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:07.806759"></TimeCreated>
+<EventRecordID>15</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0002-6308-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1548" ThreadID="4948"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.BioEnrollment_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:08.182362"></TimeCreated>
+<EventRecordID>16</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0003-a807-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1548" ThreadID="4948"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:08.191885"></TimeCreated>
+<EventRecordID>17</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0000-d608-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1548" ThreadID="4944"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:08.475386"></TimeCreated>
+<EventRecordID>18</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0000-2809-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1548" ThreadID="4944"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:08.511623"></TimeCreated>
+<EventRecordID>19</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0001-7208-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1548" ThreadID="4948"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.Windows.OOBENetworkCaptivePortal_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:08.769171"></TimeCreated>
+<EventRecordID>20</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0001-a608-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1548" ThreadID="4948"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="AppContainerName">MicrosoftWindows.UndockedDevKit_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:09.190826"></TimeCreated>
+<EventRecordID>21</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0001-b608-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1548" ThreadID="4948"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="AppContainerName">MicrosoftWindows.Client.CBS_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:09.320208"></TimeCreated>
+<EventRecordID>22</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0001-b808-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1548" ThreadID="4944"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:09.878721"></TimeCreated>
+<EventRecordID>23</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0003-ab0a-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1548" ThreadID="4944"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:09.958378"></TimeCreated>
+<EventRecordID>24</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0003-ef0a-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1548" ThreadID="4948"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">40</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:10.534966"></TimeCreated>
+<EventRecordID>25</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="676" ThreadID="716"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="AppContainerName">onecore\ds\security\gina\profile\profext\appcontainer.cpp Line:1827 Usermode Font Driver Host microsoft.windows.fontdrvhost</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">40</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:10.534975"></TimeCreated>
+<EventRecordID>26</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="576" ThreadID="652"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="AppContainerName">onecore\ds\security\gina\profile\profext\appcontainer.cpp Line:1827 Usermode Font Driver Host microsoft.windows.fontdrvhost</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:13.572348"></TimeCreated>
+<EventRecordID>27</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2828" ThreadID="2676"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="AppContainerName">MPENG_7ECCF4E9-286B-47E1-950D-20767A3A6296</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">41</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:13.575167"></TimeCreated>
+<EventRecordID>28</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2828" ThreadID="2676"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="AppContainerName">MPENG_7ECCF4E9-286B-47E1-950D-20767A3A6296</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">40</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:35.182800"></TimeCreated>
+<EventRecordID>29</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5960" ThreadID="5124"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="AppContainerName">onecore\ds\security\gina\profile\profext\appcontainer.cpp Line:1827 Usermode Font Driver Host microsoft.windows.fontdrvhost</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:37.345411"></TimeCreated>
+<EventRecordID>30</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3336" ThreadID="3912"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">windows_ie_ac_001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:37.576887"></TimeCreated>
+<EventRecordID>31</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0001-0707-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4444"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.UI.Xaml.CBS_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:37.599363"></TimeCreated>
+<EventRecordID>32</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0001-0707-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4444"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.VCLibs.140.00_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">40</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:37.614443"></TimeCreated>
+<EventRecordID>33</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0001-0707-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4444"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">onecore\ds\security\gina\profile\profext\appcontainer.cpp Line:1827 Microsoft Visual C++ 2015 UWP Runtime Package Microsoft.VCLibs.140.00_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:37.655867"></TimeCreated>
+<EventRecordID>34</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0001-0807-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:37.680367"></TimeCreated>
+<EventRecordID>35</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0001-0707-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4444"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.BioEnrollment_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:38.266132"></TimeCreated>
+<EventRecordID>36</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0001-7409-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:38.266806"></TimeCreated>
+<EventRecordID>37</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-e911-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4444"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:38.547802"></TimeCreated>
+<EventRecordID>38</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0001-f809-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.Windows.OOBENetworkCaptivePortal_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:38.892685"></TimeCreated>
+<EventRecordID>39</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-8a10-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4444"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">MicrosoftWindows.Client.CBS_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:40.597273"></TimeCreated>
+<EventRecordID>40</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-e211-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:40.604248"></TimeCreated>
+<EventRecordID>41</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-ac0b-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="3988"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:41.224442"></TimeCreated>
+<EventRecordID>42</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-600c-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="3988"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.Windows.Search_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:41.601999"></TimeCreated>
+<EventRecordID>43</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-6914-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.UI.Xaml.2.7_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">40</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:41.622208"></TimeCreated>
+<EventRecordID>44</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-6914-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">onecore\ds\security\gina\profile\profext\appcontainer.cpp Line:1827 Microsoft.UI.Xaml.2.7 Microsoft.UI.Xaml.2.7_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:41.641302"></TimeCreated>
+<EventRecordID>45</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-6914-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.VCLibs.140.00.UWPDesktop_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">40</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:41.654411"></TimeCreated>
+<EventRecordID>46</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-6914-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">onecore\ds\security\gina\profile\profext\appcontainer.cpp Line:1827 Microsoft Visual C++ 2015 UWP Desktop Runtime Package Microsoft.VCLibs.140.00.UWPDesktop_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:41.672571"></TimeCreated>
+<EventRecordID>47</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-6914-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.NET.Native.Runtime.2.2_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">40</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:41.686253"></TimeCreated>
+<EventRecordID>48</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-6914-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">onecore\ds\security\gina\profile\profext\appcontainer.cpp Line:1827 Microsoft .Net Native Runtime Package 2.2 Microsoft.NET.Native.Runtime.2.2_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:41.705231"></TimeCreated>
+<EventRecordID>49</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-6914-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.NET.Native.Framework.2.2_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">40</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:41.718971"></TimeCreated>
+<EventRecordID>50</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-6914-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">onecore\ds\security\gina\profile\profext\appcontainer.cpp Line:1827 Microsoft .Net Native Framework Package 2.2 Microsoft.NET.Native.Framework.2.2_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:41.778652"></TimeCreated>
+<EventRecordID>51</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-6914-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.549981C3F5F10_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:42.039062"></TimeCreated>
+<EventRecordID>52</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0001-c80b-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.MicrosoftEdge_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:42.059494"></TimeCreated>
+<EventRecordID>53</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-d714-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="3988"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:42.314674"></TimeCreated>
+<EventRecordID>54</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-db12-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.UI.Xaml.2.4_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:42.647484"></TimeCreated>
+<EventRecordID>55</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-4415-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:44.329550"></TimeCreated>
+<EventRecordID>56</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-4415-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="AppContainerName">MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">41</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:46.820503"></TimeCreated>
+<EventRecordID>57</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-4415-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="AppContainerName">MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:48.748705"></TimeCreated>
+<EventRecordID>58</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-3315-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4444"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.Paint_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:48.811909"></TimeCreated>
+<EventRecordID>59</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0001-400e-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="3988"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.ScreenSketch_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:48.888832"></TimeCreated>
+<EventRecordID>60</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0001-470e-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.Windows.Photos_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:49.542866"></TimeCreated>
+<EventRecordID>61</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-2217-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4444"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.WindowsCamera_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:49.779480"></TimeCreated>
+<EventRecordID>62</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-2919-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="3988"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.WindowsNotepad_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:49.787981"></TimeCreated>
+<EventRecordID>63</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-3319-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.WindowsStore_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:50.285999"></TimeCreated>
+<EventRecordID>64</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-6d17-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4444"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.XboxIdentityProvider_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">40</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:25:54.961763"></TimeCreated>
+<EventRecordID>65</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-4119-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4444"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">onecore\ds\security\gina\profile\profext\appcontainer.cpp Line:1827 Microsoft Edge Microsoft.MicrosoftEdge_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:25:55.993383"></TimeCreated>
+<EventRecordID>66</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-6c24-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4444"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">MicrosoftTeams_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">219</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000004</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:25:56.424732"></TimeCreated>
+<EventRecordID>67</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="4044"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<ProcessingErrorData><ErrorCode>15005</ErrorCode>
+<DataItemName>PsmFlags</DataItemName>
+<EventPayload>TQBpAGMAcgBvAHMAbwBmAHQAVABlAGEAbQBzAF8AMgAyADAAOAAyAC4ANAAwADIALgAxADIANwA5AC4AMgA1ADcAOABfAHgANgA0AF8AXwA4AHcAZQBrAHkAYgAzAGQAOABiAGIAdwBlAAAATQBpAGMAcgBvAHMAbwBmAHQAVABlAGEAbQBzAF8AOAB3AGUAawB5AGIAMwBkADgAYgBiAHcAZQAhAE0AaQBjAHIAbwBzAG8AZgB0AFQAZQBhAG0AcwAAAAUAABA=</EventPayload>
+</ProcessingErrorData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">210</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:25:56.629038"></TimeCreated>
+<EventRecordID>68</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="4044"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PackageName">MicrosoftTeams_22082.402.1279.2578_x64__8wekyb3d8bbwe</Data>
+<Data Name="ContainerName">MicrosoftTeams_22082.402.1279.2578_x64__8wekyb3d8bbwe-S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+<Data Name="ContainerId">{6D36C8B5-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">211</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:25:56.629086"></TimeCreated>
+<EventRecordID>69</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="4044"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ProcessID">5640</Data>
+<Data Name="PackageName">MicrosoftTeams_22082.402.1279.2578_x64__8wekyb3d8bbwe</Data>
+<Data Name="ContainerId">{6D36C8B5-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">201</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000004</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:25:56.633852"></TimeCreated>
+<EventRecordID>70</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="4044"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ProcessID">5640</Data>
+<Data Name="PackageName">MicrosoftTeams_22082.402.1279.2578_x64__8wekyb3d8bbwe</Data>
+<Data Name="ImageName">msteams.exe</Data>
+<Data Name="ApplicationName">MicrosoftTeams_8wekyb3d8bbwe!MicrosoftTeams</Data>
+<Data Name="Message">[LaunchProcess]</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">217</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:25:58.520319"></TimeCreated>
+<EventRecordID>71</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="4044"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PackageName">MicrosoftTeams_22082.402.1279.2578_x64__8wekyb3d8bbwe</Data>
+<Data Name="ContainerId">{6D36C8B5-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">219</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000004</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:08.307747"></TimeCreated>
+<EventRecordID>72</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="4044"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<ProcessingErrorData><ErrorCode>15005</ErrorCode>
+<DataItemName>PsmFlags</DataItemName>
+<EventPayload>TQBpAGMAcgBvAHMAbwBmAHQAVABlAGEAbQBzAF8AMgAyADAAOAAyAC4ANAAwADIALgAxADIANwA5AC4AMgA1ADcAOABfAHgANgA0AF8AXwA4AHcAZQBrAHkAYgAzAGQAOABiAGIAdwBlAAAATQBpAGMAcgBvAHMAbwBmAHQAVABlAGEAbQBzAF8AOAB3AGUAawB5AGIAMwBkADgAYgBiAHcAZQAhAE0AaQBjAHIAbwBzAG8AZgB0AFQAZQBhAG0AcwAAAAUAABA=</EventPayload>
+</ProcessingErrorData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">210</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:08.339474"></TimeCreated>
+<EventRecordID>73</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="4044"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PackageName">MicrosoftTeams_22082.402.1279.2578_x64__8wekyb3d8bbwe</Data>
+<Data Name="ContainerName">MicrosoftTeams_22082.402.1279.2578_x64__8wekyb3d8bbwe-S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+<Data Name="ContainerId">{6D36C8DE-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">211</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:08.339508"></TimeCreated>
+<EventRecordID>74</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="4044"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ProcessID">7924</Data>
+<Data Name="PackageName">MicrosoftTeams_22082.402.1279.2578_x64__8wekyb3d8bbwe</Data>
+<Data Name="ContainerId">{6D36C8DE-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">201</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000004</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:08.341190"></TimeCreated>
+<EventRecordID>75</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="4044"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ProcessID">7924</Data>
+<Data Name="PackageName">MicrosoftTeams_22082.402.1279.2578_x64__8wekyb3d8bbwe</Data>
+<Data Name="ImageName">msteams.exe</Data>
+<Data Name="ApplicationName">MicrosoftTeams_8wekyb3d8bbwe!MicrosoftTeams</Data>
+<Data Name="Message">[LaunchProcess]</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">217</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:09.653633"></TimeCreated>
+<EventRecordID>76</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="4044"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PackageName">MicrosoftTeams_22082.402.1279.2578_x64__8wekyb3d8bbwe</Data>
+<Data Name="ContainerId">{6D36C8DE-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">40</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:18.501064"></TimeCreated>
+<EventRecordID>77</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-f93c-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4444"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">onecore\ds\security\gina\profile\profext\appcontainer.cpp Line:1827 Microsoft Edge Microsoft.MicrosoftEdge_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:27:42.118546"></TimeCreated>
+<EventRecordID>78</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-ad47-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4444"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.OneDriveSync_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:28:42.869404"></TimeCreated>
+<EventRecordID>79</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-8c58-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4444"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">MicrosoftWindows.UndockedDevKit_cw5n1h2txyewy</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">219</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000004</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:30:49.209816"></TimeCreated>
+<EventRecordID>80</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="956"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<ProcessingErrorData><ErrorCode>15005</ErrorCode>
+<DataItemName>PsmFlags</DataItemName>
+<EventPayload>TQBpAGMAcgBvAHMAbwBmAHQALgBXAGkAbgBkAG8AdwBzAFMAdABvAHIAZQBfADIAMgAyADAANAAuADEANAAwADEALgAzAC4AMABfAHgANgA0AF8AXwA4AHcAZQBrAHkAYgAzAGQAOABiAGIAdwBlAAAATQBpAGMAcgBvAHMAbwBmAHQALgBXAGkAbgBkAG8AdwBzAFMAdABvAHIAZQBfADgAdwBlAGsAeQBiADMAZAA4AGIAYgB3AGUAIQBBAHAAcAAAAAUAABA=</EventPayload>
+</ProcessingErrorData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">210</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:30:49.272724"></TimeCreated>
+<EventRecordID>81</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="956"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PackageName">Microsoft.WindowsStore_22204.1401.3.0_x64__8wekyb3d8bbwe</Data>
+<Data Name="ContainerName">Microsoft.WindowsStore_22204.1401.3.0_x64__8wekyb3d8bbwe-S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+<Data Name="ContainerId">{6D36C99B-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">211</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:30:49.272789"></TimeCreated>
+<EventRecordID>82</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="956"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ProcessID">7652</Data>
+<Data Name="PackageName">Microsoft.WindowsStore_22204.1401.3.0_x64__8wekyb3d8bbwe</Data>
+<Data Name="ContainerId">{6D36C99B-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">201</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000004</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:30:49.275047"></TimeCreated>
+<EventRecordID>83</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="956"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ProcessID">7652</Data>
+<Data Name="PackageName">Microsoft.WindowsStore_22204.1401.3.0_x64__8wekyb3d8bbwe</Data>
+<Data Name="ImageName">StoreDesktopExtension.exe</Data>
+<Data Name="ApplicationName">Microsoft.WindowsStore_8wekyb3d8bbwe!App</Data>
+<Data Name="Message">[LaunchProcess]</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">210</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:30:55.896799"></TimeCreated>
+<EventRecordID>84</EventRecordID>
+<Correlation ActivityID="{5983f7d3-7e73-49f9-a303-a8856860e1f1}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="864" ThreadID="988"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PackageName">MicrosoftWindows.Client.WebExperience_421.20070.305.0_x64__cw5n1h2txyewy</Data>
+<Data Name="ContainerName">MicrosoftWindows.Client.WebExperience_421.20070.305.0_x64__cw5n1h2txyewy-S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+<Data Name="ContainerId">{6D36C9A9-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">211</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:30:55.896885"></TimeCreated>
+<EventRecordID>85</EventRecordID>
+<Correlation ActivityID="{5983f7d3-7e73-49f9-a303-a8856860e1f1}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="864" ThreadID="988"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ProcessID">7568</Data>
+<Data Name="PackageName">MicrosoftWindows.Client.WebExperience_421.20070.305.0_x64__cw5n1h2txyewy</Data>
+<Data Name="ContainerId">{6D36C9A9-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">217</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:30:58.220602"></TimeCreated>
+<EventRecordID>86</EventRecordID>
+<Correlation ActivityID="{5983f7d3-7e73-49f9-a303-a8856860e1f1}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="864" ThreadID="2484"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PackageName">MicrosoftWindows.Client.WebExperience_421.20070.305.0_x64__cw5n1h2txyewy</Data>
+<Data Name="ContainerId">{6D36C9A9-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:32:03.358335"></TimeCreated>
+<EventRecordID>87</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-e63d-2e2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4444"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Mozilla.Firefox_n80bbvh6b1yt2</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">219</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000004</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:32:14.664349"></TimeCreated>
+<EventRecordID>88</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="5180"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<ProcessingErrorData><ErrorCode>15005</ErrorCode>
+<DataItemName>PsmFlags</DataItemName>
+<EventPayload>TQBvAHoAaQBsAGwAYQAuAEYAaQByAGUAZgBvAHgAXwAxADAAMAAuADAALgAwAC4AMABfAHgANgA0AF8AXwBuADgAMABiAGIAdgBoADYAYgAxAHkAdAAyAAAATQBvAHoAaQBsAGwAYQAuAEYAaQByAGUAZgBvAHgAXwBuADgAMABiAGIAdgBoADYAYgAxAHkAdAAyACEAQQBwAHAAAAAFAAAQ</EventPayload>
+</ProcessingErrorData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">210</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:32:14.748041"></TimeCreated>
+<EventRecordID>89</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="5180"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PackageName">Mozilla.Firefox_100.0.0.0_x64__n80bbvh6b1yt2</Data>
+<Data Name="ContainerName">Mozilla.Firefox_100.0.0.0_x64__n80bbvh6b1yt2-S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+<Data Name="ContainerId">{6D36C9C1-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">211</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:32:14.748095"></TimeCreated>
+<EventRecordID>90</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="5180"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ProcessID">2544</Data>
+<Data Name="PackageName">Mozilla.Firefox_100.0.0.0_x64__n80bbvh6b1yt2</Data>
+<Data Name="ContainerId">{6D36C9C1-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">201</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000004</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:32:14.751074"></TimeCreated>
+<EventRecordID>91</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="5180"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ProcessID">2544</Data>
+<Data Name="PackageName">Mozilla.Firefox_100.0.0.0_x64__n80bbvh6b1yt2</Data>
+<Data Name="ImageName">firefox.exe</Data>
+<Data Name="ApplicationName">Mozilla.Firefox_n80bbvh6b1yt2!App</Data>
+<Data Name="Message">[LaunchProcess]</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">217</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:34:48.115608"></TimeCreated>
+<EventRecordID>92</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="2300"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PackageName">Mozilla.Firefox_100.0.0.0_x64__n80bbvh6b1yt2</Data>
+<Data Name="ContainerId">{6D36C9C1-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">217</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:34:48.308384"></TimeCreated>
+<EventRecordID>93</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="2300"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PackageName">Microsoft.WindowsStore_22204.1401.3.0_x64__8wekyb3d8bbwe</Data>
+<Data Name="ContainerId">{6D36C99B-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:34:54.368702"></TimeCreated>
+<EventRecordID>94</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-938c-2e2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4444"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">Microsoft.WindowsTerminal_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">219</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000004</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:34:54.647337"></TimeCreated>
+<EventRecordID>95</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="2300"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<ProcessingErrorData><ErrorCode>15005</ErrorCode>
+<DataItemName>PsmFlags</DataItemName>
+<EventPayload>TQBpAGMAcgBvAHMAbwBmAHQALgBXAGkAbgBkAG8AdwBzAFQAZQByAG0AaQBuAGEAbABfADEALgAxADIALgAxADAAOQA4ADMALgAwAF8AeAA2ADQAXwBfADgAdwBlAGsAeQBiADMAZAA4AGIAYgB3AGUAAABNAGkAYwByAG8AcwBvAGYAdAAuAFcAaQBuAGQAbwB3AHMAVABlAHIAbQBpAG4AYQBsAF8AOAB3AGUAawB5AGIAMwBkADgAYgBiAHcAZQAhAEEAcABwAAAABQAAEA==</EventPayload>
+</ProcessingErrorData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">210</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:34:54.753643"></TimeCreated>
+<EventRecordID>96</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="2300"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PackageName">Microsoft.WindowsTerminal_1.12.10983.0_x64__8wekyb3d8bbwe</Data>
+<Data Name="ContainerName">Microsoft.WindowsTerminal_1.12.10983.0_x64__8wekyb3d8bbwe-S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+<Data Name="ContainerId">{6D36CA1B-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">211</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:34:54.753685"></TimeCreated>
+<EventRecordID>97</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="2300"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ProcessID">1844</Data>
+<Data Name="PackageName">Microsoft.WindowsTerminal_1.12.10983.0_x64__8wekyb3d8bbwe</Data>
+<Data Name="ContainerId">{6D36CA1B-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">201</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000004</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:34:54.756067"></TimeCreated>
+<EventRecordID>98</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="2300"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ProcessID">1844</Data>
+<Data Name="PackageName">Microsoft.WindowsTerminal_1.12.10983.0_x64__8wekyb3d8bbwe</Data>
+<Data Name="ImageName">WindowsTerminal.exe</Data>
+<Data Name="ApplicationName">Microsoft.WindowsTerminal_8wekyb3d8bbwe!App</Data>
+<Data Name="Message">[LaunchProcess]</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">217</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:35:11.218758"></TimeCreated>
+<EventRecordID>99</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4248" ThreadID="2300"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PackageName">Microsoft.WindowsTerminal_1.12.10983.0_x64__8wekyb3d8bbwe</Data>
+<Data Name="ContainerId">{6D36CA1B-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">210</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:35:12.867018"></TimeCreated>
+<EventRecordID>100</EventRecordID>
+<Correlation ActivityID="{136ac828-b586-4277-9809-e20dfbbdaa0a}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="864" ThreadID="2964"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PackageName">Microsoft.OneDriveSync_21220.1024.5.0_neutral__8wekyb3d8bbwe</Data>
+<Data Name="ContainerName">Microsoft.OneDriveSync_21220.1024.5.0_neutral__8wekyb3d8bbwe-S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+<Data Name="ContainerId">{6D36CA2E-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">211</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:35:12.867054"></TimeCreated>
+<EventRecordID>101</EventRecordID>
+<Correlation ActivityID="{136ac828-b586-4277-9809-e20dfbbdaa0a}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="864" ThreadID="2964"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ProcessID">4732</Data>
+<Data Name="PackageName">Microsoft.OneDriveSync_21220.1024.5.0_neutral__8wekyb3d8bbwe</Data>
+<Data Name="ContainerId">{6D36CA2E-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">217</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:35:21.294395"></TimeCreated>
+<EventRecordID>102</EventRecordID>
+<Correlation ActivityID="{136ac828-b586-4277-9809-e20dfbbdaa0a}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="864" ThreadID="2964"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PackageName">Microsoft.OneDriveSync_21220.1024.5.0_neutral__8wekyb3d8bbwe</Data>
+<Data Name="ContainerId">{6D36CA2E-CD50-11EC-A53B-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">40</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:33.833809"></TimeCreated>
+<EventRecordID>103</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="680" ThreadID="720"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="AppContainerName">onecore\ds\security\gina\profile\profext\appcontainer.cpp Line:1827 Usermode Font Driver Host microsoft.windows.fontdrvhost</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">40</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:33.833878"></TimeCreated>
+<EventRecordID>104</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="580" ThreadID="656"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="AppContainerName">onecore\ds\security\gina\profile\profext\appcontainer.cpp Line:1827 Usermode Font Driver Host microsoft.windows.fontdrvhost</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">39</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:36.595947"></TimeCreated>
+<EventRecordID>105</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2760" ThreadID="2984"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="AppContainerName">MPENG_7ECCF4E9-286B-47E1-950D-20767A3A6296</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">41</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:36.598711"></TimeCreated>
+<EventRecordID>106</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2760" ThreadID="2984"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="AppContainerName">MPENG_7ECCF4E9-286B-47E1-950D-20767A3A6296</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">40</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:57.975500"></TimeCreated>
+<EventRecordID>107</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0001-a863-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3412" ThreadID="4612"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="AppContainerName">onecore\ds\security\gina\profile\profext\appcontainer.cpp Line:1827 OneDrive Microsoft.OneDriveSync_8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">219</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000004</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:58.630640"></TimeCreated>
+<EventRecordID>108</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4800" ThreadID="4840"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<ProcessingErrorData><ErrorCode>15005</ErrorCode>
+<DataItemName>PsmFlags</DataItemName>
+<EventPayload>TQBpAGMAcgBvAHMAbwBmAHQAVABlAGEAbQBzAF8AMgAyADAAOAAyAC4ANAAwADIALgAxADIANwA5AC4AMgA1ADcAOABfAHgANgA0AF8AXwA4AHcAZQBrAHkAYgAzAGQAOABiAGIAdwBlAAAATQBpAGMAcgBvAHMAbwBmAHQAVABlAGEAbQBzAF8AOAB3AGUAawB5AGIAMwBkADgAYgBiAHcAZQAhAE0AaQBjAHIAbwBzAG8AZgB0AFQAZQBhAG0AcwAAAAUAABA=</EventPayload>
+</ProcessingErrorData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">210</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:58.726105"></TimeCreated>
+<EventRecordID>109</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4800" ThreadID="4840"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PackageName">MicrosoftTeams_22082.402.1279.2578_x64__8wekyb3d8bbwe</Data>
+<Data Name="ContainerName">MicrosoftTeams_22082.402.1279.2578_x64__8wekyb3d8bbwe-S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+<Data Name="ContainerId">{4C6F3901-CD52-11EC-A53C-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">211</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:58.726145"></TimeCreated>
+<EventRecordID>110</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4800" ThreadID="4840"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ProcessID">7036</Data>
+<Data Name="PackageName">MicrosoftTeams_22082.402.1279.2578_x64__8wekyb3d8bbwe</Data>
+<Data Name="ContainerId">{4C6F3901-CD52-11EC-A53C-080027D811A0}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppModel-Runtime" Guid="{f1ef270a-0d32-4352-ba52-dbab41e1d859}"></Provider>
+<EventID Qualifiers="">201</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000004</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:58.728680"></TimeCreated>
+<EventRecordID>111</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4800" ThreadID="4840"></Execution>
+<Channel>Microsoft-Windows-AppModel-Runtime/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ProcessID">7036</Data>
+<Data Name="PackageName">MicrosoftTeams_22082.402.1279.2578_x64__8wekyb3d8bbwe</Data>
+<Data Name="ImageName">msteams.exe</Data>
+<Data Name="ApplicationName">MicrosoftTeams_8wekyb3d8bbwe!MicrosoftTeams</Data>
+<Data Name="Message">[LaunchProcess]</Data>
+</EventData>
+</Event>
+
+</Events>

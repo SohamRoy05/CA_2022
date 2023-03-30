@@ -1,0 +1,385 @@
+Mon May 16 16:25:09 2022: Log opened.
+Mon May 16 16:25:09 2022: File: Z:\home\kali\HTB\CA\forensics_golden\NTUSER.DAT
+Mon May 16 16:25:09 2022: Environment set up.
+Mon May 16 16:25:09 2022: Parsed Plugins file ntuser-all
+Mon May 16 16:25:09 2022: Launching acmru v.20080324
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: acmru complete.
+Mon May 16 16:25:09 2022: Launching adoberdr v.20120716
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: adoberdr complete.
+Mon May 16 16:25:09 2022: Launching aim plugin v.20080325
+Mon May 16 16:25:09 2022: Software\America Online\AOL Instant Messenger (TM)\CurrentVersion\Users not found.
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: aim complete.
+Mon May 16 16:25:09 2022: Launching aports v.20110204
+Mon May 16 16:25:09 2022: Software\SmartLine Vision\aports not found.
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: aports complete.
+Mon May 16 16:25:09 2022: Launching appcompatflags v.20110204
+Mon May 16 16:25:09 2022: Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers not found.
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: appcompatflags complete.
+Mon May 16 16:25:09 2022: Launching applets v.20080324
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: applets complete.
+Mon May 16 16:25:09 2022: Launching appspecific v.20120820
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: appspecific complete.
+Mon May 16 16:25:09 2022: Launching ares v.20130312
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: ares complete.
+Mon May 16 16:25:09 2022: Launching arpcache v.20090413
+Mon May 16 16:25:09 2022: Software\Microsoft\Windows\CurrentVersion\App Management\ARPCache not found.
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: arpcache complete.
+Mon May 16 16:25:09 2022: Launching autoendtasks v.20081128
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: autoendtasks complete.
+Mon May 16 16:25:09 2022: Launching autorun v.20081212
+Mon May 16 16:25:09 2022: Software\Microsoft\Windows\CurrentVersion\Policies\Explorer not found.
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: autorun complete.
+Mon May 16 16:25:09 2022: Launching bitbucket_user v.20091020
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: bitbucket_user complete.
+Mon May 16 16:25:09 2022: Launching brisv v.20090210
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: brisv complete.
+Mon May 16 16:25:09 2022: Launching cain v.20110204
+Mon May 16 16:25:09 2022: Software\Cain\Settings not found.
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: cain complete.
+Mon May 16 16:25:09 2022: Launching ccleaner v.20120128
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: ccleaner complete.
+Mon May 16 16:25:09 2022: Launching clampi v.20091019
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: clampi complete.
+Mon May 16 16:25:09 2022: Launching clampitm v.20100624
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: clampitm complete.
+Mon May 16 16:25:09 2022: Launching comdlg32 v.20121008
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: comdlg32 complete.
+Mon May 16 16:25:09 2022: Launching compatassist v.20120515
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: compatassist complete.
+Mon May 16 16:25:09 2022: Launching compdesc v.20080324
+Mon May 16 16:25:09 2022: Software\Microsoft\Windows\CurrentVersion\Explorer\ComputerDescriptions not found.
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: compdesc complete.
+Mon May 16 16:25:09 2022: Launching controlpanel v.20080428
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: controlpanel complete.
+Mon May 16 16:25:09 2022: Launching cpldontload v.20100116
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: cpldontload complete.
+Mon May 16 16:25:09 2022: Launching decaf v.20110210
+Mon May 16 16:25:09 2022: Software\DECAFme not found.
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: decaf complete.
+Mon May 16 16:25:09 2022: Launching dependency_walker v.20110204
+Mon May 16 16:25:09 2022: Software\Microsoft\Dependency Walker\Recent File List not found.
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: dependency_walker complete.
+Mon May 16 16:25:09 2022: Launching domains v.20100116
+Mon May 16 16:25:09 2022: Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap has no subkeys.
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: domains complete.
+Mon May 16 16:25:09 2022: Launching environment v.20110204
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: environment complete.
+Mon May 16 16:25:09 2022: Launching fileexts v.20080818
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: fileexts complete.
+Mon May 16 16:25:09 2022: Launching filehistory v.20120620
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: filehistory complete.
+Mon May 16 16:25:09 2022: Launching gthist v.20100218
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: gthist complete.
+Mon May 16 16:25:09 2022: Launching gtwhitelist v.20100218
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: gtwhitelist complete.
+Mon May 16 16:25:09 2022: Launching haven_and_hearth v.20110204
+Mon May 16 16:25:09 2022: Software\JavaSoft\Prefs\haven not found.
+Mon May 16 16:25:09 2022: 0 plugins completed with errors.
+Mon May 16 16:25:09 2022: haven_and_hearth complete.
+Mon May 16 16:25:09 2022: Launching ie_settings v.20130328
+Mon May 16 16:25:10 2022: 0 plugins completed with errors.
+Mon May 16 16:25:10 2022: ie_settings complete.
+Mon May 16 16:25:10 2022: Launching internet_explorer_cu v.20120528
+Mon May 16 16:25:10 2022: Software\Microsoft\Internet Explorer\AutoComplete not found.
+Mon May 16 16:25:10 2022: Software\Microsoft\Internet Explorer\DOMStorage not found.
+Mon May 16 16:25:10 2022: Software\Microsoft\Internet Explorer\Main\WindowsSearch not found.
+Mon May 16 16:25:10 2022: Software\Microsoft\Internet Explorer\Privacy not found.
+Mon May 16 16:25:10 2022: Software\Microsoft\Internet Explorer\Recovery not found.
+Mon May 16 16:25:10 2022: 0 plugins completed with errors.
+Mon May 16 16:25:10 2022: internet_explorer_cu complete.
+Mon May 16 16:25:10 2022: Launching internet_settings_cu v.20120528
+Mon May 16 16:25:10 2022: 0 plugins completed with errors.
+Mon May 16 16:25:10 2022: internet_settings_cu complete.
+Mon May 16 16:25:10 2022: Launching javafx v.20110322
+Mon May 16 16:25:10 2022: 0 plugins completed with errors.
+Mon May 16 16:25:10 2022: javafx complete.
+Mon May 16 16:25:10 2022: Launching listsoft v.20080324
+Mon May 16 16:25:10 2022: 0 plugins completed with errors.
+Mon May 16 16:25:10 2022: listsoft complete.
+Mon May 16 16:25:10 2022: Launching liveContactsGUID v.20110221
+Mon May 16 16:25:10 2022: Software\Microsoft\Windows Live Contacts\Database not found.
+Mon May 16 16:25:10 2022: 0 plugins completed with errors.
+Mon May 16 16:25:10 2022: liveContactsGUID complete.
+Mon May 16 16:25:10 2022: Launching load v.20100811
+Mon May 16 16:25:10 2022: 0 plugins completed with errors.
+Mon May 16 16:25:10 2022: load complete.
+Mon May 16 16:25:10 2022: Error in logon_xp_run: 
+PLEASE SEE THE PERL2EXE USER MANUAL UNDER "Can't locate somemodule.pm in @INC"
+FOR AN EXPLANATION OF THE FOLLOWING MESSAGE:
+Can't locate plugins\logon_xp_run.pl in @INC (@INC contains: PERL2EXE_STORAGE Z:\usr\share\windows-resources\regripper C:\users\kali\Temp/p2xtmp-32) at Z:\usr\share\windows-resources\regripper\rr.exe line 272.
+
+Mon May 16 16:25:10 2022: 1 plugins completed with errors.
+Mon May 16 16:25:10 2022: logon_xp_run complete.
+Mon May 16 16:25:10 2022: Launching logonusername v.20080324
+Mon May 16 16:25:10 2022: 1 plugins completed with errors.
+Mon May 16 16:25:10 2022: logonusername complete.
+Mon May 16 16:25:10 2022: Launching mmc v.20080324
+Mon May 16 16:25:10 2022: Software\Microsoft\Microsoft Management Console\Recent File List not found.
+Mon May 16 16:25:10 2022: 1 plugins completed with errors.
+Mon May 16 16:25:10 2022: mmc complete.
+Mon May 16 16:25:10 2022: Launching mndmru v.20080324
+Mon May 16 16:25:10 2022: Software\Microsoft\Windows\CurrentVersion\Explorer\Map Network Drive MRU not found.
+Mon May 16 16:25:10 2022: 1 plugins completed with errors.
+Mon May 16 16:25:10 2022: mndmru complete.
+Mon May 16 16:25:10 2022: Launching mp2 v.20120330
+Mon May 16 16:25:10 2022: 1 plugins completed with errors.
+Mon May 16 16:25:10 2022: mp2 complete.
+Mon May 16 16:25:10 2022: Launching mpmru v.20080324
+Mon May 16 16:25:10 2022: Software\Microsoft\MediaPlayer\Player\RecentFileList not found.
+Mon May 16 16:25:10 2022: 1 plugins completed with errors.
+Mon May 16 16:25:10 2022: mpmru complete.
+Mon May 16 16:25:10 2022: Launching mspaper v.20080324
+Mon May 16 16:25:10 2022: SOFTWARE\Microsoft\MSPaper* not found.
+Mon May 16 16:25:10 2022: 1 plugins completed with errors.
+Mon May 16 16:25:10 2022: mspaper complete.
+Mon May 16 16:25:10 2022: Launching muicache v.20120522
+Mon May 16 16:25:10 2022: 1 plugins completed with errors.
+Mon May 16 16:25:10 2022: muicache complete.
+Mon May 16 16:25:10 2022: Launching nero v.20100218
+Mon May 16 16:25:10 2022: 1 plugins completed with errors.
+Mon May 16 16:25:10 2022: nero complete.
+Mon May 16 16:25:10 2022: Launching netassist v.20110427
+Mon May 16 16:25:10 2022: Software\Mozilla\Firefox\Extensions not found.
+Mon May 16 16:25:10 2022: Software\Microsoft\Windows\CurrentVersion\Uninstall\NetAssistant not found.
+Mon May 16 16:25:10 2022: Software\Microsoft\Installer\Products\D4676621F4CF7AF46BB388D4351B86F0 not found.
+Mon May 16 16:25:10 2022: Software\Microsoft\Installer\Products\D4676621F4CF7AF46BB388D4351B86F0\SourceList not found.
+Mon May 16 16:25:10 2022: 1 plugins completed with errors.
+Mon May 16 16:25:10 2022: netassist complete.
+Mon May 16 16:25:10 2022: Launching odysseus v.20110202
+Mon May 16 16:25:10 2022: Software\bindshell.net\Odysseus not found.
+Mon May 16 16:25:10 2022: 1 plugins completed with errors.
+Mon May 16 16:25:10 2022: odysseus complete.
+Mon May 16 16:25:10 2022: Launching officedocs v.20080324
+Mon May 16 16:25:10 2022: MSOffice version not found.
+Mon May 16 16:25:10 2022: 1 plugins completed with errors.
+Mon May 16 16:25:10 2022: officedocs complete.
+Mon May 16 16:25:10 2022: Launching officedocs2010 v.2011090
+Mon May 16 16:25:10 2022: MSOffice version not found.
+Mon May 16 16:25:10 2022: 1 plugins completed with errors.
+Mon May 16 16:25:10 2022: officedocs2010 complete.
+Mon May 16 16:25:10 2022: Launching oisc v.20091125
+Mon May 16 16:25:10 2022: 1 plugins completed with errors.
+Mon May 16 16:25:10 2022: oisc complete.
+Mon May 16 16:25:10 2022: Launching osversion v.20120601
+Mon May 16 16:25:10 2022: 1 plugins completed with errors.
+Mon May 16 16:25:10 2022: osversion complete.
+Mon May 16 16:25:11 2022: Launching outlook v.20100218
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: outlook complete.
+Mon May 16 16:25:11 2022: Launching policies_u v.20091021
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: policies_u complete.
+Mon May 16 16:25:11 2022: Launching printermru v.20091125
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: printermru complete.
+Mon May 16 16:25:11 2022: Launching printers v.20090223
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: printers complete.
+Mon May 16 16:25:11 2022: Launching privoxy v.20110204
+Mon May 16 16:25:11 2022: Software\Privoxy not found.
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: privoxy complete.
+Mon May 16 16:25:11 2022: Launching proxysettings v.20081224
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: proxysettings complete.
+Mon May 16 16:25:11 2022: Launching publishingwizard v.20110202
+Mon May 16 16:25:11 2022: Software\Microsoft\Windows\CurrentVersion\Explorer\PublishingWizard\AddNetworkPlace\AddNetPlace\LocationMRU not found.
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: publishingwizard complete.
+Mon May 16 16:25:11 2022: Launching putty v.20110204
+Mon May 16 16:25:11 2022: Software\SimonTatham\PuTTY\SshHostKeys not found.
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: putty complete.
+Mon May 16 16:25:11 2022: Launching rdphint v.20090715
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: rdphint complete.
+Mon May 16 16:25:11 2022: Launching realplayer6 v.20080324
+Mon May 16 16:25:11 2022: Software\RealNetworks\RealPlayer\6.0\Preferences not found.
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: realplayer6 complete.
+Mon May 16 16:25:11 2022: Launching realvnc v.20091125
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: realvnc complete.
+Mon May 16 16:25:11 2022: Launching recentdocs v.20100405
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: recentdocs complete.
+Mon May 16 16:25:11 2022: Launching rootkit_revealer v.20110204
+Mon May 16 16:25:11 2022: Software\Sysinternals\RootkitRevealer not found.
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: rootkit_revealer complete.
+Mon May 16 16:25:11 2022: Launching runmru v.20080324
+Mon May 16 16:25:11 2022: Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU not found.
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: runmru complete.
+Mon May 16 16:25:11 2022: Launching 7-zip v.20130315
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: sevenzip complete.
+Mon May 16 16:25:11 2022: Launching shellfolders v.20090115
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: shellfolders complete.
+Mon May 16 16:25:11 2022: Launching acmru v.20100713
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: skype complete.
+Mon May 16 16:25:11 2022: Launching snapshot_viewer v.20110210
+Mon May 16 16:25:11 2022: Software\Microsoft\Snapshot Viewer\Recent File List not found.
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: snapshot_viewer complete.
+Mon May 16 16:25:11 2022: Launching ssh_host_keys v.20120809
+
+Mon May 16 16:25:11 2022: "Software\SimonTatham\Putty\SshHostKeys" does not exist
+
+Mon May 16 16:25:11 2022: "Software\Martin Prikryl\WinSCP 2\SshHostKeys" does not exist
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: ssh_host_keys complete.
+Mon May 16 16:25:11 2022: Launching startmenuinternetapps_cu v.20101219
+Mon May 16 16:25:11 2022: Software\Clients not found. Check the same path in HKLM
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: startmenuinternetapps_cu complete.
+Mon May 16 16:25:11 2022: Launching startpage v.20100330
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: startpage complete.
+Mon May 16 16:25:11 2022: Launching streammru v.20090205
+Mon May 16 16:25:11 2022: Software\Microsoft\Windows\CurrentVersion\Explorer\StreamMRU not found.
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: streammru complete.
+Mon May 16 16:25:11 2022: Launching streams v.20081124
+Mon May 16 16:25:11 2022: Software\Microsoft\Windows\CurrentVersion\Explorer\StreamMRU not found.
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: streams complete.
+Mon May 16 16:25:11 2022: Launching sysinternals v.20080324
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: sysinternals complete.
+Mon May 16 16:25:11 2022: Launching  trustrecords v.20120716
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: trustrecords complete.
+Mon May 16 16:25:11 2022: Launching tsclient v.20120827
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: tsclient complete.
+Mon May 16 16:25:11 2022: Launching typedpaths v.20100330
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: typedpaths complete.
+Mon May 16 16:25:11 2022: Launching typedurls v.20080324
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: typedurls complete.
+Mon May 16 16:25:11 2022: Launching typedurlstime v.20120613
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: typedurlstime complete.
+Mon May 16 16:25:11 2022: Launching unreadmail v.20100218
+Mon May 16 16:25:11 2022: 1 plugins completed with errors.
+Mon May 16 16:25:11 2022: unreadmail complete.
+Mon May 16 16:25:11 2022: Launching user_run v.20130329
+Mon May 16 16:25:12 2022: 1 plugins completed with errors.
+Mon May 16 16:25:12 2022: user_run complete.
+Mon May 16 16:25:12 2022: Launching user_win v.20080415
+Mon May 16 16:25:12 2022: 1 plugins completed with errors.
+Mon May 16 16:25:12 2022: user_win complete.
+Mon May 16 16:25:12 2022: Launching userassist2 v.20100308
+Mon May 16 16:25:12 2022: 1 plugins completed with errors.
+Mon May 16 16:25:12 2022: userassist complete.
+Mon May 16 16:25:12 2022: Launching userinfo v.20110609
+Mon May 16 16:25:12 2022: 1 plugins completed with errors.
+Mon May 16 16:25:12 2022: userinfo complete.
+Mon May 16 16:25:12 2022: Launching userlocsvc v.20090411
+Mon May 16 16:25:12 2022: 1 plugins completed with errors.
+Mon May 16 16:25:12 2022: userlocsvc complete.
+Mon May 16 16:25:12 2022: Launching vista_bitbucket v.20080420
+Mon May 16 16:25:12 2022: 1 plugins completed with errors.
+Mon May 16 16:25:12 2022: vista_bitbucket complete.
+Mon May 16 16:25:12 2022: Launching vmplayer v.20110204
+Mon May 16 16:25:12 2022: Software\VMware, Inc.\VMware Player\VMplayer\Window position not found.
+Mon May 16 16:25:12 2022: 1 plugins completed with errors.
+Mon May 16 16:25:12 2022: vmplayer complete.
+Mon May 16 16:25:12 2022: Launching vmware_vsphere_client v.20110204
+Mon May 16 16:25:12 2022: Software\VMware\Virtual Infrastructure Client\Preferences\UI\ClientsXml not found.
+Mon May 16 16:25:12 2022: Software\VMware\VMware Infrastructure Client\Preferences not found.
+Mon May 16 16:25:12 2022: 1 plugins completed with errors.
+Mon May 16 16:25:12 2022: vmware_vsphere_client complete.
+Mon May 16 16:25:12 2022: Launching vnchookapplicationprefs v.20110208
+Mon May 16 16:25:12 2022: Software\ORL\VNCHooks\Application_Prefs not found.
+Mon May 16 16:25:12 2022: 1 plugins completed with errors.
+Mon May 16 16:25:12 2022: vnchooksapplicationprefs complete.
+Mon May 16 16:25:12 2022: Launching vncviewer v.20121231
+Mon May 16 16:25:12 2022: 1 plugins completed with errors.
+Mon May 16 16:25:12 2022: vncviewer complete.
+Mon May 16 16:25:12 2022: Launching wallpaper v.200800810
+Mon May 16 16:25:12 2022: Software\Microsoft\Windows\CurrentVersion\Explorer\Wallpaper\MRU not found.
+Mon May 16 16:25:12 2022: 1 plugins completed with errors.
+Mon May 16 16:25:12 2022: wallpaper complete.
+Mon May 16 16:25:12 2022: Launching warcraft3 v.20110202
+Mon May 16 16:25:12 2022: Software\Blizzard Entertainment\Warcraft III\String not found.
+Mon May 16 16:25:12 2022: 1 plugins completed with errors.
+Mon May 16 16:25:12 2022: warcraft3 complete.
+Mon May 16 16:25:12 2022: Launching winlivemail v.20111118
+Mon May 16 16:25:12 2022: Software\Microsoft\Windows Live Mail not found.
+Mon May 16 16:25:12 2022: 1 plugins completed with errors.
+Mon May 16 16:25:12 2022: winlivemail complete.
+Mon May 16 16:25:12 2022: Error in winlivemsn: 
+PLEASE SEE THE PERL2EXE USER MANUAL UNDER "Can't locate somemodule.pm in @INC"
+FOR AN EXPLANATION OF THE FOLLOWING MESSAGE:
+Can't locate MIME/Base64.pm in @INC (@INC contains: PERL2EXE_STORAGE Z:\usr\share\windows-resources\regripper C:\users\kali\Temp/p2xtmp-32) at Z:\usr\share\windows-resources\regripper/plugins\winlivemsn.pl line 24.
+BEGIN failed--compilation aborted at Z:\usr\share\windows-resources\regripper/plugins\winlivemsn.pl line 24.
+Compilation failed in require at Z:\usr\share\windows-resources\regripper\rr.exe line 272.
+
+Mon May 16 16:25:12 2022: 2 plugins completed with errors.
+Mon May 16 16:25:12 2022: winlivemsn complete.
+Mon May 16 16:25:12 2022: Launching winlogon_u v.20130328
+Mon May 16 16:25:12 2022: 2 plugins completed with errors.
+Mon May 16 16:25:12 2022: winlogon_u complete.
+Mon May 16 16:25:12 2022: Launching winrar v.20080819
+Mon May 16 16:25:12 2022: Software\WinRAR\ArcHistory not found.
+Mon May 16 16:25:12 2022: 2 plugins completed with errors.
+Mon May 16 16:25:12 2022: winrar complete.
+Mon May 16 16:25:12 2022: Launching winscp_sessions v.20120809
+
+Mon May 16 16:25:12 2022: "Software\Martin Prikryl\WinSCP 2\Sessions" does not exist
+Mon May 16 16:25:12 2022: 2 plugins completed with errors.
+Mon May 16 16:25:12 2022: winscp_sessions complete.
+Mon May 16 16:25:12 2022: Launching winvnc v.20110202
+Mon May 16 16:25:12 2022: Software\ORL\WinVNC3 not found.
+Mon May 16 16:25:12 2022: Software\ORL\WinVNC3\Default not found.
+Mon May 16 16:25:12 2022: Software\ORL\WinVNC\Default not found.
+Mon May 16 16:25:12 2022: Software\RealVNC\WinVNC4 not found.
+Mon May 16 16:25:12 2022: Software\RealVNC\Default not found.
+Mon May 16 16:25:12 2022: 2 plugins completed with errors.
+Mon May 16 16:25:12 2022: winvnc complete.
+Mon May 16 16:25:12 2022: Launching WinZip v.20080325
+Mon May 16 16:25:12 2022: Software\Nico Mak Computing\WinZip not found.
+Mon May 16 16:25:12 2022: 2 plugins completed with errors.
+Mon May 16 16:25:12 2022: winzip complete.
+Mon May 16 16:25:12 2022: Launching wordwheelquery v.20100330
+Mon May 16 16:25:12 2022: 2 plugins completed with errors.
+Mon May 16 16:25:12 2022: wordwheelquery complete.
+Mon May 16 16:25:12 2022: Launching yahoo_cu v.20101219
+Mon May 16 16:25:12 2022: Software\Yahoo\pager not found.
+Mon May 16 16:25:12 2022: 2 plugins completed with errors.
+Mon May 16 16:25:12 2022: yahoo_cu complete.

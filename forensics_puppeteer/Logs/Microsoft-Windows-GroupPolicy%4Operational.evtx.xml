@@ -1,0 +1,2921 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4116</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:43.919926"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="412" ThreadID="1348"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4115</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:43.925671"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="412" ThreadID="1348"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsServiceRestart">False</Data>
+<Data Name="IsMachineBoot">True</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5116</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:43.929794"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="412" ThreadID="1444"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="GpsvcInitTimeElapsedInMilliseconds">15</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:43.971504"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="412" ThreadID="1444"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4168</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:43.971567"></TimeCreated>
+<EventRecordID>5</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="412" ThreadID="1444"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4160</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:43.971567"></TimeCreated>
+<EventRecordID>6</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="412" ThreadID="1444"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4166</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5321</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:43.971792"></TimeCreated>
+<EventRecordID>7</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="412" ThreadID="1444"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4167</Data>
+<Data Name="OperationParameter1">b49aa7cb-02b9-4989-8506-0baf3e403826</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4116</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:56.364367"></TimeCreated>
+<EventRecordID>8</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="2224"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4115</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:56.369829"></TimeCreated>
+<EventRecordID>9</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="2224"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsServiceRestart">False</Data>
+<Data Name="IsMachineBoot">True</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5116</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:56.384029"></TimeCreated>
+<EventRecordID>10</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="2248"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="GpsvcInitTimeElapsedInMilliseconds">15</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:56.425026"></TimeCreated>
+<EventRecordID>11</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="2248"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4168</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:56.430662"></TimeCreated>
+<EventRecordID>12</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="2248"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4160</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:56.430664"></TimeCreated>
+<EventRecordID>13</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="2248"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4166</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5321</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:56.430864"></TimeCreated>
+<EventRecordID>14</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="2248"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4167</Data>
+<Data Name="OperationParameter1">d787ed7d-2574-4bdb-bdf9-c46f6035f17c</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5324</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:03.963646"></TimeCreated>
+<EventRecordID>15</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="2248"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="NotificationType">0</Data>
+<Data Name="SessionId">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4117</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:03.964279"></TimeCreated>
+<EventRecordID>16</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4600"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">True</Data>
+<Data Name="IsBackgroundProcessing">False</Data>
+<Data Name="IsAsyncProcessing">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4000</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:03.966232"></TimeCreated>
+<EventRecordID>17</EventRecordID>
+<Correlation ActivityID="{a0db6d9f-e307-4f1d-9bf2-f62c8a903799}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4600"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PolicyActivityId">{a0db6d9f-e307-4f1d-9bf2-f62c8a903799}</Data>
+<Data Name="PrincipalSamName">WORKGROUP\WIN-GE1PLB8KFNS$</Data>
+<Data Name="IsMachine">1</Data>
+<Data Name="IsDomainJoined">False</Data>
+<Data Name="IsBackgroundProcessing">False</Data>
+<Data Name="IsAsyncProcessing">False</Data>
+<Data Name="IsServiceRestart">False</Data>
+<Data Name="ReasonForSyncProcessing">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5340</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:03.966619"></TimeCreated>
+<EventRecordID>18</EventRecordID>
+<Correlation ActivityID="{a0db6d9f-e307-4f1d-9bf2-f62c8a903799}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4600"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PolicyApplicationMode">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5311</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:03.971193"></TimeCreated>
+<EventRecordID>19</EventRecordID>
+<Correlation ActivityID="{a0db6d9f-e307-4f1d-9bf2-f62c8a903799}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4600"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PolicyProcessingMode">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4126</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:03.971197"></TimeCreated>
+<EventRecordID>20</EventRecordID>
+<Correlation ActivityID="{a0db6d9f-e307-4f1d-9bf2-f62c8a903799}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4600"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">True</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5257</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:03.971210"></TimeCreated>
+<EventRecordID>21</EventRecordID>
+<Correlation ActivityID="{a0db6d9f-e307-4f1d-9bf2-f62c8a903799}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4600"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">True</Data>
+<Data Name="PolicyDownloadTimeElapsedInMilliseconds">21484</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5126</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:03.971472"></TimeCreated>
+<EventRecordID>22</EventRecordID>
+<Correlation ActivityID="{a0db6d9f-e307-4f1d-9bf2-f62c8a903799}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4600"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">True</Data>
+<Data Name="IsBackgroundProcessing">False</Data>
+<Data Name="IsAsyncProcessing">False</Data>
+<Data Name="NumberOfGPOsDownloaded">0</Data>
+<Data Name="NumberOfGPOsApplicable">0</Data>
+<Data Name="GPODownloadTimeElapsedInMilliseconds">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5312</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:03.971479"></TimeCreated>
+<EventRecordID>23</EventRecordID>
+<Correlation ActivityID="{a0db6d9f-e307-4f1d-9bf2-f62c8a903799}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4600"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DescriptionString">None</Data>
+<Data Name="GPOInfoList"></Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5313</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:03.971489"></TimeCreated>
+<EventRecordID>24</EventRecordID>
+<Correlation ActivityID="{a0db6d9f-e307-4f1d-9bf2-f62c8a903799}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4600"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DescriptionString">Local Group Policy
+	Not Applied (Empty)
+</Data>
+<Data Name="GPOInfoList">&lt;GPO ID="Local Group Policy"&gt;&lt;Name&gt;Local Group Policy&lt;/Name&gt;&lt;Version&gt;0&lt;/Version&gt;&lt;SOM&gt;Local&lt;/SOM&gt;&lt;FSPath&gt;C:\WINDOWS\System32\GroupPolicy\Machine&lt;/FSPath&gt;&lt;Reason&gt;NOTAPPLIED-EMPTY&lt;/Reason&gt;&lt;/GPO&gt;</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:04.000847"></TimeCreated>
+<EventRecordID>25</EventRecordID>
+<Correlation ActivityID="{a0db6d9f-e307-4f1d-9bf2-f62c8a903799}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4600"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4161</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:04.000938"></TimeCreated>
+<EventRecordID>26</EventRecordID>
+<Correlation ActivityID="{a0db6d9f-e307-4f1d-9bf2-f62c8a903799}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4600"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4163</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:04.000940"></TimeCreated>
+<EventRecordID>27</EventRecordID>
+<Correlation ActivityID="{a0db6d9f-e307-4f1d-9bf2-f62c8a903799}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4600"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4165</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">8000</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:04.029066"></TimeCreated>
+<EventRecordID>28</EventRecordID>
+<Correlation ActivityID="{a0db6d9f-e307-4f1d-9bf2-f62c8a903799}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4600"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PolicyElaspedTimeInSeconds">0</Data>
+<Data Name="ErrorCode">0</Data>
+<Data Name="PrincipalSamName">WORKGROUP\WIN-GE1PLB8KFNS$</Data>
+<Data Name="IsMachine">1</Data>
+<Data Name="IsConnectivityFailure">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5117</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:04.029181"></TimeCreated>
+<EventRecordID>29</EventRecordID>
+<Correlation ActivityID="{a0db6d9f-e307-4f1d-9bf2-f62c8a903799}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4600"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">True</Data>
+<Data Name="SessionTimeElapsedInMilliseconds">63</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">6338</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:04.029198"></TimeCreated>
+<EventRecordID>30</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="2248"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5351</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:04.029203"></TimeCreated>
+<EventRecordID>31</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="2248"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">True</Data>
+<Data Name="WinlogonReturnTimeElapsedInMilliseconds">63</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5324</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:05.525887"></TimeCreated>
+<EventRecordID>32</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="2248"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="NotificationType">1</Data>
+<Data Name="SessionId">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4117</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:05.527164"></TimeCreated>
+<EventRecordID>33</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4972"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">False</Data>
+<Data Name="IsBackgroundProcessing">False</Data>
+<Data Name="IsAsyncProcessing">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4001</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:05.527899"></TimeCreated>
+<EventRecordID>34</EventRecordID>
+<Correlation ActivityID="{daf4e50c-8aa6-498b-bd79-52b49ce43407}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4972"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PolicyActivityId">{daf4e50c-8aa6-498b-bd79-52b49ce43407}</Data>
+<Data Name="PrincipalSamName">DESKTOP-DBOP9M0\defaultuser0</Data>
+<Data Name="IsMachine">0</Data>
+<Data Name="IsDomainJoined">False</Data>
+<Data Name="IsBackgroundProcessing">False</Data>
+<Data Name="IsAsyncProcessing">False</Data>
+<Data Name="IsServiceRestart">False</Data>
+<Data Name="ReasonForSyncProcessing">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5340</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:05.527952"></TimeCreated>
+<EventRecordID>35</EventRecordID>
+<Correlation ActivityID="{daf4e50c-8aa6-498b-bd79-52b49ce43407}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4972"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PolicyApplicationMode">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5311</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:05.530340"></TimeCreated>
+<EventRecordID>36</EventRecordID>
+<Correlation ActivityID="{daf4e50c-8aa6-498b-bd79-52b49ce43407}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4972"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="PolicyProcessingMode">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4126</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:05.530342"></TimeCreated>
+<EventRecordID>37</EventRecordID>
+<Correlation ActivityID="{daf4e50c-8aa6-498b-bd79-52b49ce43407}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4972"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="IsMachine">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5257</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:05.530355"></TimeCreated>
+<EventRecordID>38</EventRecordID>
+<Correlation ActivityID="{daf4e50c-8aa6-498b-bd79-52b49ce43407}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4972"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="IsMachine">False</Data>
+<Data Name="PolicyDownloadTimeElapsedInMilliseconds">23046</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5126</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:05.530914"></TimeCreated>
+<EventRecordID>39</EventRecordID>
+<Correlation ActivityID="{daf4e50c-8aa6-498b-bd79-52b49ce43407}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4972"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="IsMachine">True</Data>
+<Data Name="IsBackgroundProcessing">False</Data>
+<Data Name="IsAsyncProcessing">False</Data>
+<Data Name="NumberOfGPOsDownloaded">0</Data>
+<Data Name="NumberOfGPOsApplicable">0</Data>
+<Data Name="GPODownloadTimeElapsedInMilliseconds">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5312</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:05.530928"></TimeCreated>
+<EventRecordID>40</EventRecordID>
+<Correlation ActivityID="{daf4e50c-8aa6-498b-bd79-52b49ce43407}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4972"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DescriptionString">None</Data>
+<Data Name="GPOInfoList"></Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5313</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:05.530937"></TimeCreated>
+<EventRecordID>41</EventRecordID>
+<Correlation ActivityID="{daf4e50c-8aa6-498b-bd79-52b49ce43407}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4972"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DescriptionString">Local Group Policy
+	Not Applied (Empty)
+</Data>
+<Data Name="GPOInfoList">&lt;GPO ID="Local Group Policy"&gt;&lt;Name&gt;Local Group Policy&lt;/Name&gt;&lt;Version&gt;0&lt;/Version&gt;&lt;SOM&gt;Local&lt;/SOM&gt;&lt;FSPath&gt;C:\WINDOWS\System32\GroupPolicy\User&lt;/FSPath&gt;&lt;Reason&gt;NOTAPPLIED-EMPTY&lt;/Reason&gt;&lt;/GPO&gt;</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.411842"></TimeCreated>
+<EventRecordID>42</EventRecordID>
+<Correlation ActivityID="{daf4e50c-8aa6-498b-bd79-52b49ce43407}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4972"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4161</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.411949"></TimeCreated>
+<EventRecordID>43</EventRecordID>
+<Correlation ActivityID="{daf4e50c-8aa6-498b-bd79-52b49ce43407}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4972"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4163</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.411951"></TimeCreated>
+<EventRecordID>44</EventRecordID>
+<Correlation ActivityID="{daf4e50c-8aa6-498b-bd79-52b49ce43407}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4972"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4165</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">8001</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.435715"></TimeCreated>
+<EventRecordID>45</EventRecordID>
+<Correlation ActivityID="{daf4e50c-8aa6-498b-bd79-52b49ce43407}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4972"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PolicyElaspedTimeInSeconds">0</Data>
+<Data Name="ErrorCode">0</Data>
+<Data Name="PrincipalSamName">DESKTOP-DBOP9M0\defaultuser0</Data>
+<Data Name="IsMachine">0</Data>
+<Data Name="IsConnectivityFailure">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5117</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.435839"></TimeCreated>
+<EventRecordID>46</EventRecordID>
+<Correlation ActivityID="{daf4e50c-8aa6-498b-bd79-52b49ce43407}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4972"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">False</Data>
+<Data Name="SessionTimeElapsedInMilliseconds">922</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">6338</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.435848"></TimeCreated>
+<EventRecordID>47</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="2248"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5351</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.435856"></TimeCreated>
+<EventRecordID>48</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="2248"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">False</Data>
+<Data Name="WinlogonReturnTimeElapsedInMilliseconds">922</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5324</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.530363"></TimeCreated>
+<EventRecordID>49</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="2248"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="NotificationType">3</Data>
+<Data Name="SessionId">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">6339</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.530533"></TimeCreated>
+<EventRecordID>50</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="2248"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5324</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:55.984720"></TimeCreated>
+<EventRecordID>51</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4596"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="NotificationType">4</Data>
+<Data Name="SessionId">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5324</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:56.618464"></TimeCreated>
+<EventRecordID>52</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="4596"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="NotificationType">2</Data>
+<Data Name="SessionId">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5325</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:56.703020"></TimeCreated>
+<EventRecordID>53</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="2164"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="NotificationType">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5115</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:56.703279"></TimeCreated>
+<EventRecordID>54</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2160" ThreadID="5040"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsServiceRestart">False</Data>
+<Data Name="IsMachineBoot">True</Data>
+<Data Name="GpsvcTimeElapsedInMilliseconds">121218</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4116</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:10.725248"></TimeCreated>
+<EventRecordID>55</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1164"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4115</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:10.729385"></TimeCreated>
+<EventRecordID>56</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1164"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsServiceRestart">False</Data>
+<Data Name="IsMachineBoot">True</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5324</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:10.733065"></TimeCreated>
+<EventRecordID>57</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1216"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="NotificationType">0</Data>
+<Data Name="SessionId">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5351</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:10.733112"></TimeCreated>
+<EventRecordID>58</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1216"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">False</Data>
+<Data Name="WinlogonReturnTimeElapsedInMilliseconds">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4117</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:10.735542"></TimeCreated>
+<EventRecordID>59</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1220"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">True</Data>
+<Data Name="IsBackgroundProcessing">False</Data>
+<Data Name="IsAsyncProcessing">True</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5116</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:10.736305"></TimeCreated>
+<EventRecordID>60</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1208"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="GpsvcInitTimeElapsedInMilliseconds">16</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:10.772459"></TimeCreated>
+<EventRecordID>61</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1208"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4168</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:10.772661"></TimeCreated>
+<EventRecordID>62</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1208"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4160</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:10.772661"></TimeCreated>
+<EventRecordID>63</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1208"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4166</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5321</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:10.772871"></TimeCreated>
+<EventRecordID>64</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1208"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4167</Data>
+<Data Name="OperationParameter1">53189007-ebd5-4183-82c7-9cb4708e68fe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4000</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.313354"></TimeCreated>
+<EventRecordID>65</EventRecordID>
+<Correlation ActivityID="{bf129311-f6ba-4ddd-90e3-88c70c4f8fe1}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1220"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PolicyActivityId">{bf129311-f6ba-4ddd-90e3-88c70c4f8fe1}</Data>
+<Data Name="PrincipalSamName">WORKGROUP\COUNCIL-HQ$</Data>
+<Data Name="IsMachine">1</Data>
+<Data Name="IsDomainJoined">False</Data>
+<Data Name="IsBackgroundProcessing">False</Data>
+<Data Name="IsAsyncProcessing">True</Data>
+<Data Name="IsServiceRestart">False</Data>
+<Data Name="ReasonForSyncProcessing">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5340</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.313540"></TimeCreated>
+<EventRecordID>66</EventRecordID>
+<Correlation ActivityID="{bf129311-f6ba-4ddd-90e3-88c70c4f8fe1}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1220"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PolicyApplicationMode">2</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5311</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.318972"></TimeCreated>
+<EventRecordID>67</EventRecordID>
+<Correlation ActivityID="{bf129311-f6ba-4ddd-90e3-88c70c4f8fe1}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1220"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PolicyProcessingMode">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4126</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.318975"></TimeCreated>
+<EventRecordID>68</EventRecordID>
+<Correlation ActivityID="{bf129311-f6ba-4ddd-90e3-88c70c4f8fe1}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1220"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">True</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5257</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.318987"></TimeCreated>
+<EventRecordID>69</EventRecordID>
+<Correlation ActivityID="{bf129311-f6ba-4ddd-90e3-88c70c4f8fe1}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1220"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">True</Data>
+<Data Name="PolicyDownloadTimeElapsedInMilliseconds">5953</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5126</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.319668"></TimeCreated>
+<EventRecordID>70</EventRecordID>
+<Correlation ActivityID="{bf129311-f6ba-4ddd-90e3-88c70c4f8fe1}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1220"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">True</Data>
+<Data Name="IsBackgroundProcessing">True</Data>
+<Data Name="IsAsyncProcessing">True</Data>
+<Data Name="NumberOfGPOsDownloaded">0</Data>
+<Data Name="NumberOfGPOsApplicable">0</Data>
+<Data Name="GPODownloadTimeElapsedInMilliseconds">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5312</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.319683"></TimeCreated>
+<EventRecordID>71</EventRecordID>
+<Correlation ActivityID="{bf129311-f6ba-4ddd-90e3-88c70c4f8fe1}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1220"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DescriptionString">None</Data>
+<Data Name="GPOInfoList"></Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5313</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.319695"></TimeCreated>
+<EventRecordID>72</EventRecordID>
+<Correlation ActivityID="{bf129311-f6ba-4ddd-90e3-88c70c4f8fe1}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1220"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DescriptionString">Local Group Policy
+	Not Applied (Empty)
+</Data>
+<Data Name="GPOInfoList">&lt;GPO ID="Local Group Policy"&gt;&lt;Name&gt;Local Group Policy&lt;/Name&gt;&lt;Version&gt;0&lt;/Version&gt;&lt;SOM&gt;Local&lt;/SOM&gt;&lt;FSPath&gt;C:\WINDOWS\System32\GroupPolicy\Machine&lt;/FSPath&gt;&lt;Reason&gt;NOTAPPLIED-EMPTY&lt;/Reason&gt;&lt;/GPO&gt;</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.320711"></TimeCreated>
+<EventRecordID>73</EventRecordID>
+<Correlation ActivityID="{bf129311-f6ba-4ddd-90e3-88c70c4f8fe1}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1220"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4161</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.320807"></TimeCreated>
+<EventRecordID>74</EventRecordID>
+<Correlation ActivityID="{bf129311-f6ba-4ddd-90e3-88c70c4f8fe1}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1220"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4163</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.320807"></TimeCreated>
+<EventRecordID>75</EventRecordID>
+<Correlation ActivityID="{bf129311-f6ba-4ddd-90e3-88c70c4f8fe1}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1220"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4165</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">8000</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.322775"></TimeCreated>
+<EventRecordID>76</EventRecordID>
+<Correlation ActivityID="{bf129311-f6ba-4ddd-90e3-88c70c4f8fe1}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1220"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PolicyElaspedTimeInSeconds">0</Data>
+<Data Name="ErrorCode">0</Data>
+<Data Name="PrincipalSamName">WORKGROUP\COUNCIL-HQ$</Data>
+<Data Name="IsMachine">1</Data>
+<Data Name="IsConnectivityFailure">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5117</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.322889"></TimeCreated>
+<EventRecordID>77</EventRecordID>
+<Correlation ActivityID="{bf129311-f6ba-4ddd-90e3-88c70c4f8fe1}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1220"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">True</Data>
+<Data Name="SessionTimeElapsedInMilliseconds">578</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5324</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.321428"></TimeCreated>
+<EventRecordID>78</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1208"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="NotificationType">1</Data>
+<Data Name="SessionId">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5351</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.322262"></TimeCreated>
+<EventRecordID>79</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1208"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">True</Data>
+<Data Name="WinlogonReturnTimeElapsedInMilliseconds">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4117</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.322803"></TimeCreated>
+<EventRecordID>80</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3636"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">False</Data>
+<Data Name="IsBackgroundProcessing">False</Data>
+<Data Name="IsAsyncProcessing">True</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4001</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.323349"></TimeCreated>
+<EventRecordID>81</EventRecordID>
+<Correlation ActivityID="{e8544d7a-3cae-4253-a54d-7d85475c7215}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3636"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PolicyActivityId">{e8544d7a-3cae-4253-a54d-7d85475c7215}</Data>
+<Data Name="PrincipalSamName">Council-HQ\defaultuser0</Data>
+<Data Name="IsMachine">0</Data>
+<Data Name="IsDomainJoined">False</Data>
+<Data Name="IsBackgroundProcessing">False</Data>
+<Data Name="IsAsyncProcessing">True</Data>
+<Data Name="IsServiceRestart">False</Data>
+<Data Name="ReasonForSyncProcessing">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5340</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.323479"></TimeCreated>
+<EventRecordID>82</EventRecordID>
+<Correlation ActivityID="{e8544d7a-3cae-4253-a54d-7d85475c7215}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3636"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PolicyApplicationMode">2</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5311</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.326103"></TimeCreated>
+<EventRecordID>83</EventRecordID>
+<Correlation ActivityID="{e8544d7a-3cae-4253-a54d-7d85475c7215}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3636"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="PolicyProcessingMode">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4126</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.326105"></TimeCreated>
+<EventRecordID>84</EventRecordID>
+<Correlation ActivityID="{e8544d7a-3cae-4253-a54d-7d85475c7215}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3636"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="IsMachine">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5257</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.326117"></TimeCreated>
+<EventRecordID>85</EventRecordID>
+<Correlation ActivityID="{e8544d7a-3cae-4253-a54d-7d85475c7215}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3636"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="IsMachine">False</Data>
+<Data Name="PolicyDownloadTimeElapsedInMilliseconds">8968</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5126</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.326611"></TimeCreated>
+<EventRecordID>86</EventRecordID>
+<Correlation ActivityID="{e8544d7a-3cae-4253-a54d-7d85475c7215}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3636"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="IsMachine">True</Data>
+<Data Name="IsBackgroundProcessing">True</Data>
+<Data Name="IsAsyncProcessing">True</Data>
+<Data Name="NumberOfGPOsDownloaded">0</Data>
+<Data Name="NumberOfGPOsApplicable">0</Data>
+<Data Name="GPODownloadTimeElapsedInMilliseconds">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5312</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.326624"></TimeCreated>
+<EventRecordID>87</EventRecordID>
+<Correlation ActivityID="{e8544d7a-3cae-4253-a54d-7d85475c7215}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3636"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DescriptionString">None</Data>
+<Data Name="GPOInfoList"></Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5313</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.326637"></TimeCreated>
+<EventRecordID>88</EventRecordID>
+<Correlation ActivityID="{e8544d7a-3cae-4253-a54d-7d85475c7215}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3636"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DescriptionString">Local Group Policy
+	Not Applied (Empty)
+</Data>
+<Data Name="GPOInfoList">&lt;GPO ID="Local Group Policy"&gt;&lt;Name&gt;Local Group Policy&lt;/Name&gt;&lt;Version&gt;0&lt;/Version&gt;&lt;SOM&gt;Local&lt;/SOM&gt;&lt;FSPath&gt;C:\WINDOWS\System32\GroupPolicy\User&lt;/FSPath&gt;&lt;Reason&gt;NOTAPPLIED-EMPTY&lt;/Reason&gt;&lt;/GPO&gt;</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.327707"></TimeCreated>
+<EventRecordID>89</EventRecordID>
+<Correlation ActivityID="{e8544d7a-3cae-4253-a54d-7d85475c7215}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3636"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4161</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.327810"></TimeCreated>
+<EventRecordID>90</EventRecordID>
+<Correlation ActivityID="{e8544d7a-3cae-4253-a54d-7d85475c7215}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3636"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4163</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.327812"></TimeCreated>
+<EventRecordID>91</EventRecordID>
+<Correlation ActivityID="{e8544d7a-3cae-4253-a54d-7d85475c7215}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3636"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4165</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">8001</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.331520"></TimeCreated>
+<EventRecordID>92</EventRecordID>
+<Correlation ActivityID="{e8544d7a-3cae-4253-a54d-7d85475c7215}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3636"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PolicyElaspedTimeInSeconds">0</Data>
+<Data Name="ErrorCode">0</Data>
+<Data Name="PrincipalSamName">Council-HQ\defaultuser0</Data>
+<Data Name="IsMachine">0</Data>
+<Data Name="IsConnectivityFailure">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5117</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.331581"></TimeCreated>
+<EventRecordID>93</EventRecordID>
+<Correlation ActivityID="{e8544d7a-3cae-4253-a54d-7d85475c7215}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3636"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">False</Data>
+<Data Name="SessionTimeElapsedInMilliseconds">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5324</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.407104"></TimeCreated>
+<EventRecordID>94</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1208"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="NotificationType">3</Data>
+<Data Name="SessionId">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">6339</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.407274"></TimeCreated>
+<EventRecordID>95</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1208"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5324</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:34.372410"></TimeCreated>
+<EventRecordID>96</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1208"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="NotificationType">4</Data>
+<Data Name="SessionId">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5324</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:35.015450"></TimeCreated>
+<EventRecordID>97</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1208"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="NotificationType">2</Data>
+<Data Name="SessionId">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5324</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:35.569622"></TimeCreated>
+<EventRecordID>98</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1208"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="NotificationType">1</Data>
+<Data Name="SessionId">2</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4117</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:35.571579"></TimeCreated>
+<EventRecordID>99</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3236"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">False</Data>
+<Data Name="IsBackgroundProcessing">False</Data>
+<Data Name="IsAsyncProcessing">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4001</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:35.572737"></TimeCreated>
+<EventRecordID>100</EventRecordID>
+<Correlation ActivityID="{6c3b4b4d-123b-424f-afe3-d3073db5cdf6}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3236"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PolicyActivityId">{6c3b4b4d-123b-424f-afe3-d3073db5cdf6}</Data>
+<Data Name="PrincipalSamName">Council-HQ\Council Leader</Data>
+<Data Name="IsMachine">0</Data>
+<Data Name="IsDomainJoined">False</Data>
+<Data Name="IsBackgroundProcessing">False</Data>
+<Data Name="IsAsyncProcessing">False</Data>
+<Data Name="IsServiceRestart">False</Data>
+<Data Name="ReasonForSyncProcessing">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5340</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:35.573193"></TimeCreated>
+<EventRecordID>101</EventRecordID>
+<Correlation ActivityID="{6c3b4b4d-123b-424f-afe3-d3073db5cdf6}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3236"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PolicyApplicationMode">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5311</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:35.576141"></TimeCreated>
+<EventRecordID>102</EventRecordID>
+<Correlation ActivityID="{6c3b4b4d-123b-424f-afe3-d3073db5cdf6}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3236"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="PolicyProcessingMode">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4126</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:35.576145"></TimeCreated>
+<EventRecordID>103</EventRecordID>
+<Correlation ActivityID="{6c3b4b4d-123b-424f-afe3-d3073db5cdf6}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3236"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="IsMachine">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5257</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:35.576157"></TimeCreated>
+<EventRecordID>104</EventRecordID>
+<Correlation ActivityID="{6c3b4b4d-123b-424f-afe3-d3073db5cdf6}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3236"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="IsMachine">False</Data>
+<Data Name="PolicyDownloadTimeElapsedInMilliseconds">90203</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5126</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:35.576855"></TimeCreated>
+<EventRecordID>105</EventRecordID>
+<Correlation ActivityID="{6c3b4b4d-123b-424f-afe3-d3073db5cdf6}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3236"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="IsMachine">True</Data>
+<Data Name="IsBackgroundProcessing">False</Data>
+<Data Name="IsAsyncProcessing">False</Data>
+<Data Name="NumberOfGPOsDownloaded">0</Data>
+<Data Name="NumberOfGPOsApplicable">0</Data>
+<Data Name="GPODownloadTimeElapsedInMilliseconds">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5312</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:35.576868"></TimeCreated>
+<EventRecordID>106</EventRecordID>
+<Correlation ActivityID="{6c3b4b4d-123b-424f-afe3-d3073db5cdf6}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3236"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DescriptionString">None</Data>
+<Data Name="GPOInfoList"></Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5313</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:35.576876"></TimeCreated>
+<EventRecordID>107</EventRecordID>
+<Correlation ActivityID="{6c3b4b4d-123b-424f-afe3-d3073db5cdf6}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3236"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DescriptionString">Local Group Policy
+	Not Applied (Empty)
+</Data>
+<Data Name="GPOInfoList">&lt;GPO ID="Local Group Policy"&gt;&lt;Name&gt;Local Group Policy&lt;/Name&gt;&lt;Version&gt;0&lt;/Version&gt;&lt;SOM&gt;Local&lt;/SOM&gt;&lt;FSPath&gt;C:\WINDOWS\System32\GroupPolicy\User&lt;/FSPath&gt;&lt;Reason&gt;NOTAPPLIED-EMPTY&lt;/Reason&gt;&lt;/GPO&gt;</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:36.457998"></TimeCreated>
+<EventRecordID>108</EventRecordID>
+<Correlation ActivityID="{6c3b4b4d-123b-424f-afe3-d3073db5cdf6}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3236"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4161</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:36.458113"></TimeCreated>
+<EventRecordID>109</EventRecordID>
+<Correlation ActivityID="{6c3b4b4d-123b-424f-afe3-d3073db5cdf6}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3236"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4163</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:36.458113"></TimeCreated>
+<EventRecordID>110</EventRecordID>
+<Correlation ActivityID="{6c3b4b4d-123b-424f-afe3-d3073db5cdf6}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3236"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4165</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">8001</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:36.492254"></TimeCreated>
+<EventRecordID>111</EventRecordID>
+<Correlation ActivityID="{6c3b4b4d-123b-424f-afe3-d3073db5cdf6}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3236"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PolicyElaspedTimeInSeconds">0</Data>
+<Data Name="ErrorCode">0</Data>
+<Data Name="PrincipalSamName">Council-HQ\Council Leader</Data>
+<Data Name="IsMachine">0</Data>
+<Data Name="IsConnectivityFailure">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5117</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:36.492315"></TimeCreated>
+<EventRecordID>112</EventRecordID>
+<Correlation ActivityID="{6c3b4b4d-123b-424f-afe3-d3073db5cdf6}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="3236"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">False</Data>
+<Data Name="SessionTimeElapsedInMilliseconds">922</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">6338</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:36.492331"></TimeCreated>
+<EventRecordID>113</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1208"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5351</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:36.492334"></TimeCreated>
+<EventRecordID>114</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1208"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">False</Data>
+<Data Name="WinlogonReturnTimeElapsedInMilliseconds">922</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5324</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:36.557274"></TimeCreated>
+<EventRecordID>115</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1208"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="NotificationType">3</Data>
+<Data Name="SessionId">2</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">6339</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:36.557444"></TimeCreated>
+<EventRecordID>116</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1076" ThreadID="1208"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4116</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:06.484447"></TimeCreated>
+<EventRecordID>117</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1844" ThreadID="2504"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4115</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:06.502714"></TimeCreated>
+<EventRecordID>118</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1844" ThreadID="2504"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsServiceRestart">True</Data>
+<Data Name="IsMachineBoot">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5324</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:06.502953"></TimeCreated>
+<EventRecordID>119</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1844" ThreadID="2504"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="NotificationType">0</Data>
+<Data Name="SessionId">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5351</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:06.503056"></TimeCreated>
+<EventRecordID>120</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1844" ThreadID="2504"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">False</Data>
+<Data Name="WinlogonReturnTimeElapsedInMilliseconds">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4117</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:06.504129"></TimeCreated>
+<EventRecordID>121</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1844" ThreadID="2360"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">True</Data>
+<Data Name="IsBackgroundProcessing">True</Data>
+<Data Name="IsAsyncProcessing">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5351</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:06.505465"></TimeCreated>
+<EventRecordID>122</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1844" ThreadID="2504"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">True</Data>
+<Data Name="WinlogonReturnTimeElapsedInMilliseconds">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4117</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:06.506956"></TimeCreated>
+<EventRecordID>123</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1844" ThreadID="7408"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">False</Data>
+<Data Name="IsBackgroundProcessing">True</Data>
+<Data Name="IsAsyncProcessing">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5116</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:06.508568"></TimeCreated>
+<EventRecordID>124</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1844" ThreadID="3236"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="GpsvcInitTimeElapsedInMilliseconds">16</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:06.509335"></TimeCreated>
+<EventRecordID>125</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1844" ThreadID="3236"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4168</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:06.509371"></TimeCreated>
+<EventRecordID>126</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1844" ThreadID="3236"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4160</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:06.509373"></TimeCreated>
+<EventRecordID>127</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1844" ThreadID="3236"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4166</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5117</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:06.509422"></TimeCreated>
+<EventRecordID>128</EventRecordID>
+<Correlation ActivityID="{d3607335-af0a-4564-96ae-1b7e9fc8cc6b}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1844" ThreadID="7408"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">False</Data>
+<Data Name="SessionTimeElapsedInMilliseconds">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5321</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:06.509762"></TimeCreated>
+<EventRecordID>129</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1844" ThreadID="3236"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4167</Data>
+<Data Name="OperationParameter1">f0999dfd-48a5-4562-be7f-0c1986248d5e</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5117</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:06.511086"></TimeCreated>
+<EventRecordID>130</EventRecordID>
+<Correlation ActivityID="{fb88eb5d-a9d4-47e6-88f4-48c52eb60afc}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1844" ThreadID="2360"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">True</Data>
+<Data Name="SessionTimeElapsedInMilliseconds">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5324</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:23.793680"></TimeCreated>
+<EventRecordID>131</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1844" ThreadID="4748"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="NotificationType">4</Data>
+<Data Name="SessionId">2</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5324</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:23.987965"></TimeCreated>
+<EventRecordID>132</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1844" ThreadID="4748"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="NotificationType">2</Data>
+<Data Name="SessionId">2</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5325</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:24.073898"></TimeCreated>
+<EventRecordID>133</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1844" ThreadID="2084"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="NotificationType">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5115</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:24.074883"></TimeCreated>
+<EventRecordID>134</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1844" ThreadID="5152"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsServiceRestart">True</Data>
+<Data Name="IsMachineBoot">False</Data>
+<Data Name="GpsvcTimeElapsedInMilliseconds">17593</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4116</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:34.038559"></TimeCreated>
+<EventRecordID>135</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1052" ThreadID="1080"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4115</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:34.042372"></TimeCreated>
+<EventRecordID>136</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1052" ThreadID="1080"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsServiceRestart">False</Data>
+<Data Name="IsMachineBoot">True</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5324</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:34.044415"></TimeCreated>
+<EventRecordID>137</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1052" ThreadID="1120"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="NotificationType">0</Data>
+<Data Name="SessionId">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5351</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:34.044462"></TimeCreated>
+<EventRecordID>138</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1052" ThreadID="1120"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">False</Data>
+<Data Name="WinlogonReturnTimeElapsedInMilliseconds">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4117</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:34.045139"></TimeCreated>
+<EventRecordID>139</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1052" ThreadID="1128"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsMachine">True</Data>
+<Data Name="IsBackgroundProcessing">False</Data>
+<Data Name="IsAsyncProcessing">True</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5116</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:34.045353"></TimeCreated>
+<EventRecordID>140</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1052" ThreadID="1104"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="GpsvcInitTimeElapsedInMilliseconds">16</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:34.075628"></TimeCreated>
+<EventRecordID>141</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1052" ThreadID="1104"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4168</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:34.075644"></TimeCreated>
+<EventRecordID>142</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1052" ThreadID="1104"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4160</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5320</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:34.075644"></TimeCreated>
+<EventRecordID>143</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1052" ThreadID="1104"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4166</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">5321</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:34.075769"></TimeCreated>
+<EventRecordID>144</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1052" ThreadID="1104"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InfoDescription">%%4167</Data>
+<Data Name="OperationParameter1">411630ad-6f23-4cee-9502-995e7d4b0990</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-GroupPolicy" Guid="{aea1b4fa-97d1-45f2-a64c-4d69fffd92c9}"></Provider>
+<EventID Qualifiers="">4000</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:34.482141"></TimeCreated>
+<EventRecordID>145</EventRecordID>
+<Correlation ActivityID="{3f188b1f-b3c5-4dcd-ad65-341c6837508a}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1052" ThreadID="1128"></Execution>
+<Channel>Microsoft-Windows-GroupPolicy/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PolicyActivityId">{3f188b1f-b3c5-4dcd-ad65-341c6837508a}</Data>
+<Data Name="PrincipalSamName">WORKGROUP\COUNCIL-HQ$</Data>
+<Data Name="IsMachine">1</Data>
+<Data Name="IsDomainJoined">False</Data>
+<Data Name="IsBackgroundProcessing">False</Data>
+<Data Name="IsAsyncProcessing">True</Data>
+<Data Name="IsServiceRestart">False</Data>
+<Data Name="ReasonForSyncProcessing">0</Data>
+</EventData>
+</Event>
+
+</Events>

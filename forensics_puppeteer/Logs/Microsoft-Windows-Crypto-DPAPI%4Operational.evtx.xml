@@ -1,0 +1,650 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">8200</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>32</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000020</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:36.586233"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="756" ThreadID="812"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="MasterKeyGUID">{1b151184-ebc7-49b8-9a96-1aeed2aec1f1}</Data>
+<Data Name="EncryptCredID">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="EncryptCredKey">AOZDezFM9Dt2m2q8aV0Y8SObXmU=</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">1</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>2</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:36.587090"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="756" ThreadID="816"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="MasterKeyGUID">{1b151184-ebc7-49b8-9a96-1aeed2aec1f1}</Data>
+<Data Name="UserStorage">C:\WINDOWS\system32\Microsoft\Protect\S-1-5-18\User\</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">1</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>2</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:37.023846"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-3929-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="756" ThreadID="856"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="MasterKeyGUID">{0a7ac7fd-32b4-4c81-9cc1-3a7865bcaf95}</Data>
+<Data Name="UserStorage">C:\WINDOWS\system32\Microsoft\Protect\S-1-5-18\</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">8200</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>32</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000020</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:37.028324"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-3929-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="756" ThreadID="812"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="MasterKeyGUID">{0a7ac7fd-32b4-4c81-9cc1-3a7865bcaf95}</Data>
+<Data Name="EncryptCredID">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="EncryptCredKey">0lVMoS76mZu4z2xkIjD0czUp/uI=</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:20:57.578836"></TimeCreated>
+<EventRecordID>5</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0003-e006-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="752" ThreadID="872"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">xUGztGMPx2t47XN/mbsSQVN9njoPY+J7Umh74HDgNH4=</Data>
+<Data Name="UserName">defaultuser0</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:20:57.582735"></TimeCreated>
+<EventRecordID>6</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0001-2c06-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="752" ThreadID="872"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">xUGztGMPx2t47XN/mbsSQVN9njoPY+J7Umh74HDgNH4=</Data>
+<Data Name="UserName">defaultuser0</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:20:57.582798"></TimeCreated>
+<EventRecordID>7</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0001-2c06-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="752" ThreadID="872"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">xUGztGMPx2t47XN/mbsSQVN9njoPY+J7Umh74HDgNH4=</Data>
+<Data Name="UserName">defaultuser0</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:05.439869"></TimeCreated>
+<EventRecordID>8</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0001-4007-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="752" ThreadID="804"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">xUGztGMPx2t47XN/mbsSQVN9njoPY+J7Umh74HDgNH4=</Data>
+<Data Name="UserName">defaultuser0</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:05.442293"></TimeCreated>
+<EventRecordID>9</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0001-2c06-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="752" ThreadID="804"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">xUGztGMPx2t47XN/mbsSQVN9njoPY+J7Umh74HDgNH4=</Data>
+<Data Name="UserName">defaultuser0</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:05.442339"></TimeCreated>
+<EventRecordID>10</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0001-2c06-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="752" ThreadID="804"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">xUGztGMPx2t47XN/mbsSQVN9njoPY+J7Umh74HDgNH4=</Data>
+<Data Name="UserName">defaultuser0</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">8200</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>32</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000020</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:05.452131"></TimeCreated>
+<EventRecordID>11</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0001-2c06-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="752" ThreadID="864"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="MasterKeyGUID">{baaa3e36-1d97-4b31-af9d-b107856a2a6c}</Data>
+<Data Name="EncryptCredID">{1e912fed-7768-439b-9d71-c092a263a87c}</Data>
+<Data Name="EncryptCredKey">ls27U+i1Wj/VCdVLncFtiVa/Uw4=</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">1</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>2</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:05.453609"></TimeCreated>
+<EventRecordID>12</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0001-2c06-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="752" ThreadID="804"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="MasterKeyGUID">{baaa3e36-1d97-4b31-af9d-b107856a2a6c}</Data>
+<Data Name="UserStorage">C:\Users\defaultuser0\AppData\Roaming\Microsoft\Protect\S-1-5-21-2389065719-3342106636-307857974-1000\</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.226946"></TimeCreated>
+<EventRecordID>13</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-6e00-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="848"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">xUGztGMPx2t47XN/mbsSQVN9njoPY+J7Umh74HDgNH4=</Data>
+<Data Name="UserName">defaultuser0</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.228655"></TimeCreated>
+<EventRecordID>14</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-7aff-2c2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="848"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">xUGztGMPx2t47XN/mbsSQVN9njoPY+J7Umh74HDgNH4=</Data>
+<Data Name="UserName">defaultuser0</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.228708"></TimeCreated>
+<EventRecordID>15</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-7aff-2c2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="848"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">xUGztGMPx2t47XN/mbsSQVN9njoPY+J7Umh74HDgNH4=</Data>
+<Data Name="UserName">defaultuser0</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:00.024275"></TimeCreated>
+<EventRecordID>16</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-a908-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="792"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">ZWe8EZN1vO+ONvqVqGf8bua2x3pyMoHW31sAfSmf4pU=</Data>
+<Data Name="UserName">Council Leader</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:00.026690"></TimeCreated>
+<EventRecordID>17</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-7aff-2c2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="792"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">ZWe8EZN1vO+ONvqVqGf8bua2x3pyMoHW31sAfSmf4pU=</Data>
+<Data Name="UserName">Council Leader</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:00.026739"></TimeCreated>
+<EventRecordID>18</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-7aff-2c2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="792"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">ZWe8EZN1vO+ONvqVqGf8bua2x3pyMoHW31sAfSmf4pU=</Data>
+<Data Name="UserName">Council Leader</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:35.482706"></TimeCreated>
+<EventRecordID>19</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-d40f-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="3472"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">ZWe8EZN1vO+ONvqVqGf8bua2x3pyMoHW31sAfSmf4pU=</Data>
+<Data Name="UserName">Council Leader</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:35.484919"></TimeCreated>
+<EventRecordID>20</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-7aff-2c2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="3472"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">ZWe8EZN1vO+ONvqVqGf8bua2x3pyMoHW31sAfSmf4pU=</Data>
+<Data Name="UserName">Council Leader</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:35.484972"></TimeCreated>
+<EventRecordID>21</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-7aff-2c2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="3472"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">ZWe8EZN1vO+ONvqVqGf8bua2x3pyMoHW31sAfSmf4pU=</Data>
+<Data Name="UserName">Council Leader</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">8200</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>32</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000020</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:35.497538"></TimeCreated>
+<EventRecordID>22</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-7aff-2c2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="344"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="MasterKeyGUID">{54dff3f9-94ab-4589-b3cf-a15564fb5b2b}</Data>
+<Data Name="EncryptCredID">{f4710aea-07ec-4594-97a1-98c068d857cb}</Data>
+<Data Name="EncryptCredKey">czEf2T6Sl1m0qY512Tf+DqHEGDU=</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">1</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>2</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:35.500277"></TimeCreated>
+<EventRecordID>23</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-7aff-2c2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="3472"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="MasterKeyGUID">{54dff3f9-94ab-4589-b3cf-a15564fb5b2b}</Data>
+<Data Name="UserStorage">C:\Users\Council Leader\AppData\Roaming\Microsoft\Protect\S-1-5-21-2389065719-3342106636-307857974-1001\</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:38.468616"></TimeCreated>
+<EventRecordID>24</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0002-625b-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="800"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">ZWe8EZN1vO+ONvqVqGf8bua2x3pyMoHW31sAfSmf4pU=</Data>
+<Data Name="UserName">Council Leader</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:38.470114"></TimeCreated>
+<EventRecordID>25</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0003-ab5a-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="800"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">ZWe8EZN1vO+ONvqVqGf8bua2x3pyMoHW31sAfSmf4pU=</Data>
+<Data Name="UserName">Council Leader</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:38.470242"></TimeCreated>
+<EventRecordID>26</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0003-ab5a-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="800"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">ZWe8EZN1vO+ONvqVqGf8bua2x3pyMoHW31sAfSmf4pU=</Data>
+<Data Name="UserName">Council Leader</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:48.343647"></TimeCreated>
+<EventRecordID>27</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0002-aedd-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="792"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">vXANfC5akSfZj3MvuMLm7Z65OMxXDjfV+aJkYN2Z1/U=</Data>
+<Data Name="UserName">sysadm</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1002</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:48.345650"></TimeCreated>
+<EventRecordID>28</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0003-ab5a-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="792"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">vXANfC5akSfZj3MvuMLm7Z65OMxXDjfV+aJkYN2Z1/U=</Data>
+<Data Name="UserName">sysadm</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1002</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">12289</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>8</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000008</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:48.345715"></TimeCreated>
+<EventRecordID>29</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0003-ab5a-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="792"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="CredKeyIdentifier">vXANfC5akSfZj3MvuMLm7Z65OMxXDjfV+aJkYN2Z1/U=</Data>
+<Data Name="UserName">sysadm</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1002</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">8200</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>32</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000020</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:49.443855"></TimeCreated>
+<EventRecordID>30</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="3372"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="MasterKeyGUID">{7bacf0d6-ada0-4014-86bb-cd195e980b9d}</Data>
+<Data Name="EncryptCredID">{45083f91-a322-4088-8a9f-4b19ee9f9574}</Data>
+<Data Name="EncryptCredKey">mxtdTmAm4i/HlKjEkCCIV9UuUEw=</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-DPAPI" Guid="{89fe8f40-cdce-464e-8217-15ef97d4c7c3}"></Provider>
+<EventID Qualifiers="">1</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>2</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:49.447424"></TimeCreated>
+<EventRecordID>31</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="784"></Execution>
+<Channel>Microsoft-Windows-Crypto-DPAPI/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="MasterKeyGUID">{7bacf0d6-ada0-4014-86bb-cd195e980b9d}</Data>
+<Data Name="UserStorage">C:\Users\sysadm\AppData\Roaming\Microsoft\Protect\S-1-5-21-2389065719-3342106636-307857974-1002\</Data>
+</EventData>
+</Event>
+
+</Events>

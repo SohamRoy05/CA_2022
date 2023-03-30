@@ -1,0 +1,878 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.525126"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{bf27b24f-9e98-4395-9110-325985ded282}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.552738"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.873253"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{94be01ac-eefd-4551-a3c3-681d481a39e3}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:35.165659"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="420" ThreadID="424"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{ccf53eda-ec43-4a07-a529-d2368186e65d}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:35.166597"></TimeCreated>
+<EventRecordID>5</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="128"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{ccf53eda-ec43-4a07-a529-d2368186e65d}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:35.809767"></TimeCreated>
+<EventRecordID>6</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="392" ThreadID="404"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{224ad88c-cdac-11ec-a537-806e6f6e6963}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:35.841639"></TimeCreated>
+<EventRecordID>7</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="392" ThreadID="404"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{224ad88c-cdac-11ec-a537-806e6f6e6963}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:35.847813"></TimeCreated>
+<EventRecordID>8</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="392" ThreadID="404"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:42.369366"></TimeCreated>
+<EventRecordID>9</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1612" ThreadID="1616"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:44.357210"></TimeCreated>
+<EventRecordID>10</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="148"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{bf27b24f-9e98-4395-9110-325985ded282}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:44.405863"></TimeCreated>
+<EventRecordID>11</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="148"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:44.643744"></TimeCreated>
+<EventRecordID>12</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{94be01ac-eefd-4551-a3c3-681d481a39e3}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:44.930090"></TimeCreated>
+<EventRecordID>13</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="416" ThreadID="420"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{ccf53eda-ec43-4a07-a529-d2368186e65d}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:44.931152"></TimeCreated>
+<EventRecordID>14</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="148"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{ccf53eda-ec43-4a07-a529-d2368186e65d}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:45.393677"></TimeCreated>
+<EventRecordID>15</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="392" ThreadID="408"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{224ad88c-cdac-11ec-a537-806e6f6e6963}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:45.401123"></TimeCreated>
+<EventRecordID>16</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="392" ThreadID="408"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{224ad88c-cdac-11ec-a537-806e6f6e6963}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:45.404387"></TimeCreated>
+<EventRecordID>17</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="392" ThreadID="408"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:50.274166"></TimeCreated>
+<EventRecordID>18</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1304" ThreadID="1308"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:00.100248"></TimeCreated>
+<EventRecordID>19</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3528" ThreadID="3524"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:03.825544"></TimeCreated>
+<EventRecordID>20</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3736" ThreadID="3600"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:03.827648"></TimeCreated>
+<EventRecordID>21</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3736" ThreadID="3600"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:03.830027"></TimeCreated>
+<EventRecordID>22</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3736" ThreadID="3600"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:03.859064"></TimeCreated>
+<EventRecordID>23</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3736" ThreadID="3600"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:03.862152"></TimeCreated>
+<EventRecordID>24</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3736" ThreadID="3600"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:04.035618"></TimeCreated>
+<EventRecordID>25</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2356" ThreadID="3864"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:35.626881"></TimeCreated>
+<EventRecordID>26</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2356" ThreadID="2424"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:06.300896"></TimeCreated>
+<EventRecordID>27</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="148"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{bf27b24f-9e98-4395-9110-325985ded282}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:06.659285"></TimeCreated>
+<EventRecordID>28</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="148"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:07.011425"></TimeCreated>
+<EventRecordID>29</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{94be01ac-eefd-4551-a3c3-681d481a39e3}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:08.403965"></TimeCreated>
+<EventRecordID>30</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="420" ThreadID="424"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{ccf53eda-ec43-4a07-a529-d2368186e65d}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:08.405367"></TimeCreated>
+<EventRecordID>31</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="148"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{ccf53eda-ec43-4a07-a529-d2368186e65d}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:10.086767"></TimeCreated>
+<EventRecordID>32</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="388" ThreadID="416"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{224ad88c-cdac-11ec-a537-806e6f6e6963}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:10.098953"></TimeCreated>
+<EventRecordID>33</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="388" ThreadID="416"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{224ad88c-cdac-11ec-a537-806e6f6e6963}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:10.114347"></TimeCreated>
+<EventRecordID>34</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="388" ThreadID="416"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.518103"></TimeCreated>
+<EventRecordID>35</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1924" ThreadID="2916"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:51.273792"></TimeCreated>
+<EventRecordID>36</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1924" ThreadID="2008"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:30.355440"></TimeCreated>
+<EventRecordID>37</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{bf27b24f-9e98-4395-9110-325985ded282}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:30.723064"></TimeCreated>
+<EventRecordID>38</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:31.085659"></TimeCreated>
+<EventRecordID>39</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{94be01ac-eefd-4551-a3c3-681d481a39e3}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:33.021305"></TimeCreated>
+<EventRecordID>40</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="416" ThreadID="420"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{ccf53eda-ec43-4a07-a529-d2368186e65d}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:33.022427"></TimeCreated>
+<EventRecordID>41</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="344"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{ccf53eda-ec43-4a07-a529-d2368186e65d}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:33.513817"></TimeCreated>
+<EventRecordID>42</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="396" ThreadID="412"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{224ad88c-cdac-11ec-a537-806e6f6e6963}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:33.521317"></TimeCreated>
+<EventRecordID>43</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="396" ThreadID="412"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{224ad88c-cdac-11ec-a537-806e6f6e6963}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:33.526045"></TimeCreated>
+<EventRecordID>44</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="396" ThreadID="412"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:34.594511"></TimeCreated>
+<EventRecordID>45</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1848" ThreadID="2468"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Cache" Guid="{a2d34bf1-70ab-5b21-c819-5a0dd42748fd}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>101</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:37:14.064621"></TimeCreated>
+<EventRecordID>46</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1848" ThreadID="1932"></Execution>
+<Channel>Microsoft-Windows-Kernel-Cache/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="VolumeDeviceGuid">{00000000-0000-0000-0000-000000000000}</Data>
+</EventData>
+</Event>
+
+</Events>

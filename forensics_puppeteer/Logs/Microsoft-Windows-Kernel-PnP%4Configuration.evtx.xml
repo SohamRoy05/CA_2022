@@ -1,0 +1,2611 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">403</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:33.696629"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\ACPI_HAL\0000</Data>
+<Data Name="DriverName">hal.inf</Data>
+<Data Name="ClassGuid">{4d36e966-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">ACPI_AMD64_HAL</Data>
+<Data Name="DriverRank">0x00ff0000</Data>
+<Data Name="MatchingDeviceId">acpiapic</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">HTREE\ROOT\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:33.697252"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\ACPI_HAL\0000</Data>
+<Data Name="DriverName">hal.inf</Data>
+<Data Name="ClassGuid">{4d36e966-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">\Driver\ACPI_HAL</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:33.704168"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI_HAL\PNP0C08\0</Data>
+<Data Name="DriverName">acpi.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.469</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">ACPI_Inst.NT</Data>
+<Data Name="DriverRank">0x00ff0001</Data>
+<Data Name="MatchingDeviceId">*PNP0C08</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">ROOT\ACPI_HAL\0000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:33.955635"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI_HAL\PNP0C08\0</Data>
+<Data Name="DriverName">acpi.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">ACPI</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.008644"></TimeCreated>
+<EventRecordID>5</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\PNP0A03\0</Data>
+<Data Name="DriverName">pci.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.652</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">PCI_ROOT</Data>
+<Data Name="DriverRank">0x00ff0002</Data>
+<Data Name="MatchingDeviceId">*PNP0A03</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">ACPI_HAL\PNP0C08\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.013304"></TimeCreated>
+<EventRecordID>6</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104_-_AMD_Ryzen_7_5700U_with_Radeon_Graphics_________\_0</Data>
+<Data Name="DriverName">cpu.inf</Data>
+<Data Name="ClassGuid">{50127dc3-0f36-415e-a6cc-4cb3be910b65}</Data>
+<Data Name="DriverDate">04/21/2009</Data>
+<Data Name="DriverVersion">10.0.22000.652</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">AmdPPM_Inst.NT</Data>
+<Data Name="DriverRank">0x00ff0004</Data>
+<Data Name="MatchingDeviceId">ACPI\AuthenticAMD_-_AMD64</Data>
+<Data Name="OutrankedDrivers">cpu.inf:ACPI\Processor:00FF2000</Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">ACPI_HAL\PNP0C08\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.021309"></TimeCreated>
+<EventRecordID>7</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104_-_AMD_Ryzen_7_5700U_with_Radeon_Graphics_________\_1</Data>
+<Data Name="DriverName">cpu.inf</Data>
+<Data Name="ClassGuid">{50127dc3-0f36-415e-a6cc-4cb3be910b65}</Data>
+<Data Name="DriverDate">04/21/2009</Data>
+<Data Name="DriverVersion">10.0.22000.652</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">AmdPPM_Inst.NT</Data>
+<Data Name="DriverRank">0x00ff0004</Data>
+<Data Name="MatchingDeviceId">ACPI\AuthenticAMD_-_AMD64</Data>
+<Data Name="OutrankedDrivers">cpu.inf:ACPI\Processor:00FF2000</Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">ACPI_HAL\PNP0C08\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.028233"></TimeCreated>
+<EventRecordID>8</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104_-_AMD_Ryzen_7_5700U_with_Radeon_Graphics_________\_2</Data>
+<Data Name="DriverName">cpu.inf</Data>
+<Data Name="ClassGuid">{50127dc3-0f36-415e-a6cc-4cb3be910b65}</Data>
+<Data Name="DriverDate">04/21/2009</Data>
+<Data Name="DriverVersion">10.0.22000.652</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">AmdPPM_Inst.NT</Data>
+<Data Name="DriverRank">0x00ff0004</Data>
+<Data Name="MatchingDeviceId">ACPI\AuthenticAMD_-_AMD64</Data>
+<Data Name="OutrankedDrivers">cpu.inf:ACPI\Processor:00FF2000</Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">ACPI_HAL\PNP0C08\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.035097"></TimeCreated>
+<EventRecordID>9</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104_-_AMD_Ryzen_7_5700U_with_Radeon_Graphics_________\_3</Data>
+<Data Name="DriverName">cpu.inf</Data>
+<Data Name="ClassGuid">{50127dc3-0f36-415e-a6cc-4cb3be910b65}</Data>
+<Data Name="DriverDate">04/21/2009</Data>
+<Data Name="DriverVersion">10.0.22000.652</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">AmdPPM_Inst.NT</Data>
+<Data Name="DriverRank">0x00ff0004</Data>
+<Data Name="MatchingDeviceId">ACPI\AuthenticAMD_-_AMD64</Data>
+<Data Name="OutrankedDrivers">cpu.inf:ACPI\Processor:00FF2000</Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">ACPI_HAL\PNP0C08\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.037006"></TimeCreated>
+<EventRecordID>10</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\FixedButton\2&amp;daba3ff&amp;0</Data>
+<Data Name="DriverName">machine.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">NO_DRV</Data>
+<Data Name="DriverRank">0x00ff0000</Data>
+<Data Name="MatchingDeviceId">ACPI\FixedButton</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">ACPI_HAL\PNP0C08\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.041124"></TimeCreated>
+<EventRecordID>11</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\FixedButton\2&amp;daba3ff&amp;0</Data>
+<Data Name="DriverName">machine.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName"></Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.088646"></TimeCreated>
+<EventRecordID>12</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\PNP0A03\0</Data>
+<Data Name="DriverName">pci.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">pci</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.140192"></TimeCreated>
+<EventRecordID>13</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">PCI\VEN_8086&amp;DEV_1237&amp;SUBSYS_00000000&amp;REV_02\3&amp;267a616a&amp;0&amp;00</Data>
+<Data Name="DriverName">machine.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">NO_DRV</Data>
+<Data Name="DriverRank">0x00ff0003</Data>
+<Data Name="MatchingDeviceId">PCI\VEN_8086&amp;DEV_1237</Data>
+<Data Name="OutrankedDrivers">machine.inf:PCI\CC_0600:00FF2004</Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">ACPI\PNP0A03\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.141684"></TimeCreated>
+<EventRecordID>14</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">PCI\VEN_8086&amp;DEV_7000&amp;SUBSYS_00000000&amp;REV_00\3&amp;267a616a&amp;0&amp;08</Data>
+<Data Name="DriverName">machine.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">MSISADRV</Data>
+<Data Name="DriverRank">0x00ff0003</Data>
+<Data Name="MatchingDeviceId">PCI\VEN_8086&amp;DEV_7000</Data>
+<Data Name="OutrankedDrivers">machine.inf:PCI\CC_0601:00FF2004</Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">ACPI\PNP0A03\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">430</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.143749"></TimeCreated>
+<EventRecordID>15</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="148"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">PCI\VEN_80EE&amp;DEV_BEEF&amp;SUBSYS_040515AD&amp;REV_00\3&amp;267a616a&amp;0&amp;10</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">430</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.144661"></TimeCreated>
+<EventRecordID>16</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="148"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">PCI\VEN_8086&amp;DEV_100E&amp;SUBSYS_001E8086&amp;REV_02\3&amp;267a616a&amp;0&amp;18</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.145584"></TimeCreated>
+<EventRecordID>17</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">PCI\VEN_80EE&amp;DEV_CAFE&amp;SUBSYS_00000000&amp;REV_00\3&amp;267a616a&amp;0&amp;20</Data>
+<Data Name="DriverName">oem0.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">03/22/2022</Data>
+<Data Name="DriverVersion">6.1.34.636</Data>
+<Data Name="DriverProvider">Oracle Corporation</Data>
+<Data Name="DriverInbox">False</Data>
+<Data Name="DriverSection">VBoxGuest_Install</Data>
+<Data Name="DriverRank">0x00ff0003</Data>
+<Data Name="MatchingDeviceId">PCI\VEN_80EE&amp;DEV_CAFE</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">ACPI\PNP0A03\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">430</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.146162"></TimeCreated>
+<EventRecordID>18</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="148"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">PCI\VEN_80EE&amp;DEV_CAFE&amp;SUBSYS_00000000&amp;REV_00\3&amp;267a616a&amp;0&amp;20</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.147362"></TimeCreated>
+<EventRecordID>19</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">PCI\VEN_8086&amp;DEV_2668&amp;SUBSYS_76808384&amp;REV_01\3&amp;267a616a&amp;0&amp;28</Data>
+<Data Name="DriverName">hdaudbus.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/05/2021</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">HDAudio_Device.NT</Data>
+<Data Name="DriverRank">0x00ff2006</Data>
+<Data Name="MatchingDeviceId">PCI\CC_0403</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">ACPI\PNP0A03\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">430</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.149185"></TimeCreated>
+<EventRecordID>20</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="148"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">PCI\VEN_8086&amp;DEV_100E&amp;SUBSYS_001E8086&amp;REV_02\3&amp;267a616a&amp;0&amp;40</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.150402"></TimeCreated>
+<EventRecordID>21</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">PCI\VEN_8086&amp;DEV_1E31&amp;SUBSYS_00000000&amp;REV_00\3&amp;267a616a&amp;0&amp;60</Data>
+<Data Name="DriverName">usbxhci.inf</Data>
+<Data Name="ClassGuid">{36fc9e60-c465-11cf-8056-444553540000}</Data>
+<Data Name="DriverDate">01/18/2022</Data>
+<Data Name="DriverVersion">10.0.22000.469</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">Generic.Install.NT</Data>
+<Data Name="DriverRank">0x00802003</Data>
+<Data Name="MatchingDeviceId">PCI\CC_0C0330</Data>
+<Data Name="OutrankedDrivers">machine.inf:PCI\VEN_8086&amp;DEV_1E31:00FF0003</Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">ACPI\PNP0A03\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.152340"></TimeCreated>
+<EventRecordID>22</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">PCI\VEN_8086&amp;DEV_2829&amp;SUBSYS_00000000&amp;REV_02\3&amp;267a616a&amp;0&amp;68</Data>
+<Data Name="DriverName">mshdc.inf</Data>
+<Data Name="ClassGuid">{4d36e96a-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.652</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">msahci_Inst</Data>
+<Data Name="DriverRank">0x00ff2003</Data>
+<Data Name="MatchingDeviceId">PCI\CC_010601</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">ACPI\PNP0A03\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.153896"></TimeCreated>
+<EventRecordID>23</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\PNP0C0A\0</Data>
+<Data Name="DriverName">cmbatt.inf</Data>
+<Data Name="ClassGuid">{72631e54-78a4-11d0-bcf7-00aa00b7b32a}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.652</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">CmBatt_Inst</Data>
+<Data Name="DriverRank">0x00ff0001</Data>
+<Data Name="MatchingDeviceId">ACPI\PNP0C0A</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">ACPI\PNP0A03\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.155277"></TimeCreated>
+<EventRecordID>24</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\ACPI0003\0</Data>
+<Data Name="DriverName">cmbatt.inf</Data>
+<Data Name="ClassGuid">{72631e54-78a4-11d0-bcf7-00aa00b7b32a}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.652</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">AcAdapter_Inst</Data>
+<Data Name="DriverRank">0x00ff0001</Data>
+<Data Name="MatchingDeviceId">ACPI\ACPI0003</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">ACPI\PNP0A03\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.156610"></TimeCreated>
+<EventRecordID>25</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">PCI\VEN_8086&amp;DEV_1237&amp;SUBSYS_00000000&amp;REV_02\3&amp;267a616a&amp;0&amp;00</Data>
+<Data Name="DriverName">machine.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName"></Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.156750"></TimeCreated>
+<EventRecordID>26</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">PCI\VEN_8086&amp;DEV_7000&amp;SUBSYS_00000000&amp;REV_00\3&amp;267a616a&amp;0&amp;08</Data>
+<Data Name="DriverName">machine.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">msisadrv</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.158077"></TimeCreated>
+<EventRecordID>27</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\PNP0303\4&amp;1d401fb5&amp;0</Data>
+<Data Name="DriverName">keyboard.inf</Data>
+<Data Name="ClassGuid">{4d36e96b-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.652</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">STANDARD_Inst</Data>
+<Data Name="DriverRank">0x00ff0002</Data>
+<Data Name="MatchingDeviceId">*PNP0303</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">PCI\VEN_8086&amp;DEV_7000&amp;SUBSYS_00000000&amp;REV_00\3&amp;267a616a&amp;0&amp;08</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.159632"></TimeCreated>
+<EventRecordID>28</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\PNP0200\4&amp;1d401fb5&amp;0</Data>
+<Data Name="DriverName">machine.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">NO_DRV_X</Data>
+<Data Name="DriverRank">0x00ff0002</Data>
+<Data Name="MatchingDeviceId">*PNP0200</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">PCI\VEN_8086&amp;DEV_7000&amp;SUBSYS_00000000&amp;REV_00\3&amp;267a616a&amp;0&amp;08</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.160944"></TimeCreated>
+<EventRecordID>29</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\PNP0F03\4&amp;1d401fb5&amp;0</Data>
+<Data Name="DriverName">msmouse.inf</Data>
+<Data Name="ClassGuid">{4d36e96f-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.652</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">PS2_Inst</Data>
+<Data Name="DriverRank">0x00ff0002</Data>
+<Data Name="MatchingDeviceId">*PNP0F03</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">PCI\VEN_8086&amp;DEV_7000&amp;SUBSYS_00000000&amp;REV_00\3&amp;267a616a&amp;0&amp;08</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.162474"></TimeCreated>
+<EventRecordID>30</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\PNP0100\4&amp;1d401fb5&amp;0</Data>
+<Data Name="DriverName">machine.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">NO_DRV_X</Data>
+<Data Name="DriverRank">0x00ff0002</Data>
+<Data Name="MatchingDeviceId">*PNP0100</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">PCI\VEN_8086&amp;DEV_7000&amp;SUBSYS_00000000&amp;REV_00\3&amp;267a616a&amp;0&amp;08</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.163713"></TimeCreated>
+<EventRecordID>31</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\PNP0000\4&amp;1d401fb5&amp;0</Data>
+<Data Name="DriverName">machine.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">NO_DRV_PIC</Data>
+<Data Name="DriverRank">0x00ff0002</Data>
+<Data Name="MatchingDeviceId">*PNP0000</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">PCI\VEN_8086&amp;DEV_7000&amp;SUBSYS_00000000&amp;REV_00\3&amp;267a616a&amp;0&amp;08</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.165651"></TimeCreated>
+<EventRecordID>32</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="148"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\vdrvroot\0000</Data>
+<Data Name="DriverName">vdrvroot.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">VDRVROOT</Data>
+<Data Name="DriverRank">0x00ff0000</Data>
+<Data Name="MatchingDeviceId">ROOT\vdrvroot</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">HTREE\ROOT\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.166590"></TimeCreated>
+<EventRecordID>33</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="148"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\vdrvroot\0000</Data>
+<Data Name="DriverName">vdrvroot.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">vdrvroot</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.211866"></TimeCreated>
+<EventRecordID>34</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\SPACEPORT\0000</Data>
+<Data Name="DriverName">spaceport.inf</Data>
+<Data Name="ClassGuid">{4d36e97b-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.652</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">Spaceport_Install</Data>
+<Data Name="DriverRank">0x00ff0000</Data>
+<Data Name="MatchingDeviceId">Root\Spaceport</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">HTREE\ROOT\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.212132"></TimeCreated>
+<EventRecordID>35</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\SPACEPORT\0000</Data>
+<Data Name="DriverName">spaceport.inf</Data>
+<Data Name="ClassGuid">{4d36e97b-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">spaceport</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">403</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.213718"></TimeCreated>
+<EventRecordID>36</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="156"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\VOLMGR\0000</Data>
+<Data Name="DriverName">volmgr.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.593</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">Volmgr</Data>
+<Data Name="DriverRank">0x00ff0000</Data>
+<Data Name="MatchingDeviceId">ROOT\VOLMGR</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">HTREE\ROOT\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.213968"></TimeCreated>
+<EventRecordID>37</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="156"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\VOLMGR\0000</Data>
+<Data Name="DriverName">volmgr.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">volmgr</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.311632"></TimeCreated>
+<EventRecordID>38</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">PCI\VEN_8086&amp;DEV_2829&amp;SUBSYS_00000000&amp;REV_02\3&amp;267a616a&amp;0&amp;68</Data>
+<Data Name="DriverName">mshdc.inf</Data>
+<Data Name="ClassGuid">{4d36e96a-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">storahci</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.313660"></TimeCreated>
+<EventRecordID>39</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">SCSI\Disk&amp;Ven_VBOX&amp;Prod_HARDDISK\4&amp;2617aeae&amp;0&amp;000000</Data>
+<Data Name="DriverName">disk.inf</Data>
+<Data Name="ClassGuid">{4d36e967-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">disk_install.NT</Data>
+<Data Name="DriverRank">0x00ff0005</Data>
+<Data Name="MatchingDeviceId">GenDisk</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">PCI\VEN_8086&amp;DEV_2829&amp;SUBSYS_00000000&amp;REV_02\3&amp;267a616a&amp;0&amp;68</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.314909"></TimeCreated>
+<EventRecordID>40</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">SCSI\CdRom&amp;Ven_VBOX&amp;Prod_CD-ROM\4&amp;2617aeae&amp;0&amp;010000</Data>
+<Data Name="DriverName">cdrom.inf</Data>
+<Data Name="ClassGuid">{4d36e965-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">cdrom_install</Data>
+<Data Name="DriverRank">0x00ff0005</Data>
+<Data Name="MatchingDeviceId">GenCdRom</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">PCI\VEN_8086&amp;DEV_2829&amp;SUBSYS_00000000&amp;REV_02\3&amp;267a616a&amp;0&amp;68</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.329584"></TimeCreated>
+<EventRecordID>41</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">PCI\VEN_80EE&amp;DEV_CAFE&amp;SUBSYS_00000000&amp;REV_00\3&amp;267a616a&amp;0&amp;20</Data>
+<Data Name="DriverName">oem0.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">VBoxGuest</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.397680"></TimeCreated>
+<EventRecordID>42</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="148"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">PCI\VEN_8086&amp;DEV_1E31&amp;SUBSYS_00000000&amp;REV_00\3&amp;267a616a&amp;0&amp;60</Data>
+<Data Name="DriverName">usbxhci.inf</Data>
+<Data Name="ClassGuid">{36fc9e60-c465-11cf-8056-444553540000}</Data>
+<Data Name="ServiceName">USBXHCI</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.398760"></TimeCreated>
+<EventRecordID>43</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="148"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">USB\ROOT_HUB30\4&amp;24054718&amp;0&amp;0</Data>
+<Data Name="DriverName">usbhub3.inf</Data>
+<Data Name="ClassGuid">{36fc9e60-c465-11cf-8056-444553540000}</Data>
+<Data Name="DriverDate">07/03/2021</Data>
+<Data Name="DriverVersion">10.0.22000.65</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">Generic.Install.NT</Data>
+<Data Name="DriverRank">0x00800002</Data>
+<Data Name="MatchingDeviceId">USB\ROOT_HUB30</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">PCI\VEN_8086&amp;DEV_1E31&amp;SUBSYS_00000000&amp;REV_00\3&amp;267a616a&amp;0&amp;60</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.503805"></TimeCreated>
+<EventRecordID>44</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="148"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">USB\ROOT_HUB30\4&amp;24054718&amp;0&amp;0</Data>
+<Data Name="DriverName">usbhub3.inf</Data>
+<Data Name="ClassGuid">{36fc9e60-c465-11cf-8056-444553540000}</Data>
+<Data Name="ServiceName">USBHUB3</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.513557"></TimeCreated>
+<EventRecordID>45</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">SCSI\Disk&amp;Ven_VBOX&amp;Prod_HARDDISK\4&amp;2617aeae&amp;0&amp;000000</Data>
+<Data Name="DriverName">disk.inf</Data>
+<Data Name="ClassGuid">{4d36e967-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">disk</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.515253"></TimeCreated>
+<EventRecordID>46</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">STORAGE\Volume\{224ad876-cdac-11ec-a537-806e6f6e6963}#0000000000100000</Data>
+<Data Name="DriverName">volume.inf</Data>
+<Data Name="ClassGuid">{71a27cdd-812a-11d0-bec7-08002be2092f}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">volume_install.NT</Data>
+<Data Name="DriverRank">0x00ff0000</Data>
+<Data Name="MatchingDeviceId">STORAGE\Volume</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">ROOT\VOLMGR\0000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.516552"></TimeCreated>
+<EventRecordID>47</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">STORAGE\Volume\{224ad876-cdac-11ec-a537-806e6f6e6963}#0000000006500000</Data>
+<Data Name="DriverName">volume.inf</Data>
+<Data Name="ClassGuid">{71a27cdd-812a-11d0-bec7-08002be2092f}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">volume_install.NT</Data>
+<Data Name="DriverRank">0x00ff0000</Data>
+<Data Name="MatchingDeviceId">STORAGE\Volume</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">ROOT\VOLMGR\0000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.517681"></TimeCreated>
+<EventRecordID>48</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">STORAGE\Volume\{224ad876-cdac-11ec-a537-806e6f6e6963}#0000000007500000</Data>
+<Data Name="DriverName">volume.inf</Data>
+<Data Name="ClassGuid">{71a27cdd-812a-11d0-bec7-08002be2092f}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">volume_install.NT</Data>
+<Data Name="DriverRank">0x00ff0000</Data>
+<Data Name="MatchingDeviceId">STORAGE\Volume</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">ROOT\VOLMGR\0000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.518877"></TimeCreated>
+<EventRecordID>49</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">STORAGE\Volume\{224ad876-cdac-11ec-a537-806e6f6e6963}#0000000EDA200000</Data>
+<Data Name="DriverName">volume.inf</Data>
+<Data Name="ClassGuid">{71a27cdd-812a-11d0-bec7-08002be2092f}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">volume_install.NT</Data>
+<Data Name="DriverRank">0x00ff0000</Data>
+<Data Name="MatchingDeviceId">STORAGE\Volume</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">ROOT\VOLMGR\0000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.520714"></TimeCreated>
+<EventRecordID>50</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">STORAGE\Volume\{224ad876-cdac-11ec-a537-806e6f6e6963}#0000000000100000</Data>
+<Data Name="DriverName">volume.inf</Data>
+<Data Name="ClassGuid">{71a27cdd-812a-11d0-bec7-08002be2092f}</Data>
+<Data Name="ServiceName">volume</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.521946"></TimeCreated>
+<EventRecordID>51</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">STORAGE\Volume\{224ad876-cdac-11ec-a537-806e6f6e6963}#0000000006500000</Data>
+<Data Name="DriverName">volume.inf</Data>
+<Data Name="ClassGuid">{71a27cdd-812a-11d0-bec7-08002be2092f}</Data>
+<Data Name="ServiceName">volume</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.523161"></TimeCreated>
+<EventRecordID>52</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">STORAGE\Volume\{224ad876-cdac-11ec-a537-806e6f6e6963}#0000000007500000</Data>
+<Data Name="DriverName">volume.inf</Data>
+<Data Name="ClassGuid">{71a27cdd-812a-11d0-bec7-08002be2092f}</Data>
+<Data Name="ServiceName">volume</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.524464"></TimeCreated>
+<EventRecordID>53</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">STORAGE\Volume\{224ad876-cdac-11ec-a537-806e6f6e6963}#0000000EDA200000</Data>
+<Data Name="DriverName">volume.inf</Data>
+<Data Name="ClassGuid">{71a27cdd-812a-11d0-bec7-08002be2092f}</Data>
+<Data Name="ServiceName">volume</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.685394"></TimeCreated>
+<EventRecordID>54</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="152"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\BasicDisplay\0000</Data>
+<Data Name="DriverName">basicdisplay.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">MSBDD_Fallback</Data>
+<Data Name="DriverRank">0x00fb0000</Data>
+<Data Name="MatchingDeviceId">ROOT\BasicDisplay</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">HTREE\ROOT\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.732912"></TimeCreated>
+<EventRecordID>55</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="152"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\SYSTEM\0000</Data>
+<Data Name="DriverName">swenum.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">swenum</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.733324"></TimeCreated>
+<EventRecordID>56</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="152"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\RDPBUS\0000</Data>
+<Data Name="DriverName">rdpbus.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">rdpbus</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.733831"></TimeCreated>
+<EventRecordID>57</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="152"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\BasicDisplay\0000</Data>
+<Data Name="DriverName">basicdisplay.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">BasicDisplay</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.734163"></TimeCreated>
+<EventRecordID>58</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="152"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\VID\0000</Data>
+<Data Name="DriverName">wvid.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">Vid</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.734501"></TimeCreated>
+<EventRecordID>59</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="152"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\CompositeBus\0000</Data>
+<Data Name="DriverName">compositebus.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">CompositeBus</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.734896"></TimeCreated>
+<EventRecordID>60</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="152"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\UMBUS\0000</Data>
+<Data Name="DriverName">umbus.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">umbus</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.735220"></TimeCreated>
+<EventRecordID>61</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="152"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\NdisVirtualBus\0000</Data>
+<Data Name="DriverName">ndisvirtualbus.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">NdisVirtualBus</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.736725"></TimeCreated>
+<EventRecordID>62</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="152"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">USB\VID_80EE&amp;PID_0021\5&amp;12c8f4c0&amp;0&amp;1</Data>
+<Data Name="DriverName">input.inf</Data>
+<Data Name="ClassGuid">{745a17a0-74d3-11d0-b6fe-00a0c90f57da}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">HID_Inst.NT</Data>
+<Data Name="DriverRank">0x00ff3202</Data>
+<Data Name="MatchingDeviceId">USB\Class_03</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">USB\ROOT_HUB30\4&amp;24054718&amp;0&amp;0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.752825"></TimeCreated>
+<EventRecordID>63</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="152"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">USB\VID_80EE&amp;PID_0021\5&amp;12c8f4c0&amp;0&amp;1</Data>
+<Data Name="DriverName">input.inf</Data>
+<Data Name="ClassGuid">{745a17a0-74d3-11d0-b6fe-00a0c90f57da}</Data>
+<Data Name="ServiceName">HidUsb</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.754129"></TimeCreated>
+<EventRecordID>64</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="152"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">HID\VID_80EE&amp;PID_0021\6&amp;c0114fe&amp;0&amp;0000</Data>
+<Data Name="DriverName">msmouse.inf</Data>
+<Data Name="ClassGuid">{4d36e96f-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.652</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">HID_Mouse_Inst.NT</Data>
+<Data Name="DriverRank">0x00ff1003</Data>
+<Data Name="MatchingDeviceId">HID_DEVICE_SYSTEM_MOUSE</Data>
+<Data Name="OutrankedDrivers">input.inf:HID_DEVICE:00FF1005</Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">USB\VID_80EE&amp;PID_0021\5&amp;12c8f4c0&amp;0&amp;1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.763323"></TimeCreated>
+<EventRecordID>65</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="152"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">HID\VID_80EE&amp;PID_0021\6&amp;c0114fe&amp;0&amp;0000</Data>
+<Data Name="DriverName">msmouse.inf</Data>
+<Data Name="ClassGuid">{4d36e96f-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">mouhid</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.764893"></TimeCreated>
+<EventRecordID>66</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="152"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\BasicRender\0000</Data>
+<Data Name="DriverName">basicrender.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">BasicRender</Data>
+<Data Name="DriverRank">0x00fb0000</Data>
+<Data Name="MatchingDeviceId">ROOT\BasicRender</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">HTREE\ROOT\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.766024"></TimeCreated>
+<EventRecordID>67</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="152"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\BasicRender\0000</Data>
+<Data Name="DriverName">basicrender.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">BasicRender</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.849998"></TimeCreated>
+<EventRecordID>68</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\mssmbios\0000</Data>
+<Data Name="DriverName">mssmbios.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">MSSMBIOS_DRV</Data>
+<Data Name="DriverRank">0x00ff0000</Data>
+<Data Name="MatchingDeviceId">ROOT\mssmbios</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">HTREE\ROOT\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.851439"></TimeCreated>
+<EventRecordID>69</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\mssmbios\0000</Data>
+<Data Name="DriverName">mssmbios.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">mssmbios</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.956121"></TimeCreated>
+<EventRecordID>70</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\PNP0303\4&amp;1d401fb5&amp;0</Data>
+<Data Name="DriverName">keyboard.inf</Data>
+<Data Name="ClassGuid">{4d36e96b-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">i8042prt</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.956287"></TimeCreated>
+<EventRecordID>71</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\PNP0F03\4&amp;1d401fb5&amp;0</Data>
+<Data Name="DriverName">msmouse.inf</Data>
+<Data Name="ClassGuid">{4d36e96f-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">i8042prt</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.956551"></TimeCreated>
+<EventRecordID>72</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">SCSI\CdRom&amp;Ven_VBOX&amp;Prod_CD-ROM\4&amp;2617aeae&amp;0&amp;010000</Data>
+<Data Name="DriverName">cdrom.inf</Data>
+<Data Name="ClassGuid">{4d36e965-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">cdrom</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.956812"></TimeCreated>
+<EventRecordID>73</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\PNP0C0A\0</Data>
+<Data Name="DriverName">cmbatt.inf</Data>
+<Data Name="ClassGuid">{72631e54-78a4-11d0-bcf7-00aa00b7b32a}</Data>
+<Data Name="ServiceName">CmBatt</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.956938"></TimeCreated>
+<EventRecordID>74</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\ACPI0003\0</Data>
+<Data Name="DriverName">cmbatt.inf</Data>
+<Data Name="ClassGuid">{72631e54-78a4-11d0-bcf7-00aa00b7b32a}</Data>
+<Data Name="ServiceName">CmBatt</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.957142"></TimeCreated>
+<EventRecordID>75</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104_-_AMD_Ryzen_7_5700U_with_Radeon_Graphics_________\_0</Data>
+<Data Name="DriverName">cpu.inf</Data>
+<Data Name="ClassGuid">{50127dc3-0f36-415e-a6cc-4cb3be910b65}</Data>
+<Data Name="ServiceName">AmdPPM</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.957273"></TimeCreated>
+<EventRecordID>76</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104_-_AMD_Ryzen_7_5700U_with_Radeon_Graphics_________\_1</Data>
+<Data Name="DriverName">cpu.inf</Data>
+<Data Name="ClassGuid">{50127dc3-0f36-415e-a6cc-4cb3be910b65}</Data>
+<Data Name="ServiceName">AmdPPM</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.957413"></TimeCreated>
+<EventRecordID>77</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104_-_AMD_Ryzen_7_5700U_with_Radeon_Graphics_________\_2</Data>
+<Data Name="DriverName">cpu.inf</Data>
+<Data Name="ClassGuid">{50127dc3-0f36-415e-a6cc-4cb3be910b65}</Data>
+<Data Name="ServiceName">AmdPPM</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.957535"></TimeCreated>
+<EventRecordID>78</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104_-_AMD_Ryzen_7_5700U_with_Radeon_Graphics_________\_3</Data>
+<Data Name="DriverName">cpu.inf</Data>
+<Data Name="ClassGuid">{50127dc3-0f36-415e-a6cc-4cb3be910b65}</Data>
+<Data Name="ServiceName">AmdPPM</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:35.048069"></TimeCreated>
+<EventRecordID>79</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">PCI\VEN_8086&amp;DEV_2668&amp;SUBSYS_76808384&amp;REV_01\3&amp;267a616a&amp;0&amp;28</Data>
+<Data Name="DriverName">hdaudbus.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">HDAudBus</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">430</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:35.049538"></TimeCreated>
+<EventRecordID>80</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="368"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">HDAUDIO\FUNC_01&amp;VEN_8384&amp;DEV_7680&amp;SUBSYS_83847680&amp;REV_1034\4&amp;31e60982&amp;0&amp;0001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:35.053713"></TimeCreated>
+<EventRecordID>81</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="368"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\CAD\0000</Data>
+<Data Name="DriverName">ChargeArbitration.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.652</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">CAD_Inst.NT</Data>
+<Data Name="DriverRank">0x00ff0000</Data>
+<Data Name="MatchingDeviceId">ROOT\CAD</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">HTREE\ROOT\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:35.055773"></TimeCreated>
+<EventRecordID>82</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="368"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\CAD\0000</Data>
+<Data Name="DriverName">ChargeArbitration.inf</Data>
+<Data Name="ClassGuid">{4d36e97d-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">CAD</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:35.770752"></TimeCreated>
+<EventRecordID>83</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="128"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\KDNIC\0000</Data>
+<Data Name="DriverName">kdnic.inf</Data>
+<Data Name="ClassGuid">{4d36e972-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">KdNic.ndi</Data>
+<Data Name="DriverRank">0x00ff0000</Data>
+<Data Name="MatchingDeviceId">root\kdnic</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">HTREE\ROOT\0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">430</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:35.774405"></TimeCreated>
+<EventRecordID>84</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">PCI\VEN_80EE&amp;DEV_BEEF&amp;SUBSYS_040515AD&amp;REV_00\3&amp;267a616a&amp;0&amp;10</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">430</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:35.775324"></TimeCreated>
+<EventRecordID>85</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">PCI\VEN_8086&amp;DEV_100E&amp;SUBSYS_001E8086&amp;REV_02\3&amp;267a616a&amp;0&amp;18</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:35.784204"></TimeCreated>
+<EventRecordID>86</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="128"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">HDAUDIO\FUNC_01&amp;VEN_8384&amp;DEV_7680&amp;SUBSYS_83847680&amp;REV_1034\4&amp;31e60982&amp;0&amp;0001</Data>
+<Data Name="DriverName">hdaudio.inf</Data>
+<Data Name="ClassGuid">{4d36e96c-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/05/2021</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">HdAudModel</Data>
+<Data Name="DriverRank">0x00ff300c</Data>
+<Data Name="MatchingDeviceId">HDAUDIO\FUNC_01</Data>
+<Data Name="OutrankedDrivers"></Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">PCI\VEN_8086&amp;DEV_2668&amp;SUBSYS_76808384&amp;REV_01\3&amp;267a616a&amp;0&amp;28</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:35.839966"></TimeCreated>
+<EventRecordID>87</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="128"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">HDAUDIO\FUNC_01&amp;VEN_8384&amp;DEV_7680&amp;SUBSYS_83847680&amp;REV_1034\4&amp;31e60982&amp;0&amp;0001</Data>
+<Data Name="DriverName">hdaudio.inf</Data>
+<Data Name="ClassGuid">{4d36e96c-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">HdAudAddService</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">430</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:35.842297"></TimeCreated>
+<EventRecordID>88</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="136"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">PCI\VEN_8086&amp;DEV_100E&amp;SUBSYS_001E8086&amp;REV_02\3&amp;267a616a&amp;0&amp;40</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:36.065931"></TimeCreated>
+<EventRecordID>89</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="360"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">DISPLAY\Default_Monitor\1&amp;8713bca&amp;0&amp;UID0</Data>
+<Data Name="DriverName">monitor.inf</Data>
+<Data Name="ClassGuid">{4d36e96e-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="DriverDate">06/21/2006</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">NonPnPMonitor.Install</Data>
+<Data Name="DriverRank">0x00ff0000</Data>
+<Data Name="MatchingDeviceId">MONITOR\Default_Monitor</Data>
+<Data Name="OutrankedDrivers">monitor.inf:*PNP09FF:00FF2000</Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">ROOT\BasicDisplay\0000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:36.070618"></TimeCreated>
+<EventRecordID>90</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="360"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">DISPLAY\Default_Monitor\1&amp;8713bca&amp;0&amp;UID0</Data>
+<Data Name="DriverName">monitor.inf</Data>
+<Data Name="ClassGuid">{4d36e96e-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">monitor</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:37.225641"></TimeCreated>
+<EventRecordID>91</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="156"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">ROOT\KDNIC\0000</Data>
+<Data Name="DriverName">kdnic.inf</Data>
+<Data Name="ClassGuid">{4d36e972-e325-11ce-bfc1-08002be10318}</Data>
+<Data Name="ServiceName">kdnic</Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">400</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:44.025080"></TimeCreated>
+<EventRecordID>92</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="368"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">SWD\MMDEVAPI\{0.0.0.00000000}.{a0eca7da-3b1f-49bb-90a6-79198ec39055}</Data>
+<Data Name="DriverName">audioendpoint.inf</Data>
+<Data Name="ClassGuid">{c166523c-fe0c-4a94-a586-f1a80cfbbf3e}</Data>
+<Data Name="DriverDate">06/05/2021</Data>
+<Data Name="DriverVersion">10.0.22000.1</Data>
+<Data Name="DriverProvider">Microsoft</Data>
+<Data Name="DriverInbox">True</Data>
+<Data Name="DriverSection">NO_DRV</Data>
+<Data Name="DriverRank">0x00ff0000</Data>
+<Data Name="MatchingDeviceId">MMDEVAPI\AudioEndpoints</Data>
+<Data Name="OutrankedDrivers">c_swdevice.inf:SWD\GenericRaw:00FF3001</Data>
+<Data Name="DeviceUpdated">False</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ParentDeviceInstanceId">HDAUDIO\FUNC_01&amp;VEN_8384&amp;DEV_7680&amp;SUBSYS_83847680&amp;REV_1034\4&amp;31e60982&amp;0&amp;0001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-PnP" Guid="{9c205a39-1250-487d-abd7-e831c6290539}"></Provider>
+<EventID Qualifiers="">410</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:44.025946"></TimeCreated>
+<EventRecordID>93</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="368"></Execution>
+<Channel>Microsoft-Windows-Kernel-PnP/Configuration</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceInstanceId">SWD\MMDEVAPI\{0.0.0.00000000}.{a0eca7da-3b1f-49bb-90a6-79198ec39055}</Data>
+<Data Name="DriverName">audioendpoint.inf</Data>
+<Data Name="ClassGuid">{c166523c-fe0c-4a94-a586-f1a80cfbbf3e}</Data>
+<Data Name="ServiceName"></Data>
+<Data Name="LowerFilters"></Data>
+<Data Name="UpperFilters"></Data>
+<Data Name="Problem">0x00000000</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+

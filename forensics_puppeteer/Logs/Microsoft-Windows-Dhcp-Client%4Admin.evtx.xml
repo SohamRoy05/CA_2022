@@ -1,0 +1,40 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Dhcp-Client" Guid="{15a7a4f8-0072-4eab-abad-f98a4d666aed}"></Provider>
+<EventID Qualifiers="">50041</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>71</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:44.517174"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2156" ThreadID="2236"></Execution>
+<Channel>Microsoft-Windows-Dhcp-Client/Admin</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Dhcp-Client" Guid="{15a7a4f8-0072-4eab-abad-f98a4d666aed}"></Provider>
+<EventID Qualifiers="">50041</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>6</Task>
+<Opcode>71</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:55.412975"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2072" ThreadID="2132"></Execution>
+<Channel>Microsoft-Windows-Dhcp-Client/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+</Events>

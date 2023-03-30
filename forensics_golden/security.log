@@ -1,0 +1,14 @@
+Mon May 16 16:25:34 2022: Log opened.
+Mon May 16 16:25:34 2022: File: Z:\home\kali\HTB\CA\forensics_golden\NTUSER.DAT
+Mon May 16 16:25:34 2022: Environment set up.
+Mon May 16 16:25:34 2022: Parsed Plugins file security
+Mon May 16 16:25:34 2022: Launching auditpol v.20121128
+Mon May 16 16:25:34 2022: 0 plugins completed with errors.
+Mon May 16 16:25:34 2022: auditpol complete.
+Mon May 16 16:25:34 2022: Launching lsasecrets v.20100219
+Mon May 16 16:25:34 2022: Launching lsasecrets v.20100219
+Mon May 16 16:25:34 2022: 0 plugins completed with errors.
+Mon May 16 16:25:34 2022: lsasecrets complete.
+Mon May 16 16:25:34 2022: Launching polacdms v.20100531
+Mon May 16 16:25:34 2022: 0 plugins completed with errors.
+Mon May 16 16:25:34 2022: polacdms complete.

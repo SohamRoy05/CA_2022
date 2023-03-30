@@ -1,0 +1,1959 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">306</EventID>
+<Version>0</Version>
+<Level>5</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:42.923851"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="3616"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>3</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:47.182800"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="6948"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="jobTitle">Font Download</Data>
+<Data Name="jobId">{55be21d0-eba6-4cd1-b640-cefe71c01a82}</Data>
+<Data Name="jobOwner">NT AUTHORITY\LOCAL SERVICE</Data>
+<Data Name="processPath">C:\Windows\System32\svchost.exe</Data>
+<Data Name="processId">2576</Data>
+<Data Name="ClientProcessStartKey">562949953421371</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">209</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:47.189968"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="6948"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="jobName">Font Download</Data>
+<Data Name="jobId">{55be21d0-eba6-4cd1-b640-cefe71c01a82}</Data>
+<Data Name="isRoaming">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">16403</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:47.197977"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="6948"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="User">NT AUTHORITY\LOCAL SERVICE</Data>
+<Data Name="jobTitle">Font Download</Data>
+<Data Name="jobId">{55be21d0-eba6-4cd1-b640-cefe71c01a82}</Data>
+<Data Name="jobOwner">NT AUTHORITY\LOCAL SERVICE</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="RemoteName">https://fs.microsoft.com/fs/windows/config.json</Data>
+<Data Name="LocalName">\\?\C:\WINDOWS\ServiceProfiles\LocalService\AppData\Local\FontCache\Fonts\Download-1.tmp</Data>
+<Data Name="processId">2576</Data>
+<Data Name="ClientProcessStartKey">562949953421371</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">310</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:47.577034"></TimeCreated>
+<EventRecordID>5</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="3656"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ErrorCode">2147942450</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">59</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:47.596138"></TimeCreated>
+<EventRecordID>6</EventRecordID>
+<Correlation ActivityID="{792b837a-42c1-42d6-987a-ded6196c5d1c}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="3656"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{792b837a-42c1-42d6-987a-ded6196c5d1c}</Data>
+<Data Name="name">Font Download</Data>
+<Data Name="Id">{55be21d0-eba6-4cd1-b640-cefe71c01a82}</Data>
+<Data Name="url">https://fs.microsoft.com/fs/windows/config.json</Data>
+<Data Name="peer"></Data>
+<Data Name="fileTime">2017-04-20 16:10:39</Data>
+<Data Name="fileLength">55</Data>
+<Data Name="bytesTotal">55</Data>
+<Data Name="bytesTransferred">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">60</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:47.911844"></TimeCreated>
+<EventRecordID>7</EventRecordID>
+<Correlation ActivityID="{792b837a-42c1-42d6-987a-ded6196c5d1c}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="6932"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{792b837a-42c1-42d6-987a-ded6196c5d1c}</Data>
+<Data Name="name">Font Download</Data>
+<Data Name="Id">{55be21d0-eba6-4cd1-b640-cefe71c01a82}</Data>
+<Data Name="url">https://fs.microsoft.com/fs/windows/config.json</Data>
+<Data Name="peer"></Data>
+<Data Name="hr">0</Data>
+<Data Name="fileTime">2017-04-20 16:10:39</Data>
+<Data Name="fileLength">55</Data>
+<Data Name="bytesTotal">55</Data>
+<Data Name="bytesTransferred">55</Data>
+<Data Name="proxy"></Data>
+<Data Name="peerProtocolFlags">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+<Data Name="AdditionalInfoHr">0</Data>
+<Data Name="PeerContextInfo">0</Data>
+<Data Name="bandwidthLimit">18446744073709551615</Data>
+<Data Name="ignoreBandwidthLimitsOnLan">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">4</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:47.914867"></TimeCreated>
+<EventRecordID>8</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="6932"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">NT AUTHORITY\LOCAL SERVICE</Data>
+<Data Name="jobTitle">Font Download</Data>
+<Data Name="jobId">{55be21d0-eba6-4cd1-b640-cefe71c01a82}</Data>
+<Data Name="jobOwner">NT AUTHORITY\LOCAL SERVICE</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="bytesTransferred">55</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>3</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:47.918329"></TimeCreated>
+<EventRecordID>9</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="6932"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="jobTitle">Font Download</Data>
+<Data Name="jobId">{0c5c20b2-edb1-4cba-ba0e-69879b23ca6a}</Data>
+<Data Name="jobOwner">NT AUTHORITY\LOCAL SERVICE</Data>
+<Data Name="processPath">C:\Windows\System32\svchost.exe</Data>
+<Data Name="processId">2576</Data>
+<Data Name="ClientProcessStartKey">562949953421371</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">209</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:47.918617"></TimeCreated>
+<EventRecordID>10</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="5552"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="jobName">Font Download</Data>
+<Data Name="jobId">{0c5c20b2-edb1-4cba-ba0e-69879b23ca6a}</Data>
+<Data Name="isRoaming">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">16403</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:47.922791"></TimeCreated>
+<EventRecordID>11</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="5552"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="User">NT AUTHORITY\LOCAL SERVICE</Data>
+<Data Name="jobTitle">Font Download</Data>
+<Data Name="jobId">{0c5c20b2-edb1-4cba-ba0e-69879b23ca6a}</Data>
+<Data Name="jobOwner">NT AUTHORITY\LOCAL SERVICE</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="RemoteName">https://fs.microsoft.com/fs/windows/fontset-2017-04.json</Data>
+<Data Name="LocalName">\\?\C:\WINDOWS\ServiceProfiles\LocalService\AppData\Local\FontCache\Fonts\Download-2.tmp</Data>
+<Data Name="processId">2576</Data>
+<Data Name="ClientProcessStartKey">562949953421371</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">59</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:48.240757"></TimeCreated>
+<EventRecordID>12</EventRecordID>
+<Correlation ActivityID="{cb9a1066-5151-40df-9dec-16d7ced51728}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="3656"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{cb9a1066-5151-40df-9dec-16d7ced51728}</Data>
+<Data Name="name">Font Download</Data>
+<Data Name="Id">{0c5c20b2-edb1-4cba-ba0e-69879b23ca6a}</Data>
+<Data Name="url">https://fs.microsoft.com/fs/windows/fontset-2017-04.json</Data>
+<Data Name="peer"></Data>
+<Data Name="fileTime">2017-04-20 16:11:28</Data>
+<Data Name="fileLength">356906</Data>
+<Data Name="bytesTotal">356906</Data>
+<Data Name="bytesTransferred">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">61</EventID>
+<Version>1</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:48.560719"></TimeCreated>
+<EventRecordID>13</EventRecordID>
+<Correlation ActivityID="{cb9a1066-5151-40df-9dec-16d7ced51728}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="6460"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{cb9a1066-5151-40df-9dec-16d7ced51728}</Data>
+<Data Name="name">Font Download</Data>
+<Data Name="Id">{0c5c20b2-edb1-4cba-ba0e-69879b23ca6a}</Data>
+<Data Name="url">https://fs.microsoft.com/fs/windows/fontset-2017-04.json</Data>
+<Data Name="peer"></Data>
+<Data Name="hr">2149580817</Data>
+<Data Name="fileTime">2017-04-20 16:11:28</Data>
+<Data Name="fileLength">18446744073709551615</Data>
+<Data Name="bytesTotal">18446744073709551615</Data>
+<Data Name="bytesTransferred">0</Data>
+<Data Name="proxy"></Data>
+<Data Name="peerProtocolFlags">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+<Data Name="AdditionalInfoHr">0</Data>
+<Data Name="PeerContextInfo">0</Data>
+<Data Name="bandwidthLimit">18446744073709551615</Data>
+<Data Name="ignoreBandwidthLimitsOnLan">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">59</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:48.567116"></TimeCreated>
+<EventRecordID>14</EventRecordID>
+<Correlation ActivityID="{55058ba3-f149-475a-927a-d3ee5655f2d9}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="3656"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{55058ba3-f149-475a-927a-d3ee5655f2d9}</Data>
+<Data Name="name">Font Download</Data>
+<Data Name="Id">{0c5c20b2-edb1-4cba-ba0e-69879b23ca6a}</Data>
+<Data Name="url">https://fs.microsoft.com/fs/windows/fontset-2017-04.json</Data>
+<Data Name="peer"></Data>
+<Data Name="fileTime">2017-04-20 16:11:28</Data>
+<Data Name="fileLength">18446744073709551615</Data>
+<Data Name="bytesTotal">18446744073709551615</Data>
+<Data Name="bytesTransferred">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">61</EventID>
+<Version>1</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:48.887342"></TimeCreated>
+<EventRecordID>15</EventRecordID>
+<Correlation ActivityID="{55058ba3-f149-475a-927a-d3ee5655f2d9}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="6460"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{55058ba3-f149-475a-927a-d3ee5655f2d9}</Data>
+<Data Name="name">Font Download</Data>
+<Data Name="Id">{0c5c20b2-edb1-4cba-ba0e-69879b23ca6a}</Data>
+<Data Name="url">https://fs.microsoft.com/fs/windows/fontset-2017-04.json</Data>
+<Data Name="peer"></Data>
+<Data Name="hr">2149580817</Data>
+<Data Name="fileTime">2017-04-20 16:11:28</Data>
+<Data Name="fileLength">18446744073709551615</Data>
+<Data Name="bytesTotal">18446744073709551615</Data>
+<Data Name="bytesTransferred">0</Data>
+<Data Name="proxy"></Data>
+<Data Name="peerProtocolFlags">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+<Data Name="AdditionalInfoHr">0</Data>
+<Data Name="PeerContextInfo">0</Data>
+<Data Name="bandwidthLimit">18446744073709551615</Data>
+<Data Name="ignoreBandwidthLimitsOnLan">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">59</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:48.895039"></TimeCreated>
+<EventRecordID>16</EventRecordID>
+<Correlation ActivityID="{0aa41b2e-cad9-4bb2-9f7c-717383da15ac}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="3656"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{0aa41b2e-cad9-4bb2-9f7c-717383da15ac}</Data>
+<Data Name="name">Font Download</Data>
+<Data Name="Id">{0c5c20b2-edb1-4cba-ba0e-69879b23ca6a}</Data>
+<Data Name="url">https://fs.microsoft.com/fs/windows/fontset-2017-04.json</Data>
+<Data Name="peer"></Data>
+<Data Name="fileTime">2017-04-20 16:11:28</Data>
+<Data Name="fileLength">18446744073709551615</Data>
+<Data Name="bytesTotal">18446744073709551615</Data>
+<Data Name="bytesTransferred">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">61</EventID>
+<Version>1</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:49.212885"></TimeCreated>
+<EventRecordID>17</EventRecordID>
+<Correlation ActivityID="{0aa41b2e-cad9-4bb2-9f7c-717383da15ac}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="3980"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{0aa41b2e-cad9-4bb2-9f7c-717383da15ac}</Data>
+<Data Name="name">Font Download</Data>
+<Data Name="Id">{0c5c20b2-edb1-4cba-ba0e-69879b23ca6a}</Data>
+<Data Name="url">https://fs.microsoft.com/fs/windows/fontset-2017-04.json</Data>
+<Data Name="peer"></Data>
+<Data Name="hr">2149580817</Data>
+<Data Name="fileTime">2017-04-20 16:11:28</Data>
+<Data Name="fileLength">18446744073709551615</Data>
+<Data Name="bytesTotal">18446744073709551615</Data>
+<Data Name="bytesTransferred">0</Data>
+<Data Name="proxy"></Data>
+<Data Name="peerProtocolFlags">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+<Data Name="AdditionalInfoHr">0</Data>
+<Data Name="PeerContextInfo">0</Data>
+<Data Name="bandwidthLimit">18446744073709551615</Data>
+<Data Name="ignoreBandwidthLimitsOnLan">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">59</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:49.229189"></TimeCreated>
+<EventRecordID>18</EventRecordID>
+<Correlation ActivityID="{32165827-88b8-47b6-ab18-4c46ab781efa}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="3656"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{32165827-88b8-47b6-ab18-4c46ab781efa}</Data>
+<Data Name="name">Font Download</Data>
+<Data Name="Id">{0c5c20b2-edb1-4cba-ba0e-69879b23ca6a}</Data>
+<Data Name="url">https://fs.microsoft.com/fs/windows/fontset-2017-04.json</Data>
+<Data Name="peer"></Data>
+<Data Name="fileTime">2017-04-20 16:11:28</Data>
+<Data Name="fileLength">18446744073709551615</Data>
+<Data Name="bytesTotal">18446744073709551615</Data>
+<Data Name="bytesTransferred">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">61</EventID>
+<Version>1</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:49.560699"></TimeCreated>
+<EventRecordID>19</EventRecordID>
+<Correlation ActivityID="{32165827-88b8-47b6-ab18-4c46ab781efa}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="6460"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{32165827-88b8-47b6-ab18-4c46ab781efa}</Data>
+<Data Name="name">Font Download</Data>
+<Data Name="Id">{0c5c20b2-edb1-4cba-ba0e-69879b23ca6a}</Data>
+<Data Name="url">https://fs.microsoft.com/fs/windows/fontset-2017-04.json</Data>
+<Data Name="peer"></Data>
+<Data Name="hr">2149580817</Data>
+<Data Name="fileTime">2017-04-20 16:11:28</Data>
+<Data Name="fileLength">18446744073709551615</Data>
+<Data Name="bytesTotal">18446744073709551615</Data>
+<Data Name="bytesTransferred">0</Data>
+<Data Name="proxy"></Data>
+<Data Name="peerProtocolFlags">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+<Data Name="AdditionalInfoHr">0</Data>
+<Data Name="PeerContextInfo">0</Data>
+<Data Name="bandwidthLimit">18446744073709551615</Data>
+<Data Name="ignoreBandwidthLimitsOnLan">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">5</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:49.567829"></TimeCreated>
+<EventRecordID>20</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="3980"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="User">NT AUTHORITY\LOCAL SERVICE</Data>
+<Data Name="jobTitle">Font Download</Data>
+<Data Name="jobId">{0c5c20b2-edb1-4cba-ba0e-69879b23ca6a}</Data>
+<Data Name="jobOwner">NT AUTHORITY\LOCAL SERVICE</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="processId">2576</Data>
+<Data Name="ClientProcessStartKey">562949953421371</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>3</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:49.570860"></TimeCreated>
+<EventRecordID>21</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="3980"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="jobTitle">Font Download</Data>
+<Data Name="jobId">{a8e015fa-bb33-4c0e-92e8-cf130d3f16e9}</Data>
+<Data Name="jobOwner">NT AUTHORITY\LOCAL SERVICE</Data>
+<Data Name="processPath">C:\Windows\System32\svchost.exe</Data>
+<Data Name="processId">2576</Data>
+<Data Name="ClientProcessStartKey">562949953421371</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">209</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:49.571089"></TimeCreated>
+<EventRecordID>22</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="6460"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="jobName">Font Download</Data>
+<Data Name="jobId">{a8e015fa-bb33-4c0e-92e8-cf130d3f16e9}</Data>
+<Data Name="isRoaming">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">16403</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:49.575974"></TimeCreated>
+<EventRecordID>23</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="6460"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="User">NT AUTHORITY\LOCAL SERVICE</Data>
+<Data Name="jobTitle">Font Download</Data>
+<Data Name="jobId">{a8e015fa-bb33-4c0e-92e8-cf130d3f16e9}</Data>
+<Data Name="jobOwner">NT AUTHORITY\LOCAL SERVICE</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="RemoteName">https://fs.microsoft.com/fs/windows/fontset-2017-04.json</Data>
+<Data Name="LocalName">\\?\C:\WINDOWS\ServiceProfiles\LocalService\AppData\Local\FontCache\Fonts\Download-3.tmp</Data>
+<Data Name="processId">2576</Data>
+<Data Name="ClientProcessStartKey">562949953421371</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">59</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:49.582018"></TimeCreated>
+<EventRecordID>24</EventRecordID>
+<Correlation ActivityID="{54a86692-156a-46cb-b830-0b7cd0502667}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="3656"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{54a86692-156a-46cb-b830-0b7cd0502667}</Data>
+<Data Name="name">Font Download</Data>
+<Data Name="Id">{a8e015fa-bb33-4c0e-92e8-cf130d3f16e9}</Data>
+<Data Name="url">https://fs.microsoft.com/fs/windows/fontset-2017-04.json</Data>
+<Data Name="peer"></Data>
+<Data Name="fileTime">0001-01-01 00:00:00</Data>
+<Data Name="fileLength">18446744073709551615</Data>
+<Data Name="bytesTotal">18446744073709551615</Data>
+<Data Name="bytesTransferred">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">61</EventID>
+<Version>1</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:49.912630"></TimeCreated>
+<EventRecordID>25</EventRecordID>
+<Correlation ActivityID="{54a86692-156a-46cb-b830-0b7cd0502667}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="3980"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{54a86692-156a-46cb-b830-0b7cd0502667}</Data>
+<Data Name="name">Font Download</Data>
+<Data Name="Id">{a8e015fa-bb33-4c0e-92e8-cf130d3f16e9}</Data>
+<Data Name="url">https://fs.microsoft.com/fs/windows/fontset-2017-04.json</Data>
+<Data Name="peer"></Data>
+<Data Name="hr">2149580817</Data>
+<Data Name="fileTime">0001-01-01 00:00:00</Data>
+<Data Name="fileLength">18446744073709551615</Data>
+<Data Name="bytesTotal">18446744073709551615</Data>
+<Data Name="bytesTransferred">0</Data>
+<Data Name="proxy"></Data>
+<Data Name="peerProtocolFlags">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+<Data Name="AdditionalInfoHr">0</Data>
+<Data Name="PeerContextInfo">0</Data>
+<Data Name="bandwidthLimit">18446744073709551615</Data>
+<Data Name="ignoreBandwidthLimitsOnLan">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">59</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:49.917042"></TimeCreated>
+<EventRecordID>26</EventRecordID>
+<Correlation ActivityID="{52afad4d-cebe-4373-9fbf-516720496afa}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="3656"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{52afad4d-cebe-4373-9fbf-516720496afa}</Data>
+<Data Name="name">Font Download</Data>
+<Data Name="Id">{a8e015fa-bb33-4c0e-92e8-cf130d3f16e9}</Data>
+<Data Name="url">https://fs.microsoft.com/fs/windows/fontset-2017-04.json</Data>
+<Data Name="peer"></Data>
+<Data Name="fileTime">0001-01-01 00:00:00</Data>
+<Data Name="fileLength">18446744073709551615</Data>
+<Data Name="bytesTotal">18446744073709551615</Data>
+<Data Name="bytesTransferred">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">60</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:50.608078"></TimeCreated>
+<EventRecordID>27</EventRecordID>
+<Correlation ActivityID="{52afad4d-cebe-4373-9fbf-516720496afa}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="5552"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{52afad4d-cebe-4373-9fbf-516720496afa}</Data>
+<Data Name="name">Font Download</Data>
+<Data Name="Id">{a8e015fa-bb33-4c0e-92e8-cf130d3f16e9}</Data>
+<Data Name="url">https://fs.microsoft.com/fs/windows/fontset-2017-04.json</Data>
+<Data Name="peer"></Data>
+<Data Name="hr">0</Data>
+<Data Name="fileTime">2017-04-20 16:11:28</Data>
+<Data Name="fileLength">356906</Data>
+<Data Name="bytesTotal">356906</Data>
+<Data Name="bytesTransferred">356906</Data>
+<Data Name="proxy"></Data>
+<Data Name="peerProtocolFlags">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+<Data Name="AdditionalInfoHr">0</Data>
+<Data Name="PeerContextInfo">0</Data>
+<Data Name="bandwidthLimit">18446744073709551615</Data>
+<Data Name="ignoreBandwidthLimitsOnLan">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">4</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:50.610373"></TimeCreated>
+<EventRecordID>28</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3212" ThreadID="5552"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">NT AUTHORITY\LOCAL SERVICE</Data>
+<Data Name="jobTitle">Font Download</Data>
+<Data Name="jobId">{a8e015fa-bb33-4c0e-92e8-cf130d3f16e9}</Data>
+<Data Name="jobOwner">NT AUTHORITY\LOCAL SERVICE</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="bytesTransferred">356906</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">306</EventID>
+<Version>0</Version>
+<Level>5</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:25:11.955107"></TimeCreated>
+<EventRecordID>29</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="3788"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>3</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:07.812971"></TimeCreated>
+<EventRecordID>30</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="4432"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="jobTitle">PreSignInSettingsConfigJSON</Data>
+<Data Name="jobId">{601ef426-287f-416b-9473-862f77d1f06d}</Data>
+<Data Name="jobOwner">Council-HQ\Council Leader</Data>
+<Data Name="processPath">C:\Windows\SysWOW64\OneDriveSetup.exe</Data>
+<Data Name="processId">7876</Data>
+<Data Name="ClientProcessStartKey">844424930132176</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">16403</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:07.842113"></TimeCreated>
+<EventRecordID>31</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="4432"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="User">Council-HQ\Council Leader</Data>
+<Data Name="jobTitle">PreSignInSettingsConfigJSON</Data>
+<Data Name="jobId">{601ef426-287f-416b-9473-862f77d1f06d}</Data>
+<Data Name="jobOwner">Council-HQ\Council Leader</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="RemoteName">https://g.live.com/odclientsettings/Prod</Data>
+<Data Name="LocalName">C:\Users\COUNCI~1\AppData\Local\Temp\wctC8B5.tmp</Data>
+<Data Name="processId">7876</Data>
+<Data Name="ClientProcessStartKey">844424930132176</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">310</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:09.560543"></TimeCreated>
+<EventRecordID>32</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="7908"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ErrorCode">2147942450</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">59</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:09.574924"></TimeCreated>
+<EventRecordID>33</EventRecordID>
+<Correlation ActivityID="{b230b4a6-6c22-4334-a397-63fd2f2a9ca5}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="7908"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{b230b4a6-6c22-4334-a397-63fd2f2a9ca5}</Data>
+<Data Name="name">PreSignInSettingsConfigJSON</Data>
+<Data Name="Id">{601ef426-287f-416b-9473-862f77d1f06d}</Data>
+<Data Name="url">https://g.live.com/odclientsettings/Prod</Data>
+<Data Name="peer"></Data>
+<Data Name="fileTime">2022-05-06 15:20:37</Data>
+<Data Name="fileLength">56991</Data>
+<Data Name="bytesTotal">56991</Data>
+<Data Name="bytesTransferred">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">60</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:09.880182"></TimeCreated>
+<EventRecordID>34</EventRecordID>
+<Correlation ActivityID="{b230b4a6-6c22-4334-a397-63fd2f2a9ca5}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="4432"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{b230b4a6-6c22-4334-a397-63fd2f2a9ca5}</Data>
+<Data Name="name">PreSignInSettingsConfigJSON</Data>
+<Data Name="Id">{601ef426-287f-416b-9473-862f77d1f06d}</Data>
+<Data Name="url">https://g.live.com/odclientsettings/Prod</Data>
+<Data Name="peer"></Data>
+<Data Name="hr">0</Data>
+<Data Name="fileTime">2022-05-06 15:20:37</Data>
+<Data Name="fileLength">56991</Data>
+<Data Name="bytesTotal">56991</Data>
+<Data Name="bytesTransferred">56991</Data>
+<Data Name="proxy"></Data>
+<Data Name="peerProtocolFlags">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+<Data Name="AdditionalInfoHr">0</Data>
+<Data Name="PeerContextInfo">0</Data>
+<Data Name="bandwidthLimit">18446744073709551615</Data>
+<Data Name="ignoreBandwidthLimitsOnLan">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">4</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:09.882204"></TimeCreated>
+<EventRecordID>35</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="4432"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">Council-HQ\Council Leader</Data>
+<Data Name="jobTitle">PreSignInSettingsConfigJSON</Data>
+<Data Name="jobId">{601ef426-287f-416b-9473-862f77d1f06d}</Data>
+<Data Name="jobOwner">Council-HQ\Council Leader</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="bytesTransferred">56991</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>3</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:28.675215"></TimeCreated>
+<EventRecordID>36</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="6724"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="jobTitle">PreSignInSettingsConfigJSON</Data>
+<Data Name="jobId">{036411d8-ce35-4e55-96a7-87e551c320fb}</Data>
+<Data Name="jobOwner">Council-HQ\Council Leader</Data>
+<Data Name="processPath">C:\Users\Council Leader\AppData\Local\Microsoft\OneDrive\OneDrive.exe</Data>
+<Data Name="processId">1964</Data>
+<Data Name="ClientProcessStartKey">844424930132182</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">16403</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:28.682589"></TimeCreated>
+<EventRecordID>37</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="6724"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="User">Council-HQ\Council Leader</Data>
+<Data Name="jobTitle">PreSignInSettingsConfigJSON</Data>
+<Data Name="jobId">{036411d8-ce35-4e55-96a7-87e551c320fb}</Data>
+<Data Name="jobOwner">Council-HQ\Council Leader</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="RemoteName">https://g.live.com/odclientsettings/Prod?OneDriveUpdate=652629e75f12b322ef8f10a3c0f3</Data>
+<Data Name="LocalName">C:\Users\COUNCI~1\AppData\Local\Temp\wct1A30.tmp</Data>
+<Data Name="processId">1964</Data>
+<Data Name="ClientProcessStartKey">844424930132182</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">59</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:28.859436"></TimeCreated>
+<EventRecordID>38</EventRecordID>
+<Correlation ActivityID="{07b302a4-cc71-47ff-b4db-ddef68ee5317}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="7908"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{07b302a4-cc71-47ff-b4db-ddef68ee5317}</Data>
+<Data Name="name">PreSignInSettingsConfigJSON</Data>
+<Data Name="Id">{036411d8-ce35-4e55-96a7-87e551c320fb}</Data>
+<Data Name="url">https://g.live.com/odclientsettings/Prod?OneDriveUpdate=652629e75f12b322ef8f10a3c0f3</Data>
+<Data Name="peer"></Data>
+<Data Name="fileTime">2022-05-06 15:20:37</Data>
+<Data Name="fileLength">56991</Data>
+<Data Name="bytesTotal">56991</Data>
+<Data Name="bytesTransferred">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">60</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:29.099789"></TimeCreated>
+<EventRecordID>39</EventRecordID>
+<Correlation ActivityID="{07b302a4-cc71-47ff-b4db-ddef68ee5317}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="6908"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{07b302a4-cc71-47ff-b4db-ddef68ee5317}</Data>
+<Data Name="name">PreSignInSettingsConfigJSON</Data>
+<Data Name="Id">{036411d8-ce35-4e55-96a7-87e551c320fb}</Data>
+<Data Name="url">https://g.live.com/odclientsettings/Prod?OneDriveUpdate=652629e75f12b322ef8f10a3c0f3</Data>
+<Data Name="peer"></Data>
+<Data Name="hr">0</Data>
+<Data Name="fileTime">2022-05-06 15:20:37</Data>
+<Data Name="fileLength">56991</Data>
+<Data Name="bytesTotal">56991</Data>
+<Data Name="bytesTransferred">56991</Data>
+<Data Name="proxy"></Data>
+<Data Name="peerProtocolFlags">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+<Data Name="AdditionalInfoHr">0</Data>
+<Data Name="PeerContextInfo">0</Data>
+<Data Name="bandwidthLimit">18446744073709551615</Data>
+<Data Name="ignoreBandwidthLimitsOnLan">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">4</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:29.101959"></TimeCreated>
+<EventRecordID>40</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="6908"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">Council-HQ\Council Leader</Data>
+<Data Name="jobTitle">PreSignInSettingsConfigJSON</Data>
+<Data Name="jobId">{036411d8-ce35-4e55-96a7-87e551c320fb}</Data>
+<Data Name="jobOwner">Council-HQ\Council Leader</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="bytesTransferred">56991</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>3</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:27:11.742317"></TimeCreated>
+<EventRecordID>41</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="6724"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="jobTitle">UpdateBinary</Data>
+<Data Name="jobId">{1cad6716-aac9-4d32-b89d-ef4718c6bd3e}</Data>
+<Data Name="jobOwner">Council-HQ\Council Leader</Data>
+<Data Name="processPath">C:\Users\Council Leader\AppData\Local\Microsoft\OneDrive\OneDrive.exe</Data>
+<Data Name="processId">1964</Data>
+<Data Name="ClientProcessStartKey">844424930132182</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">16403</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:27:11.746695"></TimeCreated>
+<EventRecordID>42</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="4432"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="User">Council-HQ\Council Leader</Data>
+<Data Name="jobTitle">UpdateBinary</Data>
+<Data Name="jobId">{1cad6716-aac9-4d32-b89d-ef4718c6bd3e}</Data>
+<Data Name="jobOwner">Council-HQ\Council Leader</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="RemoteName">https://oneclient.sfx.ms/Win/Prod/21.220.1024.0005/OneDriveSetup.exe</Data>
+<Data Name="LocalName">C:\Users\COUNCI~1\AppData\Local\Temp\wctC268.tmp</Data>
+<Data Name="processId">1964</Data>
+<Data Name="ClientProcessStartKey">844424930132182</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">59</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:27:11.840712"></TimeCreated>
+<EventRecordID>43</EventRecordID>
+<Correlation ActivityID="{02d6af71-2db6-4d60-89f5-a5a39306f792}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="5192"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{02d6af71-2db6-4d60-89f5-a5a39306f792}</Data>
+<Data Name="name">UpdateBinary</Data>
+<Data Name="Id">{1cad6716-aac9-4d32-b89d-ef4718c6bd3e}</Data>
+<Data Name="url">https://oneclient.sfx.ms/Win/Prod/21.220.1024.0005/OneDriveSetup.exe</Data>
+<Data Name="peer"></Data>
+<Data Name="fileTime">2021-11-21 20:18:52</Data>
+<Data Name="fileLength">42164600</Data>
+<Data Name="bytesTotal">42164600</Data>
+<Data Name="bytesTransferred">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">60</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:27:19.900053"></TimeCreated>
+<EventRecordID>44</EventRecordID>
+<Correlation ActivityID="{02d6af71-2db6-4d60-89f5-a5a39306f792}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="664"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{02d6af71-2db6-4d60-89f5-a5a39306f792}</Data>
+<Data Name="name">UpdateBinary</Data>
+<Data Name="Id">{1cad6716-aac9-4d32-b89d-ef4718c6bd3e}</Data>
+<Data Name="url">https://oneclient.sfx.ms/Win/Prod/21.220.1024.0005/OneDriveSetup.exe</Data>
+<Data Name="peer"></Data>
+<Data Name="hr">0</Data>
+<Data Name="fileTime">2021-11-21 20:18:52</Data>
+<Data Name="fileLength">42164600</Data>
+<Data Name="bytesTotal">42164600</Data>
+<Data Name="bytesTransferred">42164600</Data>
+<Data Name="proxy"></Data>
+<Data Name="peerProtocolFlags">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+<Data Name="AdditionalInfoHr">0</Data>
+<Data Name="PeerContextInfo">0</Data>
+<Data Name="bandwidthLimit">18446744073709551615</Data>
+<Data Name="ignoreBandwidthLimitsOnLan">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">4</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:27:19.902971"></TimeCreated>
+<EventRecordID>45</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="664"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">Council-HQ\Council Leader</Data>
+<Data Name="jobTitle">UpdateBinary</Data>
+<Data Name="jobId">{1cad6716-aac9-4d32-b89d-ef4718c6bd3e}</Data>
+<Data Name="jobOwner">Council-HQ\Council Leader</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="bytesTransferred">42164600</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>3</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:27:20.949240"></TimeCreated>
+<EventRecordID>46</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="664"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="jobTitle">PreSignInSettingsConfigJSON</Data>
+<Data Name="jobId">{54b98c57-7faf-4dc8-b7fe-7cff83ee28c1}</Data>
+<Data Name="jobOwner">Council-HQ\Council Leader</Data>
+<Data Name="processPath">C:\Users\Council Leader\AppData\Local\Microsoft\OneDrive\Update\OneDriveSetup.exe</Data>
+<Data Name="processId">1068</Data>
+<Data Name="ClientProcessStartKey">844424930132198</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">16403</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:27:20.956913"></TimeCreated>
+<EventRecordID>47</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="6724"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="User">Council-HQ\Council Leader</Data>
+<Data Name="jobTitle">PreSignInSettingsConfigJSON</Data>
+<Data Name="jobId">{54b98c57-7faf-4dc8-b7fe-7cff83ee28c1}</Data>
+<Data Name="jobOwner">Council-HQ\Council Leader</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="RemoteName">https://g.live.com/odclientsettings/Prod</Data>
+<Data Name="LocalName">C:\Users\COUNCI~1\AppData\Local\Temp\wctE65A.tmp</Data>
+<Data Name="processId">1068</Data>
+<Data Name="ClientProcessStartKey">844424930132198</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">59</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:27:21.121918"></TimeCreated>
+<EventRecordID>48</EventRecordID>
+<Correlation ActivityID="{62420b58-0547-4552-8eae-d31b15c7044b}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="5192"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{62420b58-0547-4552-8eae-d31b15c7044b}</Data>
+<Data Name="name">PreSignInSettingsConfigJSON</Data>
+<Data Name="Id">{54b98c57-7faf-4dc8-b7fe-7cff83ee28c1}</Data>
+<Data Name="url">https://g.live.com/odclientsettings/Prod</Data>
+<Data Name="peer"></Data>
+<Data Name="fileTime">2022-05-06 15:20:37</Data>
+<Data Name="fileLength">56991</Data>
+<Data Name="bytesTotal">56991</Data>
+<Data Name="bytesTransferred">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">60</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:27:21.307289"></TimeCreated>
+<EventRecordID>49</EventRecordID>
+<Correlation ActivityID="{62420b58-0547-4552-8eae-d31b15c7044b}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="4432"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{62420b58-0547-4552-8eae-d31b15c7044b}</Data>
+<Data Name="name">PreSignInSettingsConfigJSON</Data>
+<Data Name="Id">{54b98c57-7faf-4dc8-b7fe-7cff83ee28c1}</Data>
+<Data Name="url">https://g.live.com/odclientsettings/Prod</Data>
+<Data Name="peer"></Data>
+<Data Name="hr">0</Data>
+<Data Name="fileTime">2022-05-06 15:20:37</Data>
+<Data Name="fileLength">56991</Data>
+<Data Name="bytesTotal">56991</Data>
+<Data Name="bytesTransferred">56991</Data>
+<Data Name="proxy"></Data>
+<Data Name="peerProtocolFlags">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+<Data Name="AdditionalInfoHr">0</Data>
+<Data Name="PeerContextInfo">0</Data>
+<Data Name="bandwidthLimit">18446744073709551615</Data>
+<Data Name="ignoreBandwidthLimitsOnLan">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">4</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:27:21.309320"></TimeCreated>
+<EventRecordID>50</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5936" ThreadID="4432"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">Council-HQ\Council Leader</Data>
+<Data Name="jobTitle">PreSignInSettingsConfigJSON</Data>
+<Data Name="jobId">{54b98c57-7faf-4dc8-b7fe-7cff83ee28c1}</Data>
+<Data Name="jobOwner">Council-HQ\Council Leader</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="bytesTransferred">56991</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">306</EventID>
+<Version>0</Version>
+<Level>5</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:30.441717"></TimeCreated>
+<EventRecordID>51</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="6300"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>3</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:41:45.710552"></TimeCreated>
+<EventRecordID>52</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="7332"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="jobTitle">PreSignInSettingsConfigJSON</Data>
+<Data Name="jobId">{229b7623-1831-4a2e-af41-0166037f9024}</Data>
+<Data Name="jobOwner">Council-HQ\sysadm</Data>
+<Data Name="processPath">C:\Windows\SysWOW64\OneDriveSetup.exe</Data>
+<Data Name="processId">3552</Data>
+<Data Name="ClientProcessStartKey">1125899906842914</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">16403</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:41:45.720436"></TimeCreated>
+<EventRecordID>53</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="7332"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="User">Council-HQ\sysadm</Data>
+<Data Name="jobTitle">PreSignInSettingsConfigJSON</Data>
+<Data Name="jobId">{229b7623-1831-4a2e-af41-0166037f9024}</Data>
+<Data Name="jobOwner">Council-HQ\sysadm</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="RemoteName">https://g.live.com/odclientsettings/Prod</Data>
+<Data Name="LocalName">C:\Users\sysadm\AppData\Local\Temp\wctD6F3.tmp</Data>
+<Data Name="processId">3552</Data>
+<Data Name="ClientProcessStartKey">1125899906842914</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">310</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:41:46.467960"></TimeCreated>
+<EventRecordID>54</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="3612"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ErrorCode">2147942450</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">59</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:41:46.479181"></TimeCreated>
+<EventRecordID>55</EventRecordID>
+<Correlation ActivityID="{1df6d663-f68e-4ec5-852c-807a21ee6362}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="3612"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{1df6d663-f68e-4ec5-852c-807a21ee6362}</Data>
+<Data Name="name">PreSignInSettingsConfigJSON</Data>
+<Data Name="Id">{229b7623-1831-4a2e-af41-0166037f9024}</Data>
+<Data Name="url">https://g.live.com/odclientsettings/Prod</Data>
+<Data Name="peer"></Data>
+<Data Name="fileTime">2022-05-06 15:35:34</Data>
+<Data Name="fileLength">56991</Data>
+<Data Name="bytesTotal">56991</Data>
+<Data Name="bytesTransferred">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">60</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:41:46.751060"></TimeCreated>
+<EventRecordID>56</EventRecordID>
+<Correlation ActivityID="{1df6d663-f68e-4ec5-852c-807a21ee6362}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="7220"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{1df6d663-f68e-4ec5-852c-807a21ee6362}</Data>
+<Data Name="name">PreSignInSettingsConfigJSON</Data>
+<Data Name="Id">{229b7623-1831-4a2e-af41-0166037f9024}</Data>
+<Data Name="url">https://g.live.com/odclientsettings/Prod</Data>
+<Data Name="peer"></Data>
+<Data Name="hr">0</Data>
+<Data Name="fileTime">2022-05-06 15:35:34</Data>
+<Data Name="fileLength">56991</Data>
+<Data Name="bytesTotal">56991</Data>
+<Data Name="bytesTransferred">56991</Data>
+<Data Name="proxy"></Data>
+<Data Name="peerProtocolFlags">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+<Data Name="AdditionalInfoHr">0</Data>
+<Data Name="PeerContextInfo">0</Data>
+<Data Name="bandwidthLimit">18446744073709551615</Data>
+<Data Name="ignoreBandwidthLimitsOnLan">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">4</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:41:46.754227"></TimeCreated>
+<EventRecordID>57</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="7220"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">Council-HQ\sysadm</Data>
+<Data Name="jobTitle">PreSignInSettingsConfigJSON</Data>
+<Data Name="jobId">{229b7623-1831-4a2e-af41-0166037f9024}</Data>
+<Data Name="jobOwner">Council-HQ\sysadm</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="bytesTransferred">56991</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>3</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:41:51.927008"></TimeCreated>
+<EventRecordID>58</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="7248"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="jobTitle">PreSignInSettingsConfigJSON</Data>
+<Data Name="jobId">{7134e979-f406-430e-adcb-30ea18ea5266}</Data>
+<Data Name="jobOwner">Council-HQ\sysadm</Data>
+<Data Name="processPath">C:\Users\sysadm\AppData\Local\Microsoft\OneDrive\OneDrive.exe</Data>
+<Data Name="processId">7584</Data>
+<Data Name="ClientProcessStartKey">1125899906842917</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">16403</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:41:51.931583"></TimeCreated>
+<EventRecordID>59</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="7248"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="User">Council-HQ\sysadm</Data>
+<Data Name="jobTitle">PreSignInSettingsConfigJSON</Data>
+<Data Name="jobId">{7134e979-f406-430e-adcb-30ea18ea5266}</Data>
+<Data Name="jobOwner">Council-HQ\sysadm</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="RemoteName">https://g.live.com/odclientsettings/Prod?OneDriveUpdate=5aa21097c2448498f7579aed8a3</Data>
+<Data Name="LocalName">C:\Users\sysadm\AppData\Local\Temp\wctEF3E.tmp</Data>
+<Data Name="processId">7584</Data>
+<Data Name="ClientProcessStartKey">1125899906842917</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">59</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:41:52.089230"></TimeCreated>
+<EventRecordID>60</EventRecordID>
+<Correlation ActivityID="{48683a68-a2c1-449d-9cac-5a26b0c558f0}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="3612"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{48683a68-a2c1-449d-9cac-5a26b0c558f0}</Data>
+<Data Name="name">PreSignInSettingsConfigJSON</Data>
+<Data Name="Id">{7134e979-f406-430e-adcb-30ea18ea5266}</Data>
+<Data Name="url">https://g.live.com/odclientsettings/Prod?OneDriveUpdate=5aa21097c2448498f7579aed8a3</Data>
+<Data Name="peer"></Data>
+<Data Name="fileTime">2022-05-06 15:35:34</Data>
+<Data Name="fileLength">56991</Data>
+<Data Name="bytesTotal">56991</Data>
+<Data Name="bytesTransferred">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">60</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:41:52.320164"></TimeCreated>
+<EventRecordID>61</EventRecordID>
+<Correlation ActivityID="{48683a68-a2c1-449d-9cac-5a26b0c558f0}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="7332"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{48683a68-a2c1-449d-9cac-5a26b0c558f0}</Data>
+<Data Name="name">PreSignInSettingsConfigJSON</Data>
+<Data Name="Id">{7134e979-f406-430e-adcb-30ea18ea5266}</Data>
+<Data Name="url">https://g.live.com/odclientsettings/Prod?OneDriveUpdate=5aa21097c2448498f7579aed8a3</Data>
+<Data Name="peer"></Data>
+<Data Name="hr">0</Data>
+<Data Name="fileTime">2022-05-06 15:35:34</Data>
+<Data Name="fileLength">56991</Data>
+<Data Name="bytesTotal">56991</Data>
+<Data Name="bytesTransferred">56991</Data>
+<Data Name="proxy"></Data>
+<Data Name="peerProtocolFlags">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+<Data Name="AdditionalInfoHr">0</Data>
+<Data Name="PeerContextInfo">0</Data>
+<Data Name="bandwidthLimit">18446744073709551615</Data>
+<Data Name="ignoreBandwidthLimitsOnLan">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">4</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:41:52.322922"></TimeCreated>
+<EventRecordID>62</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="7332"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">Council-HQ\sysadm</Data>
+<Data Name="jobTitle">PreSignInSettingsConfigJSON</Data>
+<Data Name="jobId">{7134e979-f406-430e-adcb-30ea18ea5266}</Data>
+<Data Name="jobOwner">Council-HQ\sysadm</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="bytesTransferred">56991</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>3</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:41:52.870781"></TimeCreated>
+<EventRecordID>63</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="7220"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="jobTitle">UpdateBinary</Data>
+<Data Name="jobId">{d6321aaf-56dc-431f-ad2d-d4a9783c37ce}</Data>
+<Data Name="jobOwner">Council-HQ\sysadm</Data>
+<Data Name="processPath">C:\Users\sysadm\AppData\Local\Microsoft\OneDrive\OneDrive.exe</Data>
+<Data Name="processId">7584</Data>
+<Data Name="ClientProcessStartKey">1125899906842917</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">16403</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:41:52.874666"></TimeCreated>
+<EventRecordID>64</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="7248"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="User">Council-HQ\sysadm</Data>
+<Data Name="jobTitle">UpdateBinary</Data>
+<Data Name="jobId">{d6321aaf-56dc-431f-ad2d-d4a9783c37ce}</Data>
+<Data Name="jobOwner">Council-HQ\sysadm</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="RemoteName">https://oneclient.sfx.ms/Win/Prod/21.220.1024.0005/OneDriveSetup.exe</Data>
+<Data Name="LocalName">C:\Users\sysadm\AppData\Local\Temp\wctF2E9.tmp</Data>
+<Data Name="processId">7584</Data>
+<Data Name="ClientProcessStartKey">1125899906842917</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">59</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:41:52.963850"></TimeCreated>
+<EventRecordID>65</EventRecordID>
+<Correlation ActivityID="{bc2eb7d5-ef02-4d70-ac23-bd73a056f9de}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="3612"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{bc2eb7d5-ef02-4d70-ac23-bd73a056f9de}</Data>
+<Data Name="name">UpdateBinary</Data>
+<Data Name="Id">{d6321aaf-56dc-431f-ad2d-d4a9783c37ce}</Data>
+<Data Name="url">https://oneclient.sfx.ms/Win/Prod/21.220.1024.0005/OneDriveSetup.exe</Data>
+<Data Name="peer"></Data>
+<Data Name="fileTime">2021-11-21 20:18:52</Data>
+<Data Name="fileLength">42164600</Data>
+<Data Name="bytesTotal">42164600</Data>
+<Data Name="bytesTransferred">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">60</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:42:00.178236"></TimeCreated>
+<EventRecordID>66</EventRecordID>
+<Correlation ActivityID="{bc2eb7d5-ef02-4d70-ac23-bd73a056f9de}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="7188"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{bc2eb7d5-ef02-4d70-ac23-bd73a056f9de}</Data>
+<Data Name="name">UpdateBinary</Data>
+<Data Name="Id">{d6321aaf-56dc-431f-ad2d-d4a9783c37ce}</Data>
+<Data Name="url">https://oneclient.sfx.ms/Win/Prod/21.220.1024.0005/OneDriveSetup.exe</Data>
+<Data Name="peer"></Data>
+<Data Name="hr">0</Data>
+<Data Name="fileTime">2021-11-21 20:18:52</Data>
+<Data Name="fileLength">42164600</Data>
+<Data Name="bytesTotal">42164600</Data>
+<Data Name="bytesTransferred">42164600</Data>
+<Data Name="proxy"></Data>
+<Data Name="peerProtocolFlags">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+<Data Name="AdditionalInfoHr">0</Data>
+<Data Name="PeerContextInfo">0</Data>
+<Data Name="bandwidthLimit">18446744073709551615</Data>
+<Data Name="ignoreBandwidthLimitsOnLan">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">4</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:42:00.180239"></TimeCreated>
+<EventRecordID>67</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="7188"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">Council-HQ\sysadm</Data>
+<Data Name="jobTitle">UpdateBinary</Data>
+<Data Name="jobId">{d6321aaf-56dc-431f-ad2d-d4a9783c37ce}</Data>
+<Data Name="jobOwner">Council-HQ\sysadm</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="bytesTransferred">42164600</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>3</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:42:00.938190"></TimeCreated>
+<EventRecordID>68</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="7188"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="jobTitle">PreSignInSettingsConfigJSON</Data>
+<Data Name="jobId">{c9444895-98f9-45cf-bbba-6eaf972103dc}</Data>
+<Data Name="jobOwner">Council-HQ\sysadm</Data>
+<Data Name="processPath">C:\Users\sysadm\AppData\Local\Microsoft\OneDrive\Update\OneDriveSetup.exe</Data>
+<Data Name="processId">9308</Data>
+<Data Name="ClientProcessStartKey">1125899906842922</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">16403</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:42:00.943960"></TimeCreated>
+<EventRecordID>69</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="7332"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="User">Council-HQ\sysadm</Data>
+<Data Name="jobTitle">PreSignInSettingsConfigJSON</Data>
+<Data Name="jobId">{c9444895-98f9-45cf-bbba-6eaf972103dc}</Data>
+<Data Name="jobOwner">Council-HQ\sysadm</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="RemoteName">https://g.live.com/odclientsettings/Prod</Data>
+<Data Name="LocalName">C:\Users\sysadm\AppData\Local\Temp\wct1276.tmp</Data>
+<Data Name="processId">9308</Data>
+<Data Name="ClientProcessStartKey">1125899906842922</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">59</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:42:01.104458"></TimeCreated>
+<EventRecordID>70</EventRecordID>
+<Correlation ActivityID="{65a5ae51-cd8a-4e95-b07f-f1ac73677167}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="3612"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{65a5ae51-cd8a-4e95-b07f-f1ac73677167}</Data>
+<Data Name="name">PreSignInSettingsConfigJSON</Data>
+<Data Name="Id">{c9444895-98f9-45cf-bbba-6eaf972103dc}</Data>
+<Data Name="url">https://g.live.com/odclientsettings/Prod</Data>
+<Data Name="peer"></Data>
+<Data Name="fileTime">2022-05-06 15:35:34</Data>
+<Data Name="fileLength">56991</Data>
+<Data Name="bytesTotal">56991</Data>
+<Data Name="bytesTransferred">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">60</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:42:01.280430"></TimeCreated>
+<EventRecordID>71</EventRecordID>
+<Correlation ActivityID="{65a5ae51-cd8a-4e95-b07f-f1ac73677167}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="7332"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="transferId">{65a5ae51-cd8a-4e95-b07f-f1ac73677167}</Data>
+<Data Name="name">PreSignInSettingsConfigJSON</Data>
+<Data Name="Id">{c9444895-98f9-45cf-bbba-6eaf972103dc}</Data>
+<Data Name="url">https://g.live.com/odclientsettings/Prod</Data>
+<Data Name="peer"></Data>
+<Data Name="hr">0</Data>
+<Data Name="fileTime">2022-05-06 15:35:34</Data>
+<Data Name="fileLength">56991</Data>
+<Data Name="bytesTotal">56991</Data>
+<Data Name="bytesTransferred">56991</Data>
+<Data Name="proxy"></Data>
+<Data Name="peerProtocolFlags">0</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+<Data Name="AdditionalInfoHr">0</Data>
+<Data Name="PeerContextInfo">0</Data>
+<Data Name="bandwidthLimit">18446744073709551615</Data>
+<Data Name="ignoreBandwidthLimitsOnLan">False</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Bits-Client" Guid="{ef1cc15b-46c1-414e-bb95-e76b077bd51e}"></Provider>
+<EventID Qualifiers="">4</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:42:01.283234"></TimeCreated>
+<EventRecordID>72</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7608" ThreadID="7332"></Execution>
+<Channel>Microsoft-Windows-Bits-Client/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">Council-HQ\sysadm</Data>
+<Data Name="jobTitle">PreSignInSettingsConfigJSON</Data>
+<Data Name="jobId">{c9444895-98f9-45cf-bbba-6eaf972103dc}</Data>
+<Data Name="jobOwner">Council-HQ\sysadm</Data>
+<Data Name="fileCount">1</Data>
+<Data Name="bytesTransferred">56991</Data>
+<Data Name="bytesTransferredFromPeer">0</Data>
+</EventData>
+</Event>
+
+</Events>

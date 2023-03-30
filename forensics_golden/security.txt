@@ -1,0 +1,17 @@
+auditpol v.20121128
+(Security) Get audit policy from the Security hive file
+
+Policy\PolAdtEv not found.
+----------------------------------------
+lsasecrets v.20100219
+(Security) TEST - Get update times for LSA Secrets
+
+Policy\Secrets not found.
+----------------------------------------
+polacdms v.20100531
+(Security) Get local machine SID from Security hive
+
+Policy\PolAcDmS not found.
+
+Policy\PolPrDmS not found.
+----------------------------------------

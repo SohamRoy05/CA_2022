@@ -1,0 +1,230 @@
+Select not found.
+----------------------------------------
+appcompatcache v.20120817
+(System) Parse files from System hive Shim Cache
+
+Select not found.
+----------------------------------------
+auditfail v.20081212
+(System) Get CrashOnAuditFail value
+
+Select not found.
+----------------------------------------
+backuprestore v.20120914
+(System) Gets the contents of the FilesNotToSnapshot, KeysNotToRestore, and FilesNotToBackup keys
+
+----------------------------------------
+compname v.20090727
+(System) Gets ComputerName and Hostname values from System hive
+
+Select not found.
+----------------------------------------
+crashcontrol v.20081212
+(System) Get crash control information
+
+Select not found.
+----------------------------------------
+ddm v.20081129
+(System) Get DDM data from Control Subkey
+
+----------------------------------------
+devclass v.20100901
+(System) Get USB device info from the DeviceClasses keys in the System hive
+
+----------------------------------------
+disablelastaccess v.20090118
+(System) Get NTFSDisableLastAccessUpdate value
+
+\Control\FileSystem not found.
+----------------------------------------
+dllsearch v.20100824
+(System) Get crash control information
+
+Select not found.
+----------------------------------------
+eventlog v.20090112
+(System) Get EventLog configuration info
+
+Select not found.
+----------------------------------------
+eventlogs v.20081219
+(System) Gets Event Log settings from System hive
+
+Select not found.
+----------------------------------------
+fw_config v.20080328
+(System) Gets the Windows Firewall config from the System hive
+
+Select could not be found.
+----------------------------------------
+hibernate v.20081216
+(System) Check hibernation status
+
+Select not found.
+----------------------------------------
+ide v.20080418
+(System) Get IDE device info from the System hive file
+
+IDE
+----------------------------------------
+imagedev v.20080730
+(System)  -- 
+
+\Control\Class\{6BDD1FC6-810F-11D0-BEC7-08002BE2092F} not found.
+----------------------------------------
+kbdcrash v.20081212
+(System) Checks to see if system is config to crash via keyboard
+
+Select not found.
+----------------------------------------
+legacy v.20120524
+(System) Lists LEGACY_* entries in Enum\Root key
+
+Select not found.
+----------------------------------------
+mountdev v.20080324
+(System) Return contents of System hive MountedDevices key
+
+
+MountedDevices not found.
+----------------------------------------
+network v.20080324
+(System) Gets info from System\Control\Network GUIDs
+
+Select not found.
+----------------------------------------
+nic v.20100401
+(System) Gets NIC info from System hive
+
+ControlSet00\Services not found.
+----------------------------------------
+nic_mst2 v.20080324
+(System) Gets NICs from System hive; looks for MediaType = 2
+
+Select not found.
+
+No active network interface cards were found.
+----------------------------------------
+nic2 v.20100401
+(System) Gets NIC info from System hive
+
+ControlSet00\Services\Tcpip\Parameters\Interfaces not found.
+----------------------------------------
+nolmhash v.20100712
+(System) Gets NoLMHash value
+
+Select not found.
+----------------------------------------
+pagefile v.20081212
+(System) Get info on pagefile(s)
+
+Select not found.
+----------------------------------------
+prefetch v.20120914
+(SYSTEM) Gets the the Prefetch Parameters
+
+Select not found.
+----------------------------------------
+productpolicy v.20091116
+(System) Parse ProductPolicy value (Vista & Win2008 ONLY)
+
+ControlSet001\Control\ProductOptions not found.
+----------------------------------------
+producttype v.20100325
+(System) Queries System hive for Windows Product info
+
+Select key not found.
+----------------------------------------
+rdpport v.20100713
+(System) Queries System hive for RDP Port
+
+----------------------------------------
+routes v.20100817
+(System) Get persistent routes
+
+Select not found.
+----------------------------------------
+safeboot v.20081216
+(System) Check SafeBoot entries
+
+Select not found.
+----------------------------------------
+services v.20080507
+(System) Lists services/drivers in Services key by LastWrite times
+
+Select not found.
+----------------------------------------
+shares v.20090112
+(System) Get list of shares from System hive file
+
+ subkey not found.
+----------------------------------------
+shutdown v.20080324
+(System) Gets ShutdownTime value from System hive
+
+Select not found.
+----------------------------------------
+shutdowncount v.20080709
+(System) Retrieves ShutDownCount value
+
+----------------------------------------
+stillimage v.20100222
+(System) Get info on StillImage devices
+
+Select not found.
+----------------------------------------
+svc v.20080610
+(System) Lists services/drivers in Services key by LastWrite times (short format)
+
+Select not found.
+----------------------------------------
+Select not found.
+----------------------------------------
+svc_plus v.20120625
+(System) Lists services/drivers in Services key by LastWrite times in a short format with warnings for type mismatches
+^^^^ Indicates non-standard Type
+<<<< Indicates Start mismatch for Driver
+**** Indicates ObjectName mismatch for Driver
+>>>> Indicates Start mismatch for Service
+++++ Indicates nonstandard ObjectName for Service.
+
+Select not found.
+----------------------------------------
+svcdll v.20091104
+(System) Lists Services keys with ServiceDll values
+
+Select not found.
+----------------------------------------
+Select not found.
+----------------------------------------
+timezone v.20080324
+(System) Get TimeZoneInformation key contents
+
+Select not found.
+----------------------------------------
+Select not found.
+----------------------------------------
+usbdevices v.20120522
+(System) Parses Enum\USB key for devices
+
+Select not found.
+----------------------------------------
+usbstor v.20080418
+(System) Get USBStor key info
+
+Select not found.
+----------------------------------------
+Select not found.
+----------------------------------------
+Select not found.
+----------------------------------------
+xpedition v.20120722
+(System) Queries System hive for XP Edition info
+
+xpedition v.20120722
+----------------------------------------
+wpdbusenum v.20120523
+(System) Get WpdBusEnumRoot subkey info
+
+Select not found.
+----------------------------------------

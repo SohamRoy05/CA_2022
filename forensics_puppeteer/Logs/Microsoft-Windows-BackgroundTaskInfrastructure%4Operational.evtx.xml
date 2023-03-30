@@ -1,0 +1,210 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-BrokerInfrastructure" Guid="{e6835967-e0d2-41fb-bcec-58387404e25a}"></Provider>
+<EventID Qualifiers="">21</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>100</Task>
+<Opcode>113</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:25:54.590811"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-9e21-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="864" ThreadID="6192"></Execution>
+<Channel>Microsoft-Windows-BackgroundTaskInfrastructure/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="EntryPointLength">36</Data>
+<Data Name="TaskEntryPoint">SpModel.Model.BookTileBackgroundTask</Data>
+<Data Name="NameLength">30</Data>
+<Data Name="TaskName">windows.preInstalledConfigTask</Data>
+<Data Name="Result">2147942526</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-BrokerInfrastructure" Guid="{e6835967-e0d2-41fb-bcec-58387404e25a}"></Provider>
+<EventID Qualifiers="">21</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>100</Task>
+<Opcode>113</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:25:55.296583"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0001-ad17-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="864" ThreadID="5444"></Execution>
+<Channel>Microsoft-Windows-BackgroundTaskInfrastructure/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="EntryPointLength">36</Data>
+<Data Name="TaskEntryPoint">SpModel.Model.BookTileBackgroundTask</Data>
+<Data Name="NameLength">30</Data>
+<Data Name="TaskName">windows.preInstalledConfigTask</Data>
+<Data Name="Result">2147942526</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-BrokerInfrastructure" Guid="{e6835967-e0d2-41fb-bcec-58387404e25a}"></Provider>
+<EventID Qualifiers="">21</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>100</Task>
+<Opcode>113</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:18.829313"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-963d-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="864" ThreadID="2064"></Execution>
+<Channel>Microsoft-Windows-BackgroundTaskInfrastructure/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="EntryPointLength">36</Data>
+<Data Name="TaskEntryPoint">SpModel.Model.BookTileBackgroundTask</Data>
+<Data Name="NameLength">30</Data>
+<Data Name="TaskName">windows.preInstalledConfigTask</Data>
+<Data Name="Result">2147942526</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-BrokerInfrastructure" Guid="{e6835967-e0d2-41fb-bcec-58387404e25a}"></Provider>
+<EventID Qualifiers="">6</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>100</Task>
+<Opcode>102</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:34:53.270853"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="864" ThreadID="440"></Execution>
+<Channel>Microsoft-Windows-BackgroundTaskInfrastructure/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="PackageFullName">Microsoft.WindowsStore_22204.1401.3.0_x64__8wekyb3d8bbwe</Data>
+<Data Name="EntryPointLength">57</Data>
+<Data Name="EntryPoint">Windows.ApplicationModel.Core.DefaultInProcBackgroundTask</Data>
+<Data Name="UserSid">S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-BrokerInfrastructure" Guid="{e6835967-e0d2-41fb-bcec-58387404e25a}"></Provider>
+<EventID Qualifiers="">21</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>100</Task>
+<Opcode>113</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:18.993748"></TimeCreated>
+<EventRecordID>5</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-72eb-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="864" ThreadID="6192"></Execution>
+<Channel>Microsoft-Windows-BackgroundTaskInfrastructure/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="EntryPointLength">36</Data>
+<Data Name="TaskEntryPoint">SpModel.Model.BookTileBackgroundTask</Data>
+<Data Name="NameLength">0</Data>
+<Data Name="TaskName"></Data>
+<Data Name="Result">2147942526</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-BrokerInfrastructure" Guid="{e6835967-e0d2-41fb-bcec-58387404e25a}"></Provider>
+<EventID Qualifiers="">21</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>100</Task>
+<Opcode>113</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:43.802200"></TimeCreated>
+<EventRecordID>6</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0001-d65f-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="868" ThreadID="5972"></Execution>
+<Channel>Microsoft-Windows-BackgroundTaskInfrastructure/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="EntryPointLength">36</Data>
+<Data Name="TaskEntryPoint">SpModel.Model.BookTileBackgroundTask</Data>
+<Data Name="NameLength">0</Data>
+<Data Name="TaskName"></Data>
+<Data Name="Result">2147942526</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-BrokerInfrastructure" Guid="{e6835967-e0d2-41fb-bcec-58387404e25a}"></Provider>
+<EventID Qualifiers="">21</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>100</Task>
+<Opcode>113</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:37:43.717897"></TimeCreated>
+<EventRecordID>7</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0000-2e7f-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="868" ThreadID="5972"></Execution>
+<Channel>Microsoft-Windows-BackgroundTaskInfrastructure/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="EntryPointLength">36</Data>
+<Data Name="TaskEntryPoint">SpModel.Model.BookTileBackgroundTask</Data>
+<Data Name="NameLength">30</Data>
+<Data Name="TaskName">windows.preInstalledConfigTask</Data>
+<Data Name="Result">2147942526</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-BrokerInfrastructure" Guid="{e6835967-e0d2-41fb-bcec-58387404e25a}"></Provider>
+<EventID Qualifiers="">21</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>100</Task>
+<Opcode>113</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:41:33.415606"></TimeCreated>
+<EventRecordID>8</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0001-e6ec-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="868" ThreadID="3316"></Execution>
+<Channel>Microsoft-Windows-BackgroundTaskInfrastructure/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="EntryPointLength">36</Data>
+<Data Name="TaskEntryPoint">SpModel.Model.BookTileBackgroundTask</Data>
+<Data Name="NameLength">30</Data>
+<Data Name="TaskName">windows.preInstalledConfigTask</Data>
+<Data Name="Result">2147942526</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-BrokerInfrastructure" Guid="{e6835967-e0d2-41fb-bcec-58387404e25a}"></Provider>
+<EventID Qualifiers="">21</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>100</Task>
+<Opcode>113</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:41:33.957047"></TimeCreated>
+<EventRecordID>9</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0001-7bed-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="868" ThreadID="9500"></Execution>
+<Channel>Microsoft-Windows-BackgroundTaskInfrastructure/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="EntryPointLength">36</Data>
+<Data Name="TaskEntryPoint">SpModel.Model.BookTileBackgroundTask</Data>
+<Data Name="NameLength">30</Data>
+<Data Name="TaskName">windows.preInstalledConfigTask</Data>
+<Data Name="Result">2147942526</Data>
+</EventData>
+</Event>
+
+</Events>

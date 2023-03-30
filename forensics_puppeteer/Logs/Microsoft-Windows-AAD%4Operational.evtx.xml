@@ -1,0 +1,193 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AAD" Guid="{4de9bc9c-b27a-43c9-8994-0915f1a5e24f}"></Provider>
+<EventID Qualifiers="">1215</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>107</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000012</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:44.753021"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2644" ThreadID="3152"></Execution>
+<Channel>Microsoft-Windows-AAD/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Result">-2147186428</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AAD" Guid="{4de9bc9c-b27a-43c9-8994-0915f1a5e24f}"></Provider>
+<EventID Qualifiers="">1097</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>103</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000030</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:51.750765"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-e315-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6436" ThreadID="6496"></Execution>
+<Channel>Microsoft-Windows-AAD/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="Error">2326069467</Data>
+<Data Name="ErrorMessage">The cache has been partitioned successfully.</Data>
+<Data Name="AdditionalInformation">Logged at CachePartitioning.cpp, line: 35, method: CachePartitioning::Apply.</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AAD" Guid="{4de9bc9c-b27a-43c9-8994-0915f1a5e24f}"></Provider>
+<EventID Qualifiers="">1097</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>103</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000030</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:51.779104"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-e315-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6436" ThreadID="6496"></Execution>
+<Channel>Microsoft-Windows-AAD/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="Error">2326069478</Data>
+<Data Name="ErrorMessage">Enumeration status set for existing webaccounts successfully.</Data>
+<Data Name="AdditionalInformation">Logged at AccountEnumerationStateMigration.cpp, line: 69, method: AccountEnumerationStateMigration::Apply.</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AAD" Guid="{4de9bc9c-b27a-43c9-8994-0915f1a5e24f}"></Provider>
+<EventID Qualifiers="">1097</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>103</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000030</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:51.805000"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-e315-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6436" ThreadID="6496"></Execution>
+<Channel>Microsoft-Windows-AAD/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="Error">1252327664</Data>
+<Data Name="ErrorMessage">Browser SSO data format successfully updated.</Data>
+<Data Name="AdditionalInformation">Nonce: no; Authority: n/a; Cookies: 0
+Logged at CookieStoreFormatV2.cpp, line: 72, method: CookieStoreFormatV2::Apply.</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AAD" Guid="{4de9bc9c-b27a-43c9-8994-0915f1a5e24f}"></Provider>
+<EventID Qualifiers="">1097</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>103</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000030</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:51.842640"></TimeCreated>
+<EventRecordID>5</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-e315-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6436" ThreadID="6496"></Execution>
+<Channel>Microsoft-Windows-AAD/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="Error">2325807322</Data>
+<Data Name="ErrorMessage">Upgrade default pawn task complete.</Data>
+<Data Name="AdditionalInformation">Logged at UpdateDefaultPawn.cpp, line: 43, method: UpdateDefaultPawn::Apply.</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AAD" Guid="{4de9bc9c-b27a-43c9-8994-0915f1a5e24f}"></Provider>
+<EventID Qualifiers="">1097</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>103</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000030</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:59.474224"></TimeCreated>
+<EventRecordID>6</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0000-eacd-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="8900" ThreadID="8164"></Execution>
+<Channel>Microsoft-Windows-AAD/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="Error">2326069467</Data>
+<Data Name="ErrorMessage">The cache has been partitioned successfully.</Data>
+<Data Name="AdditionalInformation">Logged at CachePartitioning.cpp, line: 35, method: CachePartitioning::Apply.</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AAD" Guid="{4de9bc9c-b27a-43c9-8994-0915f1a5e24f}"></Provider>
+<EventID Qualifiers="">1097</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>103</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000030</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:59.537521"></TimeCreated>
+<EventRecordID>7</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0000-eacd-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="8900" ThreadID="8164"></Execution>
+<Channel>Microsoft-Windows-AAD/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="Error">2326069478</Data>
+<Data Name="ErrorMessage">Enumeration status set for existing webaccounts successfully.</Data>
+<Data Name="AdditionalInformation">Logged at AccountEnumerationStateMigration.cpp, line: 69, method: AccountEnumerationStateMigration::Apply.</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AAD" Guid="{4de9bc9c-b27a-43c9-8994-0915f1a5e24f}"></Provider>
+<EventID Qualifiers="">1097</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>103</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000030</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:59.582611"></TimeCreated>
+<EventRecordID>8</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0000-eacd-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="8900" ThreadID="8164"></Execution>
+<Channel>Microsoft-Windows-AAD/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="Error">1252327664</Data>
+<Data Name="ErrorMessage">Browser SSO data format successfully updated.</Data>
+<Data Name="AdditionalInformation">Nonce: no; Authority: n/a; Cookies: 0
+Logged at CookieStoreFormatV2.cpp, line: 72, method: CookieStoreFormatV2::Apply.</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AAD" Guid="{4de9bc9c-b27a-43c9-8994-0915f1a5e24f}"></Provider>
+<EventID Qualifiers="">1097</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>103</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000030</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:59.621244"></TimeCreated>
+<EventRecordID>9</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0000-eacd-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="8900" ThreadID="8164"></Execution>
+<Channel>Microsoft-Windows-AAD/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="Error">2325807322</Data>
+<Data Name="ErrorMessage">Upgrade default pawn task complete.</Data>
+<Data Name="AdditionalInformation">Logged at UpdateDefaultPawn.cpp, line: 43, method: UpdateDefaultPawn::Apply.</Data>
+</EventData>
+</Event>
+
+</Events>

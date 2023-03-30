@@ -1,0 +1,472 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3021</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:08.549828"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5168" ThreadID="5312"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3021</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:08.554840"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5168" ThreadID="5312"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3013</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:08.563807"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5168" ThreadID="6132"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="Id">default$windows.data.bluelightreduction.settings|windows.data.bluelightreduction.settings</Data>
+<Data Name="ErrorCode">2147746053</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3013</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:08.567291"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5168" ThreadID="6132"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="Id">default$windows.data.bluelightreduction.bluelightreductionstate|windows.data.bluelightreduction.bluelightreductionstate</Data>
+<Data Name="ErrorCode">2147746053</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3013</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:08.571321"></TimeCreated>
+<EventRecordID>5</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5168" ThreadID="6132"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="Id">default$windows.data.bluelightreduction.settings|windows.data.bluelightreduction.settings</Data>
+<Data Name="ErrorCode">2147746053</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3021</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:48.614307"></TimeCreated>
+<EventRecordID>6</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3804" ThreadID="4172"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3021</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:48.621389"></TimeCreated>
+<EventRecordID>7</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3804" ThreadID="4172"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3013</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:48.630512"></TimeCreated>
+<EventRecordID>8</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3804" ThreadID="616"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="Id">default$windows.data.bluelightreduction.settings|windows.data.bluelightreduction.settings</Data>
+<Data Name="ErrorCode">2147746053</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3013</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:48.633095"></TimeCreated>
+<EventRecordID>9</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3804" ThreadID="616"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="Id">default$windows.data.bluelightreduction.bluelightreductionstate|windows.data.bluelightreduction.bluelightreductionstate</Data>
+<Data Name="ErrorCode">2147746053</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3013</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:48.636158"></TimeCreated>
+<EventRecordID>10</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3804" ThreadID="616"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="Id">default$windows.data.bluelightreduction.settings|windows.data.bluelightreduction.settings</Data>
+<Data Name="ErrorCode">2147746053</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3013</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:25:56.247568"></TimeCreated>
+<EventRecordID>11</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5752" ThreadID="1620"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="Id">default$windows.data.globalization.culture.culturesettings|windows.data.globalization.culture.culturesettings</Data>
+<Data Name="ErrorCode">2147746053</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3013</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:25:56.427757"></TimeCreated>
+<EventRecordID>12</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6860" ThreadID="4604"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="Id">default$windows.data.input.devices.pensyncedsettings|windows.data.input.devices.pensyncedsettings</Data>
+<Data Name="ErrorCode">2147746053</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3013</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:25:56.432570"></TimeCreated>
+<EventRecordID>13</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6860" ThreadID="4604"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="Id">default$windows.data.input.devices.mousesyncedsettings|windows.data.input.devices.mousesyncedsettings</Data>
+<Data Name="ErrorCode">2147746053</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3013</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:25:56.435102"></TimeCreated>
+<EventRecordID>14</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6860" ThreadID="4604"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="Id">default$windows.data.input.devices.touchpadsyncedsettings|windows.data.input.devices.touchpadsyncedsettings</Data>
+<Data Name="ErrorCode">2147746053</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3013</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:25:56.439608"></TimeCreated>
+<EventRecordID>15</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6860" ThreadID="4604"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="Id">default$windows.data.input.devices.pensyncedsettings|windows.data.input.devices.pensyncedsettings</Data>
+<Data Name="ErrorCode">2147746053</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3021</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:51.943684"></TimeCreated>
+<EventRecordID>16</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6260" ThreadID="2424"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3021</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:51.950220"></TimeCreated>
+<EventRecordID>17</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6260" ThreadID="2424"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3013</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:51.960552"></TimeCreated>
+<EventRecordID>18</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6260" ThreadID="1880"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="Id">default$windows.data.input.devices.pensyncedsettings|windows.data.input.devices.pensyncedsettings</Data>
+<Data Name="ErrorCode">2147746053</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3013</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:51.962839"></TimeCreated>
+<EventRecordID>19</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6260" ThreadID="1880"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="Id">default$windows.data.input.devices.mousesyncedsettings|windows.data.input.devices.mousesyncedsettings</Data>
+<Data Name="ErrorCode">2147746053</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3013</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:51.964426"></TimeCreated>
+<EventRecordID>20</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6260" ThreadID="1880"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="Id">default$windows.data.input.devices.touchpadsyncedsettings|windows.data.input.devices.touchpadsyncedsettings</Data>
+<Data Name="ErrorCode">2147746053</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3013</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:51.965586"></TimeCreated>
+<EventRecordID>21</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6260" ThreadID="1880"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="Id">default$windows.data.input.devices.pensyncedsettings|windows.data.input.devices.pensyncedsettings</Data>
+<Data Name="ErrorCode">2147746053</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3013</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:55.232605"></TimeCreated>
+<EventRecordID>22</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4976" ThreadID="4128"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="Id">default$windows.data.bluelightreduction.settings|windows.data.bluelightreduction.settings</Data>
+<Data Name="ErrorCode">2147746053</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3013</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:55.234915"></TimeCreated>
+<EventRecordID>23</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4976" ThreadID="4128"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="Id">default$windows.data.bluelightreduction.bluelightreductionstate|windows.data.bluelightreduction.bluelightreductionstate</Data>
+<Data Name="ErrorCode">2147746053</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CloudStore" Guid="{741bb90c-a7a3-49d6-bd82-1e6b858403f7}"></Provider>
+<EventID Qualifiers="">3013</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:55.238253"></TimeCreated>
+<EventRecordID>24</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4976" ThreadID="4128"></Execution>
+<Channel>Microsoft-Windows-CloudStore/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="Id">default$windows.data.bluelightreduction.settings|windows.data.bluelightreduction.settings</Data>
+<Data Name="ErrorCode">2147746053</Data>
+</EventData>
+</Event>
+
+</Events>

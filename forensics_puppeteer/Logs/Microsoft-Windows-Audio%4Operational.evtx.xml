@@ -1,0 +1,356 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Audio" Guid="{ae4bd3be-f36f-45b6-8d21-bdd6fb832853}"></Provider>
+<EventID Qualifiers="">65</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>129</Task>
+<Opcode>56</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:44.005959"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1564" ThreadID="1948"></Execution>
+<Channel>Microsoft-Windows-Audio/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceName">UNKNOWN</Data>
+<Data Name="DeviceId">{0.0.0.00000000}.{a0eca7da-3b1f-49bb-90a6-79198ec39055}</Data>
+<Data Name="flow">0</Data>
+<Data Name="NewState">4</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Audio" Guid="{ae4bd3be-f36f-45b6-8d21-bdd6fb832853}"></Provider>
+<EventID Qualifiers="">65</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>129</Task>
+<Opcode>56</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:44.006102"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1564" ThreadID="1948"></Execution>
+<Channel>Microsoft-Windows-Audio/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceName">UNKNOWN</Data>
+<Data Name="DeviceId">{0.0.0.00000000}.{a0eca7da-3b1f-49bb-90a6-79198ec39055}</Data>
+<Data Name="flow">0</Data>
+<Data Name="NewState">4</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Audio" Guid="{ae4bd3be-f36f-45b6-8d21-bdd6fb832853}"></Provider>
+<EventID Qualifiers="">65</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>129</Task>
+<Opcode>56</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:44.007631"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1564" ThreadID="1948"></Execution>
+<Channel>Microsoft-Windows-Audio/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceName">High Definition Audio Device</Data>
+<Data Name="DeviceId">{0.0.0.00000000}.{a0eca7da-3b1f-49bb-90a6-79198ec39055}</Data>
+<Data Name="flow">0</Data>
+<Data Name="NewState">4</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Audio" Guid="{ae4bd3be-f36f-45b6-8d21-bdd6fb832853}"></Provider>
+<EventID Qualifiers="">65</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>129</Task>
+<Opcode>56</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:44.020973"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1564" ThreadID="1948"></Execution>
+<Channel>Microsoft-Windows-Audio/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceName">High Definition Audio Device</Data>
+<Data Name="DeviceId">{0.0.0.00000000}.{a0eca7da-3b1f-49bb-90a6-79198ec39055}</Data>
+<Data Name="flow">0</Data>
+<Data Name="NewState">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Audio" Guid="{ae4bd3be-f36f-45b6-8d21-bdd6fb832853}"></Provider>
+<EventID Qualifiers="">65</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>129</Task>
+<Opcode>56</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:44.023346"></TimeCreated>
+<EventRecordID>5</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1564" ThreadID="1948"></Execution>
+<Channel>Microsoft-Windows-Audio/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceName">UNKNOWN</Data>
+<Data Name="DeviceId">{0.0.0.00000000}.{1747982f-f81d-425e-87b5-91b07d06de39}</Data>
+<Data Name="flow">0</Data>
+<Data Name="NewState">4</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Audio" Guid="{ae4bd3be-f36f-45b6-8d21-bdd6fb832853}"></Provider>
+<EventID Qualifiers="">65</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>129</Task>
+<Opcode>56</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:44.023602"></TimeCreated>
+<EventRecordID>6</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1564" ThreadID="1948"></Execution>
+<Channel>Microsoft-Windows-Audio/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceName">UNKNOWN</Data>
+<Data Name="DeviceId">{0.0.0.00000000}.{1747982f-f81d-425e-87b5-91b07d06de39}</Data>
+<Data Name="flow">0</Data>
+<Data Name="NewState">4</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Audio" Guid="{ae4bd3be-f36f-45b6-8d21-bdd6fb832853}"></Provider>
+<EventID Qualifiers="">65</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>129</Task>
+<Opcode>56</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:44.025219"></TimeCreated>
+<EventRecordID>7</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1564" ThreadID="1948"></Execution>
+<Channel>Microsoft-Windows-Audio/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceName">High Definition Audio Device</Data>
+<Data Name="DeviceId">{0.0.0.00000000}.{1747982f-f81d-425e-87b5-91b07d06de39}</Data>
+<Data Name="flow">0</Data>
+<Data Name="NewState">4</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Audio" Guid="{ae4bd3be-f36f-45b6-8d21-bdd6fb832853}"></Provider>
+<EventID Qualifiers="">65</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>129</Task>
+<Opcode>56</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:44.027775"></TimeCreated>
+<EventRecordID>8</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1564" ThreadID="1948"></Execution>
+<Channel>Microsoft-Windows-Audio/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceName">High Definition Audio Device</Data>
+<Data Name="DeviceId">{0.0.0.00000000}.{1747982f-f81d-425e-87b5-91b07d06de39}</Data>
+<Data Name="flow">0</Data>
+<Data Name="NewState">8</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Audio" Guid="{ae4bd3be-f36f-45b6-8d21-bdd6fb832853}"></Provider>
+<EventID Qualifiers="">65</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>129</Task>
+<Opcode>56</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:44.029779"></TimeCreated>
+<EventRecordID>9</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1564" ThreadID="1948"></Execution>
+<Channel>Microsoft-Windows-Audio/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceName">UNKNOWN</Data>
+<Data Name="DeviceId">{0.0.1.00000000}.{4d6d303f-f5ac-4ced-b906-fe4c575a6b53}</Data>
+<Data Name="flow">1</Data>
+<Data Name="NewState">4</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Audio" Guid="{ae4bd3be-f36f-45b6-8d21-bdd6fb832853}"></Provider>
+<EventID Qualifiers="">65</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>129</Task>
+<Opcode>56</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:44.029898"></TimeCreated>
+<EventRecordID>10</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1564" ThreadID="1948"></Execution>
+<Channel>Microsoft-Windows-Audio/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceName">UNKNOWN</Data>
+<Data Name="DeviceId">{0.0.1.00000000}.{4d6d303f-f5ac-4ced-b906-fe4c575a6b53}</Data>
+<Data Name="flow">1</Data>
+<Data Name="NewState">4</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Audio" Guid="{ae4bd3be-f36f-45b6-8d21-bdd6fb832853}"></Provider>
+<EventID Qualifiers="">65</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>129</Task>
+<Opcode>56</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:44.030424"></TimeCreated>
+<EventRecordID>11</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1564" ThreadID="1948"></Execution>
+<Channel>Microsoft-Windows-Audio/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceName">High Definition Audio Device</Data>
+<Data Name="DeviceId">{0.0.1.00000000}.{4d6d303f-f5ac-4ced-b906-fe4c575a6b53}</Data>
+<Data Name="flow">1</Data>
+<Data Name="NewState">4</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Audio" Guid="{ae4bd3be-f36f-45b6-8d21-bdd6fb832853}"></Provider>
+<EventID Qualifiers="">65</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>129</Task>
+<Opcode>56</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:44.032681"></TimeCreated>
+<EventRecordID>12</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1564" ThreadID="1948"></Execution>
+<Channel>Microsoft-Windows-Audio/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceName">High Definition Audio Device</Data>
+<Data Name="DeviceId">{0.0.1.00000000}.{4d6d303f-f5ac-4ced-b906-fe4c575a6b53}</Data>
+<Data Name="flow">1</Data>
+<Data Name="NewState">4</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Audio" Guid="{ae4bd3be-f36f-45b6-8d21-bdd6fb832853}"></Provider>
+<EventID Qualifiers="">65</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>129</Task>
+<Opcode>56</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:44.036612"></TimeCreated>
+<EventRecordID>13</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1564" ThreadID="1948"></Execution>
+<Channel>Microsoft-Windows-Audio/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceName">UNKNOWN</Data>
+<Data Name="DeviceId">{0.0.1.00000000}.{dc6979d1-80f6-4d57-8627-6f7f94c27ee8}</Data>
+<Data Name="flow">1</Data>
+<Data Name="NewState">4</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Audio" Guid="{ae4bd3be-f36f-45b6-8d21-bdd6fb832853}"></Provider>
+<EventID Qualifiers="">65</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>129</Task>
+<Opcode>56</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:44.036749"></TimeCreated>
+<EventRecordID>14</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1564" ThreadID="1948"></Execution>
+<Channel>Microsoft-Windows-Audio/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceName">UNKNOWN</Data>
+<Data Name="DeviceId">{0.0.1.00000000}.{dc6979d1-80f6-4d57-8627-6f7f94c27ee8}</Data>
+<Data Name="flow">1</Data>
+<Data Name="NewState">4</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Audio" Guid="{ae4bd3be-f36f-45b6-8d21-bdd6fb832853}"></Provider>
+<EventID Qualifiers="">65</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>129</Task>
+<Opcode>56</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:44.037542"></TimeCreated>
+<EventRecordID>15</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1564" ThreadID="1948"></Execution>
+<Channel>Microsoft-Windows-Audio/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceName">High Definition Audio Device</Data>
+<Data Name="DeviceId">{0.0.1.00000000}.{dc6979d1-80f6-4d57-8627-6f7f94c27ee8}</Data>
+<Data Name="flow">1</Data>
+<Data Name="NewState">4</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Audio" Guid="{ae4bd3be-f36f-45b6-8d21-bdd6fb832853}"></Provider>
+<EventID Qualifiers="">65</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>129</Task>
+<Opcode>56</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:44.046976"></TimeCreated>
+<EventRecordID>16</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1564" ThreadID="1948"></Execution>
+<Channel>Microsoft-Windows-Audio/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="DeviceName">High Definition Audio Device</Data>
+<Data Name="DeviceId">{0.0.1.00000000}.{dc6979d1-80f6-4d57-8627-6f7f94c27ee8}</Data>
+<Data Name="flow">1</Data>
+<Data Name="NewState">1</Data>
+</EventData>
+</Event>
+
+</Events>

@@ -1,0 +1,560 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">2</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>2</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:56.289064"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0001-2c06-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="752" ThreadID="872"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Platform Crypto Provider</Data>
+<Data Name="Status">0x80090030</Data>
+<Data Name="ProcessName">lsass.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">9</EventID>
+<Version>0</Version>
+<Level>5</Level>
+<Task>9</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:56.435669"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0001-2c06-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="752" ThreadID="872"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="KeyModificationType">0x00000001</Data>
+<Data Name="Flags">0x00000000</Data>
+<Data Name="KeyName">e549b0af-e452-8d4f-7858-5efbab467af8</Data>
+<Data Name="KeyFileName">14699ab6cca0eb65314cf361b1d5911e_65df061c-4e95-46a6-9deb-d7b53f2e57bb</Data>
+<Data Name="ProcessName">C:\Windows\System32\svchost.exe</Data>
+<Data Name="ProcessId">0x0000063c</Data>
+<Data Name="ThreadId">0x00000368</Data>
+<Data Name="UserId">S-1-5-18</Data>
+<Data Name="ServiceTag">wlidsvc</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>3</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.751335"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2224" ThreadID="4064"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="KeyName">Microsoft Connected Devices Platform device certificate</Data>
+<Data Name="Status">0x80090016</Data>
+<Data Name="ProcessName">svchost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>3</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.752581"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2224" ThreadID="4064"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="KeyName">Microsoft Connected Devices Platform device certificate</Data>
+<Data Name="Status">0x80090016</Data>
+<Data Name="ProcessName">svchost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>3</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.754148"></TimeCreated>
+<EventRecordID>5</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2224" ThreadID="4064"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="KeyName">Microsoft Connected Devices Platform device certificate</Data>
+<Data Name="Status">0x80090016</Data>
+<Data Name="ProcessName">svchost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">9</EventID>
+<Version>0</Version>
+<Level>5</Level>
+<Task>9</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.757711"></TimeCreated>
+<EventRecordID>6</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0001-2c06-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="752" ThreadID="872"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="KeyModificationType">0x00000001</Data>
+<Data Name="Flags">0x00000000</Data>
+<Data Name="KeyName">Microsoft Connected Devices Platform device certificate</Data>
+<Data Name="KeyFileName">de7cf8a7901d2ad13e5c67c29e5d1662_65df061c-4e95-46a6-9deb-d7b53f2e57bb</Data>
+<Data Name="ProcessName">C:\Windows\System32\svchost.exe</Data>
+<Data Name="ProcessId">0x000008b0</Data>
+<Data Name="ThreadId">0x00000368</Data>
+<Data Name="UserId">S-1-5-21-2389065719-3342106636-307857974-1000</Data>
+<Data Name="ServiceTag">CDPUserSvc_54f9d</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>3</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.828064"></TimeCreated>
+<EventRecordID>7</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5084" ThreadID="5128"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="KeyName">Microsoft Connected Devices Platform device certificate</Data>
+<Data Name="Status">0x80090016</Data>
+<Data Name="ProcessName">svchost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>3</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.829437"></TimeCreated>
+<EventRecordID>8</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5084" ThreadID="5128"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="KeyName">Microsoft Connected Devices Platform device certificate</Data>
+<Data Name="Status">0x80090016</Data>
+<Data Name="ProcessName">svchost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>3</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.830963"></TimeCreated>
+<EventRecordID>9</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5084" ThreadID="5128"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="KeyName">Microsoft Connected Devices Platform device certificate</Data>
+<Data Name="Status">0x80090016</Data>
+<Data Name="ProcessName">svchost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">9</EventID>
+<Version>0</Version>
+<Level>5</Level>
+<Task>9</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.834698"></TimeCreated>
+<EventRecordID>10</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0001-2c06-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="752" ThreadID="864"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="KeyModificationType">0x00000001</Data>
+<Data Name="Flags">0x00000000</Data>
+<Data Name="KeyName">Microsoft Connected Devices Platform device certificate</Data>
+<Data Name="KeyFileName">de7cf8a7901d2ad13e5c67c29e5d1662_65df061c-4e95-46a6-9deb-d7b53f2e57bb</Data>
+<Data Name="ProcessName">C:\Windows\System32\svchost.exe</Data>
+<Data Name="ProcessId">0x000013dc</Data>
+<Data Name="ThreadId">0x00000360</Data>
+<Data Name="UserId">S-1-5-19</Data>
+<Data Name="ServiceTag">CDPSvc</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">2</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>2</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:12.495413"></TimeCreated>
+<EventRecordID>11</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5720" ThreadID="6552"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Platform Crypto Provider</Data>
+<Data Name="Status">0x80090030</Data>
+<Data Name="ProcessName">wwahost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">2</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>2</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:17.564013"></TimeCreated>
+<EventRecordID>12</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4604" ThreadID="5024"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Platform Crypto Provider</Data>
+<Data Name="Status">0x80090030</Data>
+<Data Name="ProcessName">wwahost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">2</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>2</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:24.285597"></TimeCreated>
+<EventRecordID>13</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-7aff-2c2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="3472"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Platform Crypto Provider</Data>
+<Data Name="Status">0x80090030</Data>
+<Data Name="ProcessName">lsass.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>3</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:36.689548"></TimeCreated>
+<EventRecordID>14</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4672" ThreadID="4676"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="KeyName">Microsoft Connected Devices Platform device certificate</Data>
+<Data Name="Status">0x80090016</Data>
+<Data Name="ProcessName">svchost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>3</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:36.690790"></TimeCreated>
+<EventRecordID>15</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4672" ThreadID="4676"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="KeyName">Microsoft Connected Devices Platform device certificate</Data>
+<Data Name="Status">0x80090016</Data>
+<Data Name="ProcessName">svchost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>3</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:36.691929"></TimeCreated>
+<EventRecordID>16</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4672" ThreadID="4676"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="KeyName">Microsoft Connected Devices Platform device certificate</Data>
+<Data Name="Status">0x80090016</Data>
+<Data Name="ProcessName">svchost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">9</EventID>
+<Version>0</Version>
+<Level>5</Level>
+<Task>9</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:36.702669"></TimeCreated>
+<EventRecordID>17</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-7aff-2c2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="344"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="KeyModificationType">0x00000001</Data>
+<Data Name="Flags">0x00000000</Data>
+<Data Name="KeyName">Microsoft Connected Devices Platform device certificate</Data>
+<Data Name="KeyFileName">de7cf8a7901d2ad13e5c67c29e5d1662_65df061c-4e95-46a6-9deb-d7b53f2e57bb</Data>
+<Data Name="ProcessName">C:\Windows\System32\svchost.exe</Data>
+<Data Name="ProcessId">0x00001240</Data>
+<Data Name="ThreadId">0x00000158</Data>
+<Data Name="UserId">S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+<Data Name="ServiceTag">CDPUserSvc_b9f30</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">2</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>2</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:28:43.454912"></TimeCreated>
+<EventRecordID>18</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7148" ThreadID="6480"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Platform Crypto Provider</Data>
+<Data Name="Status">0x80090030</Data>
+<Data Name="ProcessName">wwahost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">2</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>2</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:57.908566"></TimeCreated>
+<EventRecordID>19</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="792"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Platform Crypto Provider</Data>
+<Data Name="Status">0x80090030</Data>
+<Data Name="ProcessName">lsass.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>3</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:49.733469"></TimeCreated>
+<EventRecordID>20</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5568" ThreadID="1552"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="KeyName">Microsoft Connected Devices Platform device certificate</Data>
+<Data Name="Status">0x80090016</Data>
+<Data Name="ProcessName">svchost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>3</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:49.735733"></TimeCreated>
+<EventRecordID>21</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5568" ThreadID="1552"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="KeyName">Microsoft Connected Devices Platform device certificate</Data>
+<Data Name="Status">0x80090016</Data>
+<Data Name="ProcessName">svchost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">3</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>3</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:49.737753"></TimeCreated>
+<EventRecordID>22</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5568" ThreadID="1552"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="KeyName">Microsoft Connected Devices Platform device certificate</Data>
+<Data Name="Status">0x80090016</Data>
+<Data Name="ProcessName">svchost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">9</EventID>
+<Version>0</Version>
+<Level>5</Level>
+<Task>9</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:49.740444"></TimeCreated>
+<EventRecordID>23</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="740" ThreadID="860"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Software Key Storage Provider</Data>
+<Data Name="KeyModificationType">0x00000001</Data>
+<Data Name="Flags">0x00000000</Data>
+<Data Name="KeyName">Microsoft Connected Devices Platform device certificate</Data>
+<Data Name="KeyFileName">de7cf8a7901d2ad13e5c67c29e5d1662_65df061c-4e95-46a6-9deb-d7b53f2e57bb</Data>
+<Data Name="ProcessName">C:\Windows\System32\svchost.exe</Data>
+<Data Name="ProcessId">0x000015c0</Data>
+<Data Name="ThreadId">0x0000035c</Data>
+<Data Name="UserId">S-1-5-21-2389065719-3342106636-307857974-1002</Data>
+<Data Name="ServiceTag">CDPUserSvc_1e7a9d</Data>
+<Data Name="Status">0x00000000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Crypto-NCrypt" Guid="{e8ed09dc-100c-45e2-9fc8-b53399ec1f70}"></Provider>
+<EventID Qualifiers="">2</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>2</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:41:00.405872"></TimeCreated>
+<EventRecordID>24</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="8880" ThreadID="9560"></Execution>
+<Channel>Microsoft-Windows-Crypto-NCrypt/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="ProviderName">Microsoft Platform Crypto Provider</Data>
+<Data Name="Status">0x80090030</Data>
+<Data Name="ProcessName">wwahost.exe</Data>
+</EventData>
+</Event>
+
+</Events>

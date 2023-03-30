@@ -1,0 +1,58 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Fault-Tolerant-Heap" Guid="{6b93bf66-a922-4c11-a617-cf60d95c133d}"></Provider>
+<EventID Qualifiers="">1001</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>11</Opcode>
+<Keywords>0x4000000010000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:35:26.014063"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7748" ThreadID="848"></Execution>
+<Channel>Microsoft-Windows-Fault-Tolerant-Heap/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Fault-Tolerant-Heap" Guid="{6b93bf66-a922-4c11-a617-cf60d95c133d}"></Provider>
+<EventID Qualifiers="">1002</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>12</Opcode>
+<Keywords>0x4000000010000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:25.275187"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7748" ThreadID="6652"></Execution>
+<Channel>Microsoft-Windows-Fault-Tolerant-Heap/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Fault-Tolerant-Heap" Guid="{6b93bf66-a922-4c11-a617-cf60d95c133d}"></Provider>
+<EventID Qualifiers="">1001</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>11</Opcode>
+<Keywords>0x4000000010000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:32.946543"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7672" ThreadID="228"></Execution>
+<Channel>Microsoft-Windows-Fault-Tolerant-Heap/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+</Events>

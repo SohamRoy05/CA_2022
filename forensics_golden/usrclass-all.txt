@@ -1,0 +1,12 @@
+muicache v.20120522
+(NTUSER.DAT,USRCLASS.DAT) Gets EXEs from user's MUICache key
+
+Software\Microsoft\Windows\ShellNoRoam\MUICache not found.
+
+Local Settings\Software\Microsoft\Windows\Shell\MUICache not found.
+----------------------------------------
+shellbags v.20130102
+(USRCLASS.DAT) Shell/BagMRU traversal in Win7 USRCLASS.DAT hives
+
+Local Settings\Software\Microsoft\Windows\Shell\BagMRU not found.
+----------------------------------------

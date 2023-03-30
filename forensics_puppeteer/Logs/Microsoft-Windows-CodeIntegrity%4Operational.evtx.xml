@@ -1,0 +1,84 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CodeIntegrity" Guid="{4ee76bd8-3cf4-44a0-a0ac-3937643e37a3}"></Provider>
+<EventID Qualifiers="">3085</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>20</Task>
+<Opcode>127</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:34.572111"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0000-6b28-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-CodeIntegrity/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Settings">0x00000000</Data>
+<Data Name="Exemption">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CodeIntegrity" Guid="{4ee76bd8-3cf4-44a0-a0ac-3937643e37a3}"></Provider>
+<EventID Qualifiers="">3085</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>20</Task>
+<Opcode>127</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:44.427765"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0000-2106-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-CodeIntegrity/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Settings">0x00000000</Data>
+<Data Name="Exemption">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CodeIntegrity" Guid="{4ee76bd8-3cf4-44a0-a0ac-3937643e37a3}"></Provider>
+<EventID Qualifiers="">3085</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>20</Task>
+<Opcode>127</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:06.785000"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-5aff-2c2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-CodeIntegrity/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Settings">0x00000000</Data>
+<Data Name="Exemption">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CodeIntegrity" Guid="{4ee76bd8-3cf4-44a0-a0ac-3937643e37a3}"></Provider>
+<EventID Qualifiers="">3085</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>20</Task>
+<Opcode>127</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:30.837122"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0000-895a-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-CodeIntegrity/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Settings">0x00000000</Data>
+<Data Name="Exemption">1</Data>
+</EventData>
+</Event>
+
+</Events>

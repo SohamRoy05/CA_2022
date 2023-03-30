@@ -1,0 +1,12 @@
+samparse v.20120722
+(SAM) Parse SAM file for user & group mbrshp info
+
+
+User Information
+-------------------------
+SAM\Domains\Account\Users not found.
+-------------------------
+Group Membership Information
+-------------------------
+SAM\Domains\Builtin\Aliases not found.
+----------------------------------------

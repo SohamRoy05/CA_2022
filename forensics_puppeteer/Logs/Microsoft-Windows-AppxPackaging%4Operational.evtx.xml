@@ -1,0 +1,2398 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:55.056393"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-ef2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="3268"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/appx/manifest/uap/windows10/7</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:55.121017"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-ef2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/appx/manifest/uap/windows10/7</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:55.571234"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-ef2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="3268"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/appx/2013/xbox/manifest</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:55.636660"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-ef2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/appx/2013/xbox/manifest</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:55.858366"></TimeCreated>
+<EventRecordID>5</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-ef2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="3268"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:55.922667"></TimeCreated>
+<EventRecordID>6</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-ef2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:57.556053"></TimeCreated>
+<EventRecordID>7</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-ef2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="3268"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/appx/manifest/uap/windows10/3</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:57.622221"></TimeCreated>
+<EventRecordID>8</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-ef2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/appx/manifest/uap/windows10/3</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:02.900536"></TimeCreated>
+<EventRecordID>9</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0002-db2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:03.072077"></TimeCreated>
+<EventRecordID>10</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0002-db2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4588"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:03.337578"></TimeCreated>
+<EventRecordID>11</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-c531-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:03.671326"></TimeCreated>
+<EventRecordID>12</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-c531-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="3100"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:03.993160"></TimeCreated>
+<EventRecordID>13</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-da31-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:04.251846"></TimeCreated>
+<EventRecordID>14</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-da31-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="3128"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:04.436344"></TimeCreated>
+<EventRecordID>15</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-ed31-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:04.535099"></TimeCreated>
+<EventRecordID>16</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-ed31-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4644"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:04.773434"></TimeCreated>
+<EventRecordID>17</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0000-df2b-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:04.889101"></TimeCreated>
+<EventRecordID>18</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0000-df2b-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4584"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:05.809361"></TimeCreated>
+<EventRecordID>19</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0001-3b2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:06.114515"></TimeCreated>
+<EventRecordID>20</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0001-3b2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="1576"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:06.427052"></TimeCreated>
+<EventRecordID>21</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-a032-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:06.782467"></TimeCreated>
+<EventRecordID>22</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-a032-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4652"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:07.428694"></TimeCreated>
+<EventRecordID>23</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-d732-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:07.555126"></TimeCreated>
+<EventRecordID>24</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-d732-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="3040"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:07.695875"></TimeCreated>
+<EventRecordID>25</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0001-5e2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:07.776983"></TimeCreated>
+<EventRecordID>26</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0001-5e2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:07.902538"></TimeCreated>
+<EventRecordID>27</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0001-6b2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:07.994753"></TimeCreated>
+<EventRecordID>28</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0001-6b2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4620"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:08.117073"></TimeCreated>
+<EventRecordID>29</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0002-3f2d-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:08.219685"></TimeCreated>
+<EventRecordID>30</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0002-3f2d-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="3032"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:08.336649"></TimeCreated>
+<EventRecordID>31</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-4533-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:08.425270"></TimeCreated>
+<EventRecordID>32</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-4533-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="3000"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:08.535723"></TimeCreated>
+<EventRecordID>33</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0000-3f2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:08.612154"></TimeCreated>
+<EventRecordID>34</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0000-3f2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="2996"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:08.712778"></TimeCreated>
+<EventRecordID>35</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-7f33-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:08.810570"></TimeCreated>
+<EventRecordID>36</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-7f33-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4676"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:08.957533"></TimeCreated>
+<EventRecordID>37</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-9f33-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:09.036142"></TimeCreated>
+<EventRecordID>38</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-9f33-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4680"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:09.169140"></TimeCreated>
+<EventRecordID>39</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0001-8a2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:09.257668"></TimeCreated>
+<EventRecordID>40</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0001-8a2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="3052"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:09.379597"></TimeCreated>
+<EventRecordID>41</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-e633-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:09.480562"></TimeCreated>
+<EventRecordID>42</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-e633-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4684"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:09.653376"></TimeCreated>
+<EventRecordID>43</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-fc33-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:09.915194"></TimeCreated>
+<EventRecordID>44</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-fc33-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="3028"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:10.119326"></TimeCreated>
+<EventRecordID>45</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-1534-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:10.217016"></TimeCreated>
+<EventRecordID>46</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-1534-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="3012"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:10.434658"></TimeCreated>
+<EventRecordID>47</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0001-a22c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:11.041876"></TimeCreated>
+<EventRecordID>48</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0001-a22c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4044"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:11.681322"></TimeCreated>
+<EventRecordID>49</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0001-a52c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:11.821140"></TimeCreated>
+<EventRecordID>50</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0001-a52c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4136"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:12.045885"></TimeCreated>
+<EventRecordID>51</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0000-742c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:12.341354"></TimeCreated>
+<EventRecordID>52</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0000-742c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4140"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:12.628708"></TimeCreated>
+<EventRecordID>53</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0001-af2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:12.961069"></TimeCreated>
+<EventRecordID>54</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0001-af2c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4156"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:13.321526"></TimeCreated>
+<EventRecordID>55</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0001-b32c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:13.588249"></TimeCreated>
+<EventRecordID>56</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0001-b32c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4176"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:13.901379"></TimeCreated>
+<EventRecordID>57</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-c034-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:14.060440"></TimeCreated>
+<EventRecordID>58</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-c034-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="3168"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:14.351110"></TimeCreated>
+<EventRecordID>59</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-e734-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:14.473312"></TimeCreated>
+<EventRecordID>60</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-e734-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4008"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:14.625355"></TimeCreated>
+<EventRecordID>61</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-1435-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:14.831247"></TimeCreated>
+<EventRecordID>62</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-1435-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4200"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:15.093695"></TimeCreated>
+<EventRecordID>63</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0000-c42c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:15.414244"></TimeCreated>
+<EventRecordID>64</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0000-c42c-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4000"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:15.751331"></TimeCreated>
+<EventRecordID>65</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-3a35-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:15.940504"></TimeCreated>
+<EventRecordID>66</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-3a35-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4216"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:16.150295"></TimeCreated>
+<EventRecordID>67</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-6935-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:16.376202"></TimeCreated>
+<EventRecordID>68</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0003-6935-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4220"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:16.516932"></TimeCreated>
+<EventRecordID>69</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0002-b52d-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:16.516949"></TimeCreated>
+<EventRecordID>70</EventRecordID>
+<Correlation ActivityID="{824d2842-61b0-0002-b52d-4d82b061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4736"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/appx/manifest/virtualization/windows10</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:19.107355"></TimeCreated>
+<EventRecordID>71</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="3272"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:19.215527"></TimeCreated>
+<EventRecordID>72</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="3264"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:19.216492"></TimeCreated>
+<EventRecordID>73</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="3272"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:19.291822"></TimeCreated>
+<EventRecordID>74</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4260"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:19.310640"></TimeCreated>
+<EventRecordID>75</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4248"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:19.330484"></TimeCreated>
+<EventRecordID>76</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="3272"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:19.333595"></TimeCreated>
+<EventRecordID>77</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="3264"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:19.384724"></TimeCreated>
+<EventRecordID>78</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4252"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:19.431046"></TimeCreated>
+<EventRecordID>79</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4276"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:19.451242"></TimeCreated>
+<EventRecordID>80</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4260"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:19.477116"></TimeCreated>
+<EventRecordID>81</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="3264"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:19.477142"></TimeCreated>
+<EventRecordID>82</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="3264"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/appx/manifest/virtualization/windows10</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:19.486660"></TimeCreated>
+<EventRecordID>83</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3236" ThreadID="4248"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:07.308117"></TimeCreated>
+<EventRecordID>84</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0002-6308-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1548" ThreadID="4948"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:07.387466"></TimeCreated>
+<EventRecordID>85</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0002-6308-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1548" ThreadID="4948"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:08.768408"></TimeCreated>
+<EventRecordID>86</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0000-5a09-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1548" ThreadID="6028"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:09.151274"></TimeCreated>
+<EventRecordID>87</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0001-b808-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1548" ThreadID="4944"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:09.229378"></TimeCreated>
+<EventRecordID>88</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0001-b808-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1548" ThreadID="4944"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:09.663589"></TimeCreated>
+<EventRecordID>89</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0003-ab0a-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1548" ThreadID="4944"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:09.722990"></TimeCreated>
+<EventRecordID>90</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0003-ab0a-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1548" ThreadID="4944"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:11.791664"></TimeCreated>
+<EventRecordID>91</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5268" ThreadID="5360"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:14.510715"></TimeCreated>
+<EventRecordID>92</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5268" ThreadID="5360"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:14.985592"></TimeCreated>
+<EventRecordID>93</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5268" ThreadID="5360"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:16.439968"></TimeCreated>
+<EventRecordID>94</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5268" ThreadID="5360"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/appx/manifest/uap/windows10/3</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:16.504353"></TimeCreated>
+<EventRecordID>95</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5268" ThreadID="5360"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/appx/manifest/uap/windows10/3</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:16.579273"></TimeCreated>
+<EventRecordID>96</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5268" ThreadID="5360"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/appx/manifest/uap/windows10/3</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:16.683126"></TimeCreated>
+<EventRecordID>97</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5268" ThreadID="5360"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/appx/manifest/uap/windows10/3</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:19.317430"></TimeCreated>
+<EventRecordID>98</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5268" ThreadID="5360"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:19.370646"></TimeCreated>
+<EventRecordID>99</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5268" ThreadID="5360"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:19.420803"></TimeCreated>
+<EventRecordID>100</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5268" ThreadID="5360"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:19.507509"></TimeCreated>
+<EventRecordID>101</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5268" ThreadID="5360"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:19.560228"></TimeCreated>
+<EventRecordID>102</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5268" ThreadID="5360"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:37.311981"></TimeCreated>
+<EventRecordID>103</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0001-0707-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4444"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:37.400974"></TimeCreated>
+<EventRecordID>104</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0001-0707-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4444"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:40.302147"></TimeCreated>
+<EventRecordID>105</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-ac0b-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="3988"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:40.364935"></TimeCreated>
+<EventRecordID>106</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-ac0b-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="3988"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:40.450718"></TimeCreated>
+<EventRecordID>107</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-e211-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:40.508482"></TimeCreated>
+<EventRecordID>108</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-e211-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:40.870823"></TimeCreated>
+<EventRecordID>109</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-550c-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:40.928360"></TimeCreated>
+<EventRecordID>110</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-550c-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4616"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:41.082672"></TimeCreated>
+<EventRecordID>111</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-600c-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="3988"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:41.138399"></TimeCreated>
+<EventRecordID>112</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-600c-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="3988"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:42.410732"></TimeCreated>
+<EventRecordID>113</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-3c15-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="3192"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:25:54.725843"></TimeCreated>
+<EventRecordID>114</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-4119-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4696"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/appx/2013/xbox/manifest</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:18.294142"></TimeCreated>
+<EventRecordID>115</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-f93c-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="4696"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/appx/2013/xbox/manifest</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">157</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>7</Task>
+<Opcode>12</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:27:41.092138"></TimeCreated>
+<EventRecordID>116</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-ad47-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="7828"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="subjectName">CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">170</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>3</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:27:41.161650"></TimeCreated>
+<EventRecordID>117</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-ad47-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="7828"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="packageFullName">Microsoft.OneDriveSync_21220.1024.5.0_neutral__8wekyb3d8bbwe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">157</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>7</Task>
+<Opcode>12</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:31:22.565256"></TimeCreated>
+<EventRecordID>118</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-223d-2e2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="1792"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="subjectName">CN=082E9164-EE6C-4EC8-B62C-441FAE7BEFA1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">170</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>3</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:31:22.629669"></TimeCreated>
+<EventRecordID>119</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-223d-2e2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3320" ThreadID="1792"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="packageFullName">Mozilla.Firefox_100.0.0.0_x64__n80bbvh6b1yt2</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:39.594372"></TimeCreated>
+<EventRecordID>120</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0001-ed5b-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3412" ThreadID="3436"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/appx/2013/xbox/manifest</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:46.283983"></TimeCreated>
+<EventRecordID>121</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0000-ce5f-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3412" ThreadID="4612"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:46.360182"></TimeCreated>
+<EventRecordID>122</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0000-ce5f-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3412" ThreadID="4612"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:46.628120"></TimeCreated>
+<EventRecordID>123</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0000-cc5f-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3412" ThreadID="4672"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:46.715181"></TimeCreated>
+<EventRecordID>124</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0000-cc5f-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3412" ThreadID="4672"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:47.262781"></TimeCreated>
+<EventRecordID>125</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0001-8762-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3412" ThreadID="4668"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppxPackagingOM" Guid="{ba723d81-0d0c-4f1e-80c8-54740f508ddf}"></Provider>
+<EventID Qualifiers="">216</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>4</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:47.346300"></TimeCreated>
+<EventRecordID>126</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0001-8762-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3412" ThreadID="4668"></Execution>
+<Channel>Microsoft-Windows-AppxPackaging/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="namespace">http://schemas.microsoft.com/developer/appx/2015/build</Data>
+</EventData>
+</Event>
+
+</Events>

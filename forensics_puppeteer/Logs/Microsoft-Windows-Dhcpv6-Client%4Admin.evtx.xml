@@ -1,0 +1,88 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DHCPv6-Client" Guid="{6a1f2b00-6a90-4c38-95a5-5cab3b056778}"></Provider>
+<EventID Qualifiers="">1006</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>13</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:55.901428"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2156" ThreadID="2304"></Execution>
+<Channel>Microsoft-Windows-Dhcpv6-Client/Admin</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="InterfaceId">6</Data>
+<Data Name="Flag1">True</Data>
+<Data Name="Flag2">True</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DHCPv6-Client" Guid="{6a1f2b00-6a90-4c38-95a5-5cab3b056778}"></Provider>
+<EventID Qualifiers="">1003</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>3</Task>
+<Opcode>75</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:14.852861"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1860" ThreadID="1816"></Execution>
+<Channel>Microsoft-Windows-Dhcpv6-Client/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="HWLength">6</Data>
+<Data Name="HWAddress">CAAn2BGg</Data>
+<Data Name="StatusCode">1168</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DHCPv6-Client" Guid="{6a1f2b00-6a90-4c38-95a5-5cab3b056778}"></Provider>
+<EventID Qualifiers="">1003</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>3</Task>
+<Opcode>75</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:38.483768"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2104" ThreadID="3340"></Execution>
+<Channel>Microsoft-Windows-Dhcpv6-Client/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="HWLength">6</Data>
+<Data Name="HWAddress">CAAn2BGg</Data>
+<Data Name="StatusCode">1168</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DHCPv6-Client" Guid="{6a1f2b00-6a90-4c38-95a5-5cab3b056778}"></Provider>
+<EventID Qualifiers="">1006</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>13</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:38.484383"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2104" ThreadID="3180"></Execution>
+<Channel>Microsoft-Windows-Dhcpv6-Client/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="InterfaceId">7</Data>
+<Data Name="Flag1">True</Data>
+<Data Name="Flag2">True</Data>
+</EventData>
+</Event>
+
+</Events>

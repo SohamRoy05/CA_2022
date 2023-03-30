@@ -1,0 +1,23 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Audio" Guid="{ae4bd3be-f36f-45b6-8d21-bdd6fb832853}"></Provider>
+<EventID Qualifiers="">22</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>118</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0800000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:55.747549"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5720" ThreadID="6484"></Execution>
+<Channel>Microsoft-Windows-Audio/PlaybackManager</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1000"></Security>
+</System>
+<EventData><Data Name="bIsSuspended">True</Data>
+</EventData>
+</Event>
+
+</Events>

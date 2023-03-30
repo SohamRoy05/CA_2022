@@ -1,0 +1,20 @@
+Mon May 16 16:24:09 2022: Log opened.
+Mon May 16 16:24:09 2022: File: Z:\home\kali\HTB\CA\forensics_golden\NTUSER.DAT
+Mon May 16 16:24:09 2022: Environment set up.
+Mon May 16 16:24:09 2022: Parsed Plugins file all
+Mon May 16 16:24:09 2022: Launching findexes v.20090728
+Mon May 16 16:24:09 2022: 0 plugins completed with errors.
+Mon May 16 16:24:09 2022: findexes complete.
+Mon May 16 16:24:09 2022: Launching regtime v.20080324
+Mon May 16 16:24:23 2022: Log opened.
+Mon May 16 16:24:23 2022: File: Z:\home\kali\HTB\CA\forensics_golden\NTUSER.DAT
+Mon May 16 16:24:23 2022: Environment set up.
+Mon May 16 16:24:23 2022: Parsed Plugins file all
+Mon May 16 16:24:23 2022: Launching findexes v.20090728
+Mon May 16 16:24:23 2022: 0 plugins completed with errors.
+Mon May 16 16:24:23 2022: findexes complete.
+Mon May 16 16:24:23 2022: Launching regtime v.20080324
+Mon May 16 16:24:50 2022: 0 plugins completed with errors.
+Mon May 16 16:24:50 2022: regtime complete.
+Mon May 16 16:24:50 2022: 0 plugins completed with errors.
+Mon May 16 16:24:50 2022: regtime complete.

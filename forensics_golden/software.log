@@ -1,0 +1,222 @@
+Mon May 16 16:25:48 2022: Log opened.
+Mon May 16 16:25:48 2022: File: Z:\home\kali\HTB\CA\forensics_golden\NTUSER.DAT
+Mon May 16 16:25:48 2022: Environment set up.
+Mon May 16 16:25:48 2022: Parsed Plugins file software
+Mon May 16 16:25:48 2022: 0 plugins completed with errors.
+Mon May 16 16:25:48 2022: appinitdlls complete.
+Mon May 16 16:25:48 2022: Launching apppaths v.20120524
+Mon May 16 16:25:48 2022: 0 plugins completed with errors.
+Mon May 16 16:25:48 2022: apppaths complete.
+Mon May 16 16:25:48 2022: Launching assoc v.20080815
+Mon May 16 16:25:48 2022: Classes not found.
+Mon May 16 16:25:48 2022: 0 plugins completed with errors.
+Mon May 16 16:25:48 2022: assoc complete.
+Mon May 16 16:25:48 2022: Launching banner v.20081119
+Mon May 16 16:25:48 2022: Microsoft\Windows\CurrentVersion\policies\system not found.
+Mon May 16 16:25:48 2022: Microsoft\Windows NT\CurrentVersion\Winlogon not found.
+Mon May 16 16:25:48 2022: 0 plugins completed with errors.
+Mon May 16 16:25:48 2022: banner complete.
+Mon May 16 16:25:48 2022: Launching bho v.20080418
+Mon May 16 16:25:48 2022: Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects not found.
+Mon May 16 16:25:48 2022: 0 plugins completed with errors.
+Mon May 16 16:25:48 2022: bho complete.
+Mon May 16 16:25:48 2022: Launching bitbucket v.20080418
+Mon May 16 16:25:48 2022: Microsoft\Windows\CurrentVersion\Explorer\BitBucket not found.
+Mon May 16 16:25:48 2022: 0 plugins completed with errors.
+Mon May 16 16:25:48 2022: bitbucket complete.
+Mon May 16 16:25:48 2022: Launching clsid v.20100227
+Mon May 16 16:25:48 2022: 0 plugins completed with errors.
+Mon May 16 16:25:48 2022: clsid complete.
+Mon May 16 16:25:48 2022: Launching cmd_shell v.20100830
+Mon May 16 16:25:48 2022: Classes\exefile\shell\open\command not found.
+Mon May 16 16:25:48 2022: Classes\cmdfile\shell\open\command not found.
+Mon May 16 16:25:48 2022: Classes\batfile\shell\open\command not found.
+Mon May 16 16:25:48 2022: Classes\csfile\shell\open\command not found.
+Mon May 16 16:25:48 2022: Classes\htafile\shell\open\command not found.
+Mon May 16 16:25:48 2022: Classes\piffile\shell\open\command not found.
+Mon May 16 16:25:48 2022: 0 plugins completed with errors.
+Mon May 16 16:25:48 2022: cmd_shell complete.
+Mon May 16 16:25:48 2022: Launching codeid v.20100608
+Mon May 16 16:25:48 2022: 0 plugins completed with errors.
+Mon May 16 16:25:48 2022: codeid complete.
+Mon May 16 16:25:48 2022: Launching ctrlpnl v.20100116
+Mon May 16 16:25:48 2022: 0 plugins completed with errors.
+Mon May 16 16:25:48 2022: ctrlpnl complete.
+Mon May 16 16:25:48 2022: Launching defbrowser v.20091116
+Mon May 16 16:25:48 2022: 0 plugins completed with errors.
+Mon May 16 16:25:48 2022: defbrowser complete.
+Mon May 16 16:25:48 2022: 0 plugins completed with errors.
+Mon May 16 16:25:48 2022: direct complete.
+Mon May 16 16:25:48 2022: Launching disablesr v.20120914
+Mon May 16 16:25:48 2022: Microsoft\Windows NT\CurrentVersion\SystemRestore not found.
+Mon May 16 16:25:48 2022: 0 plugins completed with errors.
+Mon May 16 16:25:48 2022: disablesr complete.
+Mon May 16 16:25:48 2022: Launching drwatson v.20081219
+Mon May 16 16:25:48 2022: Microsoft\Windows NT\CurrentVersion\AeDebug not found.
+Mon May 16 16:25:48 2022: Microsoft\DrWatson not found.
+Mon May 16 16:25:48 2022: 0 plugins completed with errors.
+Mon May 16 16:25:48 2022: drwatson complete.
+Mon May 16 16:25:48 2022: Error in EMDMgmt: Can't locate object method "pluginmain" via package "EMDMgmt" (perhaps you forgot to load "EMDMgmt"?) at Z:\usr\share\windows-resources\regripper\rr.exe line 273.
+
+Mon May 16 16:25:48 2022: 1 plugins completed with errors.
+Mon May 16 16:25:48 2022: EMDMgmt complete.
+Mon May 16 16:25:48 2022: Launching ie_version v.20091016
+Mon May 16 16:25:48 2022: 1 plugins completed with errors.
+Mon May 16 16:25:48 2022: ie_version complete.
+Mon May 16 16:25:48 2022: Launching imagefile v.20100824
+Mon May 16 16:25:48 2022: Microsoft\Windows NT\CurrentVersion\Image File Execution Options not found.
+Mon May 16 16:25:48 2022: 1 plugins completed with errors.
+Mon May 16 16:25:48 2022: imagefile complete.
+Mon May 16 16:25:48 2022: Launching init_dlls v.20110309
+Mon May 16 16:25:48 2022: 1 plugins completed with errors.
+Mon May 16 16:25:48 2022: init_dlls complete.
+Mon May 16 16:25:48 2022: Launching installedcomp v.20100116
+Mon May 16 16:25:48 2022: 1 plugins completed with errors.
+Mon May 16 16:25:48 2022: installedcomp complete.
+Mon May 16 16:25:48 2022: Launching installer v.20120917
+Mon May 16 16:25:48 2022: 1 plugins completed with errors.
+Mon May 16 16:25:48 2022: installer complete.
+Mon May 16 16:25:48 2022: Launching kb950582 v.20081212
+Mon May 16 16:25:48 2022: 1 plugins completed with errors.
+Mon May 16 16:25:48 2022: kb950582 complete.
+Mon May 16 16:25:48 2022: Launching landesk v.20130326
+Mon May 16 16:25:48 2022: 1 plugins completed with errors.
+Mon May 16 16:25:48 2022: landesk complete.
+Mon May 16 16:25:48 2022: Launching macaddr v.20090118
+Mon May 16 16:25:48 2022: 1 plugins completed with errors.
+Mon May 16 16:25:48 2022: macaddr complete.
+Mon May 16 16:25:48 2022: Launching mrt v.20080804
+Mon May 16 16:25:48 2022: Microsoft\RemovalTools\MRT not found.
+Mon May 16 16:25:48 2022: 1 plugins completed with errors.
+Mon May 16 16:25:48 2022: mrt complete.
+Mon May 16 16:25:48 2022: Launching msis v.20090911
+Mon May 16 16:25:49 2022: Classes\Installer\Products not found.
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: msis complete.
+Mon May 16 16:25:49 2022: Launching networkcards v.20080325
+Mon May 16 16:25:49 2022: Microsoft\Windows NT\CurrentVersion\NetworkCards not found.
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: networkcards complete.
+Mon May 16 16:25:49 2022: Launching networklist v.20120917
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: networklist complete.
+Mon May 16 16:25:49 2022: Launching networkuid v.20100312
+Mon May 16 16:25:49 2022: Microsoft\Windows NT\CurrentVersion\Network not found.
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: networkuid complete.
+Mon May 16 16:25:49 2022: Launching notify v.20110309
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: notify complete.
+Mon May 16 16:25:49 2022: Launching product v.20100325
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: product complete.
+Mon May 16 16:25:49 2022: Launching profilelist v.20100219
+Mon May 16 16:25:49 2022: Microsoft\Windows NT\CurrentVersion\ProfileList not found.
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: profilelist complete.
+Mon May 16 16:25:49 2022: Launching regback v.20100219
+Mon May 16 16:25:49 2022: Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks has no subkeys.
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: regback complete.
+Mon May 16 16:25:49 2022: Launching removdev v.200800611
+Mon May 16 16:25:49 2022: Microsoft\Windows Portable Devices\Devices not found.
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: removdev complete.
+Mon May 16 16:25:49 2022: Launching renocide v.20110309
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: renocide complete.
+Mon May 16 16:25:49 2022: Launching schedagent v.20100817
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: schedagent complete.
+Mon May 16 16:25:49 2022: Launching secctr v.20100310
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: secctr complete.
+Mon May 16 16:25:49 2022: Launching sfc v.20100305
+Mon May 16 16:25:49 2022: Microsoft\Windows NT\CurrentVersion\Winlogon key not found.
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: sfc complete.
+Mon May 16 16:25:49 2022: Launching shellexec v.20081229
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: shellexec complete.
+Mon May 16 16:25:49 2022: Launching shellext v.20100515
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: shellext complete.
+Mon May 16 16:25:49 2022: Launching shelloverlay v.20100308
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: shelloverlay complete.
+Mon May 16 16:25:49 2022: Launching snapshot v.20080725
+Mon May 16 16:25:49 2022: Microsoft\Internet Explorer not found.
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: snapshot complete.
+Mon May 16 16:25:49 2022: Launching soft_run v.20130329
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: soft_run complete.
+Mon May 16 16:25:49 2022: Launching specaccts v.20120803
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: specaccts complete.
+Mon May 16 16:25:49 2022: Launching spp_clients v.20120914
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: spp_clients complete.
+Mon May 16 16:25:49 2022: Launching sql_lastconnect v.20090112
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: sql_lastconnect complete.
+Mon May 16 16:25:49 2022: Launching ssid v.20100301
+Mon May 16 16:25:49 2022: Problem w/ SSIDs, getting NetworkCards: Microsoft\Windows NT\CurrentVersion\NetworkCards not found.
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: ssid complete.
+Mon May 16 16:25:49 2022: Launching startmenuinternetapps_lm.20101219
+Mon May 16 16:25:49 2022: Clients not found.
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: startmenuinternetapps_lm complete.
+Mon May 16 16:25:49 2022: Launching svchost v.20100322
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: svchost complete.
+Mon May 16 16:25:49 2022: Launching taskman v.20091116
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: taskman complete.
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: tracing complete.
+Mon May 16 16:25:49 2022: Launching uninstall v.20120523
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: uninstall complete.
+Mon May 16 16:25:49 2022: Launching urlzone v.20090526
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: urlzone complete.
+Mon May 16 16:25:49 2022: Launching uac v.20130213
+Mon May 16 16:25:49 2022: Microsoft\Windows\CurrentVersion\policies\system not found.
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: uac complete.
+Mon May 16 16:25:49 2022: Launching userinit v.20080328
+Mon May 16 16:25:49 2022: Microsoft\Windows NT\CurrentVersion\Winlogon not found.
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: userinit complete.
+Mon May 16 16:25:49 2022: Launching virut v.20090218
+Mon May 16 16:25:49 2022: Microsoft\Windows\CurrentVersion\Explorer not found.
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: virut complete.
+Mon May 16 16:25:49 2022: Launching vista_wireless v.20090514
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: vista_wireless complete.
+Mon May 16 16:25:49 2022: Launching win_cv v.20090312
+Mon May 16 16:25:49 2022: Microsoft\Windows\CurrentVersion not found.
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: win_cv complete.
+Mon May 16 16:25:49 2022: Launching winbackup v.20120812
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: winbackup complete.
+Mon May 16 16:25:49 2022: Launching winlogon v.20100219
+Mon May 16 16:25:49 2022: Microsoft\Windows NT\CurrentVersion\Winlogon not found.
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: winlogon complete.
+Mon May 16 16:25:49 2022: Launching winnt_cv v.20080609
+Mon May 16 16:25:49 2022: Microsoft\Windows NT\CurrentVersion not found.
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: winnt_cv complete.
+Mon May 16 16:25:49 2022: Launching winver v.20081210
+Mon May 16 16:25:49 2022: Microsoft\Windows NT\CurrentVersion not found.
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: winver complete.
+Mon May 16 16:25:49 2022: Launching yahoo_lm v.20101219
+Mon May 16 16:25:49 2022: Yahoo not found.
+Mon May 16 16:25:49 2022: 1 plugins completed with errors.
+Mon May 16 16:25:49 2022: yahoo_lm complete.

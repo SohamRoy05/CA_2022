@@ -1,0 +1,441 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnosis-DPS" Guid="{6bba3851-2c7e-4dea-8f54-31e5afd029e3}"></Provider>
+<EventID Qualifiers="">100</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>12</Opcode>
+<Keywords>0x4000000800000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:07.266077"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="{8dfa0784-6be3-493b-a111-bf075e649823}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3076" ThreadID="3944"></Execution>
+<Channel>Microsoft-Windows-Diagnosis-DPS/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ScenarioId">{739ff6cf-5033-428c-9e2f-582096482dd5}</Data>
+<Data Name="InstanceId">{8dfa0784-6be3-493b-a111-bf075e649823}</Data>
+<Data Name="OriginalActivityId">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="DiagnosticModuleImageName">%windir%\system32\radardt.dll</Data>
+<Data Name="DiagnosticModuleId">{c0f51d84-11b9-4e74-b083-99f11ba2db0a}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnosis-DPS" Guid="{6bba3851-2c7e-4dea-8f54-31e5afd029e3}"></Provider>
+<EventID Qualifiers="">105</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>13</Opcode>
+<Keywords>0x4000000800000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:07.266081"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="{8dfa0784-6be3-493b-a111-bf075e649823}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3076" ThreadID="3944"></Execution>
+<Channel>Microsoft-Windows-Diagnosis-DPS/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ScenarioId">{739ff6cf-5033-428c-9e2f-582096482dd5}</Data>
+<Data Name="InstanceId">{8dfa0784-6be3-493b-a111-bf075e649823}</Data>
+<Data Name="OriginalActivityId">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="DiagnosticModuleImageName">%windir%\system32\radardt.dll</Data>
+<Data Name="DiagnosticModuleId">{c0f51d84-11b9-4e74-b083-99f11ba2db0a}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnosis-DPS" Guid="{6bba3851-2c7e-4dea-8f54-31e5afd029e3}"></Provider>
+<EventID Qualifiers="">110</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>14</Opcode>
+<Keywords>0x4000000800000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:07.271629"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="{8dfa0784-6be3-493b-a111-bf075e649823}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3076" ThreadID="3944"></Execution>
+<Channel>Microsoft-Windows-Diagnosis-DPS/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ScenarioId">{739ff6cf-5033-428c-9e2f-582096482dd5}</Data>
+<Data Name="InstanceId">{8dfa0784-6be3-493b-a111-bf075e649823}</Data>
+<Data Name="OriginalActivityId">{00000000-0000-0000-0000-000000000000}</Data>
+<Data Name="DiagnosticModuleImageName">%windir%\system32\radardt.dll</Data>
+<Data Name="DiagnosticModuleId">{c0f51d84-11b9-4e74-b083-99f11ba2db0a}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnosis-DPS" Guid="{6bba3851-2c7e-4dea-8f54-31e5afd029e3}"></Provider>
+<EventID Qualifiers="">100</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>12</Opcode>
+<Keywords>0x4000000800000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:38.258057"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="{5a081436-da92-4abd-b4ad-abee8b93a935}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3076" ThreadID="3372"></Execution>
+<Channel>Microsoft-Windows-Diagnosis-DPS/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ScenarioId">{86432a0b-3c7d-4ddf-a89c-172faa90485d}</Data>
+<Data Name="InstanceId">{5a081436-da92-4abd-b4ad-abee8b93a935}</Data>
+<Data Name="OriginalActivityId">{86432a0b-3c7d-4ddf-a89c-172faa90485d}</Data>
+<Data Name="DiagnosticModuleImageName">%SystemRoot%\system32\diagperf.dll</Data>
+<Data Name="DiagnosticModuleId">{c8544339-5be9-4f25-862e-485f1b1a6935}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnosis-DPS" Guid="{6bba3851-2c7e-4dea-8f54-31e5afd029e3}"></Provider>
+<EventID Qualifiers="">105</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>13</Opcode>
+<Keywords>0x4000000800000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:38.258066"></TimeCreated>
+<EventRecordID>5</EventRecordID>
+<Correlation ActivityID="{5a081436-da92-4abd-b4ad-abee8b93a935}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3076" ThreadID="3372"></Execution>
+<Channel>Microsoft-Windows-Diagnosis-DPS/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ScenarioId">{86432a0b-3c7d-4ddf-a89c-172faa90485d}</Data>
+<Data Name="InstanceId">{5a081436-da92-4abd-b4ad-abee8b93a935}</Data>
+<Data Name="OriginalActivityId">{86432a0b-3c7d-4ddf-a89c-172faa90485d}</Data>
+<Data Name="DiagnosticModuleImageName">%SystemRoot%\system32\diagperf.dll</Data>
+<Data Name="DiagnosticModuleId">{c8544339-5be9-4f25-862e-485f1b1a6935}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnosis-DPS" Guid="{6bba3851-2c7e-4dea-8f54-31e5afd029e3}"></Provider>
+<EventID Qualifiers="">110</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>14</Opcode>
+<Keywords>0x4000000800000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:39.321701"></TimeCreated>
+<EventRecordID>6</EventRecordID>
+<Correlation ActivityID="{5a081436-da92-4abd-b4ad-abee8b93a935}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3076" ThreadID="3372"></Execution>
+<Channel>Microsoft-Windows-Diagnosis-DPS/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ScenarioId">{86432a0b-3c7d-4ddf-a89c-172faa90485d}</Data>
+<Data Name="InstanceId">{5a081436-da92-4abd-b4ad-abee8b93a935}</Data>
+<Data Name="OriginalActivityId">{86432a0b-3c7d-4ddf-a89c-172faa90485d}</Data>
+<Data Name="DiagnosticModuleImageName">%SystemRoot%\system32\diagperf.dll</Data>
+<Data Name="DiagnosticModuleId">{c8544339-5be9-4f25-862e-485f1b1a6935}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnosis-DPS" Guid="{6bba3851-2c7e-4dea-8f54-31e5afd029e3}"></Provider>
+<EventID Qualifiers="">100</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>12</Opcode>
+<Keywords>0x4000000800000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.615969"></TimeCreated>
+<EventRecordID>7</EventRecordID>
+<Correlation ActivityID="{9ae4e624-8e10-4c51-a424-723d850da173}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2756" ThreadID="2108"></Execution>
+<Channel>Microsoft-Windows-Diagnosis-DPS/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ScenarioId">{2698178d-fdad-40ae-9d3c-1371703adc5b}</Data>
+<Data Name="InstanceId">{9ae4e624-8e10-4c51-a424-723d850da173}</Data>
+<Data Name="OriginalActivityId">{2698178d-fdad-40ae-9d3c-1371703adc5b}</Data>
+<Data Name="DiagnosticModuleImageName">%SystemRoot%\system32\diagperf.dll</Data>
+<Data Name="DiagnosticModuleId">{15fba3b8-a37a-4f91-bdba-fbb98fe804bf}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnosis-DPS" Guid="{6bba3851-2c7e-4dea-8f54-31e5afd029e3}"></Provider>
+<EventID Qualifiers="">105</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>13</Opcode>
+<Keywords>0x4000000800000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.615973"></TimeCreated>
+<EventRecordID>8</EventRecordID>
+<Correlation ActivityID="{9ae4e624-8e10-4c51-a424-723d850da173}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2756" ThreadID="2108"></Execution>
+<Channel>Microsoft-Windows-Diagnosis-DPS/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ScenarioId">{2698178d-fdad-40ae-9d3c-1371703adc5b}</Data>
+<Data Name="InstanceId">{9ae4e624-8e10-4c51-a424-723d850da173}</Data>
+<Data Name="OriginalActivityId">{2698178d-fdad-40ae-9d3c-1371703adc5b}</Data>
+<Data Name="DiagnosticModuleImageName">%SystemRoot%\system32\diagperf.dll</Data>
+<Data Name="DiagnosticModuleId">{15fba3b8-a37a-4f91-bdba-fbb98fe804bf}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnosis-DPS" Guid="{6bba3851-2c7e-4dea-8f54-31e5afd029e3}"></Provider>
+<EventID Qualifiers="">100</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>12</Opcode>
+<Keywords>0x4000000800000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:36.094418"></TimeCreated>
+<EventRecordID>9</EventRecordID>
+<Correlation ActivityID="{621d9370-68dd-47c4-af44-a07448d3d8b0}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2756" ThreadID="2336"></Execution>
+<Channel>Microsoft-Windows-Diagnosis-DPS/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ScenarioId">{3af8b24a-c441-4fa4-8c5c-bed591bfa867}</Data>
+<Data Name="InstanceId">{621d9370-68dd-47c4-af44-a07448d3d8b0}</Data>
+<Data Name="OriginalActivityId">{9f41811a-0429-42aa-81b7-cfd4d968411f}</Data>
+<Data Name="DiagnosticModuleImageName">%windir%\system32\radardt.dll</Data>
+<Data Name="DiagnosticModuleId">{e4cd2e3e-3852-4952-b76b-23bb8e35d344}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnosis-DPS" Guid="{6bba3851-2c7e-4dea-8f54-31e5afd029e3}"></Provider>
+<EventID Qualifiers="">105</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>13</Opcode>
+<Keywords>0x4000000800000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:36.094421"></TimeCreated>
+<EventRecordID>10</EventRecordID>
+<Correlation ActivityID="{621d9370-68dd-47c4-af44-a07448d3d8b0}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2756" ThreadID="2336"></Execution>
+<Channel>Microsoft-Windows-Diagnosis-DPS/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ScenarioId">{3af8b24a-c441-4fa4-8c5c-bed591bfa867}</Data>
+<Data Name="InstanceId">{621d9370-68dd-47c4-af44-a07448d3d8b0}</Data>
+<Data Name="OriginalActivityId">{9f41811a-0429-42aa-81b7-cfd4d968411f}</Data>
+<Data Name="DiagnosticModuleImageName">%windir%\system32\radardt.dll</Data>
+<Data Name="DiagnosticModuleId">{e4cd2e3e-3852-4952-b76b-23bb8e35d344}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnosis-DPS" Guid="{6bba3851-2c7e-4dea-8f54-31e5afd029e3}"></Provider>
+<EventID Qualifiers="">110</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>14</Opcode>
+<Keywords>0x4000000800000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:36.341400"></TimeCreated>
+<EventRecordID>11</EventRecordID>
+<Correlation ActivityID="{9ae4e624-8e10-4c51-a424-723d850da173}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2756" ThreadID="5092"></Execution>
+<Channel>Microsoft-Windows-Diagnosis-DPS/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ScenarioId">{2698178d-fdad-40ae-9d3c-1371703adc5b}</Data>
+<Data Name="InstanceId">{9ae4e624-8e10-4c51-a424-723d850da173}</Data>
+<Data Name="OriginalActivityId">{2698178d-fdad-40ae-9d3c-1371703adc5b}</Data>
+<Data Name="DiagnosticModuleImageName">%SystemRoot%\system32\diagperf.dll</Data>
+<Data Name="DiagnosticModuleId">{15fba3b8-a37a-4f91-bdba-fbb98fe804bf}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnosis-DPS" Guid="{6bba3851-2c7e-4dea-8f54-31e5afd029e3}"></Provider>
+<EventID Qualifiers="">100</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>12</Opcode>
+<Keywords>0x4000000800000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:34.884893"></TimeCreated>
+<EventRecordID>12</EventRecordID>
+<Correlation ActivityID="{678f5f52-765b-4ffa-bf9f-5b7829ca6bd5}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2640" ThreadID="2980"></Execution>
+<Channel>Microsoft-Windows-Diagnosis-DPS/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ScenarioId">{2698178d-fdad-40ae-9d3c-1371703adc5b}</Data>
+<Data Name="InstanceId">{678f5f52-765b-4ffa-bf9f-5b7829ca6bd5}</Data>
+<Data Name="OriginalActivityId">{2698178d-fdad-40ae-9d3c-1371703adc5b}</Data>
+<Data Name="DiagnosticModuleImageName">%SystemRoot%\system32\diagperf.dll</Data>
+<Data Name="DiagnosticModuleId">{15fba3b8-a37a-4f91-bdba-fbb98fe804bf}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnosis-DPS" Guid="{6bba3851-2c7e-4dea-8f54-31e5afd029e3}"></Provider>
+<EventID Qualifiers="">105</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>13</Opcode>
+<Keywords>0x4000000800000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:34.884895"></TimeCreated>
+<EventRecordID>13</EventRecordID>
+<Correlation ActivityID="{678f5f52-765b-4ffa-bf9f-5b7829ca6bd5}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2640" ThreadID="2980"></Execution>
+<Channel>Microsoft-Windows-Diagnosis-DPS/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ScenarioId">{2698178d-fdad-40ae-9d3c-1371703adc5b}</Data>
+<Data Name="InstanceId">{678f5f52-765b-4ffa-bf9f-5b7829ca6bd5}</Data>
+<Data Name="OriginalActivityId">{2698178d-fdad-40ae-9d3c-1371703adc5b}</Data>
+<Data Name="DiagnosticModuleImageName">%SystemRoot%\system32\diagperf.dll</Data>
+<Data Name="DiagnosticModuleId">{15fba3b8-a37a-4f91-bdba-fbb98fe804bf}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnosis-DPS" Guid="{6bba3851-2c7e-4dea-8f54-31e5afd029e3}"></Provider>
+<EventID Qualifiers="">100</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>12</Opcode>
+<Keywords>0x4000000800000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:38:12.095892"></TimeCreated>
+<EventRecordID>14</EventRecordID>
+<Correlation ActivityID="{f0c1bad1-df4b-4094-b563-faf34ad25d7e}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2640" ThreadID="348"></Execution>
+<Channel>Microsoft-Windows-Diagnosis-DPS/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ScenarioId">{86432a0b-3c7d-4ddf-a89c-172faa90485d}</Data>
+<Data Name="InstanceId">{f0c1bad1-df4b-4094-b563-faf34ad25d7e}</Data>
+<Data Name="OriginalActivityId">{86432a0b-3c7d-4ddf-a89c-172faa90485d}</Data>
+<Data Name="DiagnosticModuleImageName">%SystemRoot%\system32\diagperf.dll</Data>
+<Data Name="DiagnosticModuleId">{c8544339-5be9-4f25-862e-485f1b1a6935}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnosis-DPS" Guid="{6bba3851-2c7e-4dea-8f54-31e5afd029e3}"></Provider>
+<EventID Qualifiers="">105</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>13</Opcode>
+<Keywords>0x4000000800000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:38:12.095896"></TimeCreated>
+<EventRecordID>15</EventRecordID>
+<Correlation ActivityID="{f0c1bad1-df4b-4094-b563-faf34ad25d7e}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2640" ThreadID="348"></Execution>
+<Channel>Microsoft-Windows-Diagnosis-DPS/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ScenarioId">{86432a0b-3c7d-4ddf-a89c-172faa90485d}</Data>
+<Data Name="InstanceId">{f0c1bad1-df4b-4094-b563-faf34ad25d7e}</Data>
+<Data Name="OriginalActivityId">{86432a0b-3c7d-4ddf-a89c-172faa90485d}</Data>
+<Data Name="DiagnosticModuleImageName">%SystemRoot%\system32\diagperf.dll</Data>
+<Data Name="DiagnosticModuleId">{c8544339-5be9-4f25-862e-485f1b1a6935}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnosis-DPS" Guid="{6bba3851-2c7e-4dea-8f54-31e5afd029e3}"></Provider>
+<EventID Qualifiers="">110</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>14</Opcode>
+<Keywords>0x4000000800000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:38:12.303061"></TimeCreated>
+<EventRecordID>16</EventRecordID>
+<Correlation ActivityID="{678f5f52-765b-4ffa-bf9f-5b7829ca6bd5}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2640" ThreadID="348"></Execution>
+<Channel>Microsoft-Windows-Diagnosis-DPS/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ScenarioId">{2698178d-fdad-40ae-9d3c-1371703adc5b}</Data>
+<Data Name="InstanceId">{678f5f52-765b-4ffa-bf9f-5b7829ca6bd5}</Data>
+<Data Name="OriginalActivityId">{2698178d-fdad-40ae-9d3c-1371703adc5b}</Data>
+<Data Name="DiagnosticModuleImageName">%SystemRoot%\system32\diagperf.dll</Data>
+<Data Name="DiagnosticModuleId">{15fba3b8-a37a-4f91-bdba-fbb98fe804bf}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnosis-DPS" Guid="{6bba3851-2c7e-4dea-8f54-31e5afd029e3}"></Provider>
+<EventID Qualifiers="">110</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>14</Opcode>
+<Keywords>0x4000000800000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:38:12.821068"></TimeCreated>
+<EventRecordID>17</EventRecordID>
+<Correlation ActivityID="{f0c1bad1-df4b-4094-b563-faf34ad25d7e}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2640" ThreadID="348"></Execution>
+<Channel>Microsoft-Windows-Diagnosis-DPS/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ScenarioId">{86432a0b-3c7d-4ddf-a89c-172faa90485d}</Data>
+<Data Name="InstanceId">{f0c1bad1-df4b-4094-b563-faf34ad25d7e}</Data>
+<Data Name="OriginalActivityId">{86432a0b-3c7d-4ddf-a89c-172faa90485d}</Data>
+<Data Name="DiagnosticModuleImageName">%SystemRoot%\system32\diagperf.dll</Data>
+<Data Name="DiagnosticModuleId">{c8544339-5be9-4f25-862e-485f1b1a6935}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnosis-DPS" Guid="{6bba3851-2c7e-4dea-8f54-31e5afd029e3}"></Provider>
+<EventID Qualifiers="">100</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>12</Opcode>
+<Keywords>0x4000000800000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:49.345585"></TimeCreated>
+<EventRecordID>18</EventRecordID>
+<Correlation ActivityID="{5c52a0be-e9a3-4dcc-944c-9bfdd6c6f04e}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2640" ThreadID="2948"></Execution>
+<Channel>Microsoft-Windows-Diagnosis-DPS/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ScenarioId">{3af8b24a-c441-4fa4-8c5c-bed591bfa867}</Data>
+<Data Name="InstanceId">{5c52a0be-e9a3-4dcc-944c-9bfdd6c6f04e}</Data>
+<Data Name="OriginalActivityId">{9f41811a-0429-42aa-81b7-cfd4d968411f}</Data>
+<Data Name="DiagnosticModuleImageName">%windir%\system32\radardt.dll</Data>
+<Data Name="DiagnosticModuleId">{e4cd2e3e-3852-4952-b76b-23bb8e35d344}</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnosis-DPS" Guid="{6bba3851-2c7e-4dea-8f54-31e5afd029e3}"></Provider>
+<EventID Qualifiers="">105</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>13</Opcode>
+<Keywords>0x4000000800000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:49.345589"></TimeCreated>
+<EventRecordID>19</EventRecordID>
+<Correlation ActivityID="{5c52a0be-e9a3-4dcc-944c-9bfdd6c6f04e}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2640" ThreadID="2948"></Execution>
+<Channel>Microsoft-Windows-Diagnosis-DPS/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ScenarioId">{3af8b24a-c441-4fa4-8c5c-bed591bfa867}</Data>
+<Data Name="InstanceId">{5c52a0be-e9a3-4dcc-944c-9bfdd6c6f04e}</Data>
+<Data Name="OriginalActivityId">{9f41811a-0429-42aa-81b7-cfd4d968411f}</Data>
+<Data Name="DiagnosticModuleImageName">%windir%\system32\radardt.dll</Data>
+<Data Name="DiagnosticModuleId">{e4cd2e3e-3852-4952-b76b-23bb8e35d344}</Data>
+</EventData>
+</Event>
+
+</Events>

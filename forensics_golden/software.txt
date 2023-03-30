@@ -1,0 +1,359 @@
+Launching appinitdlls v.20130305
+appinitdlls v.20130305
+(Software) Gets contents of AppInit_DLLs value
+
+AppInit_DLLs
+Microsoft\Windows NT\CurrentVersion\Windows not found.
+Wow6432Node\Microsoft\Windows NT\CurrentVersion\Windows not found.
+Analysis Tip: The AppInit_DLLs value should be blank; any DLL listed
+is launched with each user-mode process.  
+----------------------------------------
+apppaths v.20120524
+(Software) Gets content of App Paths key
+
+Microsoft\Windows\CurrentVersion\App Paths not found.
+----------------------------------------
+assoc v.20080815
+(Software) Get list of file ext associations
+
+Classes not found.
+----------------------------------------
+banner v.20081119
+(Software) Get HKLM\SOFTWARE.. Logon Banner Values
+
+Microsoft\Windows\CurrentVersion\policies\system not found.
+Microsoft\Windows NT\CurrentVersion\Winlogon not found.
+----------------------------------------
+bho v.20080418
+(Software) Gets Browser Helper Objects from Software hive
+
+Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects not found.
+----------------------------------------
+bitbucket v.20080418
+(Software) Get HKLM\..\BitBucket keys\values
+
+Microsoft\Windows\CurrentVersion\Explorer\BitBucket not found.
+----------------------------------------
+clsid v.20100227
+(Software) Get list of CLSID/registered classes
+
+Classes\CLSID not found.
+----------------------------------------
+cmd_shell v.20100830
+(Software) Gets shell open cmds for various file types
+
+Classes\exefile\shell\open\command not found.
+Classes\cmdfile\shell\open\command not found.
+Classes\batfile\shell\open\command not found.
+Classes\csfile\shell\open\command not found.
+Classes\htafile\shell\open\command not found.
+Classes\piffile\shell\open\command not found.
+
+----------------------------------------
+codeid v.20100608
+(Software) Gets CodeIdentifier DefaultLevel value
+
+Policies\Microsoft\Windows\Safer\CodeIdentifiers not found.
+----------------------------------------
+ctrlpnl v.20100116
+(Software) Get Control Panel info from Software hive
+
+Microsoft\Windows\CurrentVersion\Control Panel not found.
+----------------------------------------
+defbrowser v.20091116
+(Software) Gets default browser setting from HKLM
+
+Clients\StartMenuInternet not found.
+
+Classes\HTTP\shell\open\command not found.
+----------------------------------------
+Launching direct v.20120513
+Microsoft not found.
+Wow6432Node\Microsoft not found.
+----------------------------------------
+disablesr v.20120914
+(Software) Gets the value that turns System Restore either on or off
+
+Microsoft\Windows NT\CurrentVersion\SystemRestore not found.
+----------------------------------------
+drwatson v.20081219
+(Software) Gets Dr. Watson settings from Software hive
+
+Microsoft\Windows NT\CurrentVersion\AeDebug not found.
+
+Microsoft\DrWatson not found.
+
+Analysis Tips: For Dr. Watson settings information check: http://www.windowsnetworking.com/kbase/WindowsTips/Windows2000/RegistryTips/RegistryTools/DrWatson.html
+----------------------------------------
+----------------------------------------
+ie_version v.20091016
+(Software) Get IE version and build
+
+Microsoft\Internet Explorer not found.
+----------------------------------------
+imagefile v.20100824
+(Software) Checks IFEO subkeys for Debugger/CWDIllegalInDllSearch values
+
+Microsoft\Windows NT\CurrentVersion\Image File Execution Options not found.
+----------------------------------------
+init_dlls v.20110309
+(Software) Check for odd **pInit_Dlls keys
+
+Microsoft\Windows NT\CurrentVersion\Windows not found.
+----------------------------------------
+installedcomp v.20100116
+(Software) Get info about Installed Components/StubPath
+
+Microsoft\Active Setup\Installed Components not found.
+----------------------------------------
+Launching installer v.20120917
+(Software) Determines product install information
+
+Microsoft\Windows\CurrentVersion\Installer\UserData not found.
+----------------------------------------
+kb950582 v.20081212
+(Software) KB950582 - Gets autorun settings from HKLM hive
+
+Microsoft\Windows\CurrentVersion\Policies\Explorer not found.
+----------------------------------------
+LANDesk\ManagementSuite\WinClient\SoftwareMonitoring\MonitorLog not found.
+Wow6432Node\LANDesk\ManagementSuite\WinClient\SoftwareMonitoring\MonitorLog not found.
+LANDesk\Inventory\LogonHistory\Logons not found.
+Wow6432Node\LANDesk\Inventory\LogonHistory\Logons not found.
+----------------------------------------
+macaddr v.20090118
+(Software)  -- 
+
+Hive file Z:\home\kali\HTB\CA\forensics_golden\NTUSER.DAT appeared to be neither a Software nor a
+System hive file.
+----------------------------------------
+mrt v.20080804
+(Software) Check to see if Malicious Software Removal Tool has been run
+
+Microsoft\RemovalTools\MRT not found.
+----------------------------------------
+msis v.20090911
+(Software) Determine MSI packages installed on the system
+
+Classes\Installer\Products not found.
+----------------------------------------
+networkcards v.20080325
+(Software) Get NetworkCards
+
+Microsoft\Windows NT\CurrentVersion\NetworkCards not found.
+----------------------------------------
+Launching networklist v.20120917
+(Software) Collects network info from Vista+ NetworkList key
+
+Microsoft\Windows NT\CurrentVersion\NetworkList\Profiles not found.
+----------------------------------------
+networkuid v.20100312
+(Software) Gets Network key UID value
+
+Microsoft\Windows NT\CurrentVersion\Network not found.
+----------------------------------------
+notify v.20110309
+(Software) Get Notify subkey entries
+
+Microsoft\Windows NT\CurrentVersion\Winlogon\Notify not found.
+----------------------------------------
+product v.20100325
+(Software) Get installed product info
+
+Microsoft\Windows\CurrentVersion\Installer\UserData not found.
+----------------------------------------
+profilelist v.20100219
+(Software) Get content of ProfileList key
+
+Microsoft\Windows NT\CurrentVersion\ProfileList not found.
+Microsoft\Windows NT\CurrentVersion\Winlogon not found.
+----------------------------------------
+regback v.20100219
+(Software) List all tasks along with logfile name and last written date/time
+
+Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\Microsoft\Windows\Registry\RegIdleBackup not found.
+Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks has no subkeys.
+----------------------------------------
+removdev v.200800611
+(Software) Parses Windows Portable Devices key (Vista)
+
+Microsoft\Windows Portable Devices\Devices not found.
+----------------------------------------
+renocide v.20110309
+(Software) Check for Renocide malware
+
+Microsoft\DRM\amty not found.
+----------------------------------------
+schedagent v.20100817
+(Software) Get SchedulingAgent key contents
+
+Microsoft\SchedulingAgent not found.
+----------------------------------------
+secctr v.20100310
+(Software) Get data from Security Center key
+
+secctr
+
+Microsoft\Security Center not found.
+
+----------------------------------------
+sfc v.20100305
+(Software) Get SFC values
+
+Microsoft\Windows NT\CurrentVersion\Winlogon key not found.
+
+Policies\Microsoft\Windows NT\Windows File Protection key not found.
+----------------------------------------
+shellexec v.20081229
+(Software) Gets ShellExecuteHooks from Software hive
+
+Microsoft\Windows\CurrentVersion\Explorer\ShellExecuteHooks not found.
+----------------------------------------
+shellext v.20100515
+(Software) Gets Shell Extensions from Software hive
+
+Microsoft\Windows\CurrentVersion\Shell Extensions\Approved not found.
+----------------------------------------
+shelloverlay v.20100308
+(Software) Gets ShellIconOverlayIdentifiers values
+
+Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers not found.
+----------------------------------------
+snapshot v.20080725
+(Software) Check ActiveX comp kill bit; Access Snapshot
+
+Microsoft\Internet Explorer not found.
+----------------------------------------
+soft_run v.20130329
+(Software) [Autostart] Get autostart key contents from Software hive
+
+Microsoft\Windows\CurrentVersion\Run not found.
+
+Microsoft\Windows\CurrentVersion\RunOnce not found.
+
+Microsoft\Windows\CurrentVersion\RunServices not found.
+
+Wow6432Node\Microsoft\Windows\CurrentVersion\Run not found.
+
+Wow6432Node\Microsoft\Windows\CurrentVersion\RunOnce not found.
+
+Microsoft\Windows\CurrentVersion\Policies\Explorer\Run not found.
+
+Wow6432Node\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run not found.
+
+Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Run not found.
+
+Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\RunOnce not found.
+
+----------------------------------------
+specaccts v.20120803
+(Software) Gets contents of SpecialAccounts\UserList key
+
+Microsoft\Windows NT\CurrentVersion\Winlogon\SpecialAccounts\UserList not found.
+Wow6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon\SpecialAccounts\UserList not found.
+----------------------------------------
+spp_clients v.20120914
+(Software) Determines volumes monitored by VSS
+
+Microsoft\Windows NT\CurrentVersion\SPP\Clients not found.
+----------------------------------------
+sql_lastconnect v.20090112
+(Software) MDAC cache of successful connections
+
+Microsoft\MSSQLServer\Client\SuperSocketNetLib\LastConnect not found.
+----------------------------------------
+ssid v.20100301
+(Software) Get WZCSVC SSID Info
+
+----------------------------------------
+startmenuinternetapps_lm v.20101219
+(SOFTWARE) Start Menu Internet Applications info
+
+Clients not found.
+----------------------------------------
+svchost v.20100322
+(Software) Get entries from SvcHost key
+
+svchost
+
+Microsoft\Windows NT\CurrentVersion\SvcHost not found.
+
+----------------------------------------
+taskman v.20091116
+(Software) Gets Taskman from HKLM\..\Winlogon
+
+Microsoft\Windows NT\CurrentVersion\Winlogon not found.
+----------------------------------------
+Launching tracing v.20120509
+Microsoft\Tracing not found.
+Wow6432Node\Microsoft\Tracing not found.
+----------------------------------------
+uninstall v.20120523
+(Software) Gets contents of Uninstall keys (64- & 32-bit) from Software hive
+
+Uninstall
+Microsoft\Windows\CurrentVersion\Uninstall not found.
+Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall not found.
+----------------------------------------
+urlzone v.20090526
+(Software) URLZONE detection
+
+Microsoft\Windows\CurrentVersion\Internet Settings\urlzone not found.
+Microsoft\Windows NT\CurrentVersion\Image File Execution Options\userinit.exe not found.
+----------------------------------------
+uac v.20130213
+(Software) Get Select User Account Control (UAC) Values from HKLMSOFTWAREMicrosoftWindowsCurrentVersionPoliciesSystem
+
+Microsoft\Windows\CurrentVersion\policies\system not found.
+----------------------------------------
+userinit v.20080328
+(Software) Gets UserInit value
+
+Microsoft\Windows NT\CurrentVersion\Winlogon not found.
+----------------------------------------
+virut v.20090218
+(Software) Detect Virut artifacts
+
+Microsoft\Windows\CurrentVersion\Explorer not found.
+
+Also be sure to check the SYSTEM\ControlSet00n\Services\SharedAccess\
+Parameters\FirewallPolicy\DomainProfile\AuthorizedApplications\List key
+for exceptions added to the firewall; use the fw_config.pl plugin.
+----------------------------------------
+vista_wireless v.20090514
+(Software) Get Vista Wireless Info
+
+Microsoft\Windows NT\CurrentVersion\NetworkList\Profiles not found.
+----------------------------------------
+win_cv v.20090312
+(Software) Get & display the contents of the Windows\CurrentVersion key
+
+Microsoft\Windows\CurrentVersion not found.
+----------------------------------------
+winbackup v.20120812
+(Software) Get Windows Backup
+
+Microsoft\Windows\CurrentVersion\WindowsBackup\ScheduleParams\TargetDevice not found.
+
+Microsoft\Windows\CurrentVersion\WindowsBackup\Status not found.
+----------------------------------------
+winlogon v.20100219
+(Software) Get values from the WinLogon key
+
+Microsoft\Windows NT\CurrentVersion\Winlogon not found.
+----------------------------------------
+winnt_cv v.20080609
+(Software) Get & display the contents of the Windows NT\CurrentVersion key
+
+Microsoft\Windows NT\CurrentVersion not found.
+----------------------------------------
+winver v.20081210
+(Software) Get Windows version
+
+Microsoft\Windows NT\CurrentVersion not found.
+----------------------------------------
+yahoo_lm v.20101219
+(SOFTWARE) Yahoo Messenger parser
+
+Yahoo not found.
+----------------------------------------

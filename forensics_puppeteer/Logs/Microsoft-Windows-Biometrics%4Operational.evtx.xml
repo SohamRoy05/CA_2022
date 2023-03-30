@@ -1,0 +1,158 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Biometrics" Guid="{a0e3d8ea-c34f-4419-a1db-90435b8b21d0}"></Provider>
+<EventID Qualifiers="">1600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:05.952892"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5020" ThreadID="5032"></Execution>
+<Channel>Microsoft-Windows-Biometrics/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ErrorCode">0x80070032</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Biometrics" Guid="{a0e3d8ea-c34f-4419-a1db-90435b8b21d0}"></Provider>
+<EventID Qualifiers="">1108</EventID>
+<Version>0</Version>
+<Level>5</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:05.982933"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5020" ThreadID="5032"></Execution>
+<Channel>Microsoft-Windows-Biometrics/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="BiometricSensor">Windows Hello Face Virtual Software Device (\Bootstrap\Virtual Sensors\{0527b250-7514-4321-8b68-41c65f956998})</Data>
+<Data Name="SensorAdapter">FaceBootstrapAdapter.dll</Data>
+<Data Name="EngineAdapter">FaceBootstrapAdapter.dll</Data>
+<Data Name="StorageAdapter">FaceBootstrapAdapter.dll</Data>
+<Data Name="DatabaseID">{dc576da6-d676-4a15-906d-c0ceaf949543}</Data>
+<Data Name="SensorMode">1</Data>
+<Data Name="SensorPool">1</Data>
+<Data Name="IsolationLevel">0</Data>
+<Data Name="IsolationSensorAdapter">-</Data>
+<Data Name="IsolationEngineAdapter">-</Data>
+<Data Name="IsolationStorageAdapter">-</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Biometrics" Guid="{a0e3d8ea-c34f-4419-a1db-90435b8b21d0}"></Provider>
+<EventID Qualifiers="">1108</EventID>
+<Version>0</Version>
+<Level>5</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.011787"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5020" ThreadID="5032"></Execution>
+<Channel>Microsoft-Windows-Biometrics/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="BiometricSensor">Analog NUI Voice Virtual Sensor (\Voice\Virtual Sensors\{F25AB4A2-593A-4A89-B9FF-8144BEA81E15})</Data>
+<Data Name="SensorAdapter">NUIVoiceWBSAdapters.dll</Data>
+<Data Name="EngineAdapter">NUIVoiceWBSAdapters.dll</Data>
+<Data Name="StorageAdapter">WinBioStorageAdapter.dll</Data>
+<Data Name="DatabaseID">{51f39552-1075-4199-b513-0c10ea185db0}</Data>
+<Data Name="SensorMode">1</Data>
+<Data Name="SensorPool">1</Data>
+<Data Name="IsolationLevel">0</Data>
+<Data Name="IsolationSensorAdapter">-</Data>
+<Data Name="IsolationEngineAdapter">-</Data>
+<Data Name="IsolationStorageAdapter">-</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Biometrics" Guid="{a0e3d8ea-c34f-4419-a1db-90435b8b21d0}"></Provider>
+<EventID Qualifiers="">1600</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:22.444218"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2884" ThreadID="5456"></Execution>
+<Channel>Microsoft-Windows-Biometrics/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ErrorCode">0x80070032</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Biometrics" Guid="{a0e3d8ea-c34f-4419-a1db-90435b8b21d0}"></Provider>
+<EventID Qualifiers="">1108</EventID>
+<Version>0</Version>
+<Level>5</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:22.480825"></TimeCreated>
+<EventRecordID>5</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2884" ThreadID="5456"></Execution>
+<Channel>Microsoft-Windows-Biometrics/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="BiometricSensor">Windows Hello Face Virtual Software Device (\Bootstrap\Virtual Sensors\{0527b250-7514-4321-8b68-41c65f956998})</Data>
+<Data Name="SensorAdapter">FaceBootstrapAdapter.dll</Data>
+<Data Name="EngineAdapter">FaceBootstrapAdapter.dll</Data>
+<Data Name="StorageAdapter">FaceBootstrapAdapter.dll</Data>
+<Data Name="DatabaseID">{dc576da6-d676-4a15-906d-c0ceaf949543}</Data>
+<Data Name="SensorMode">1</Data>
+<Data Name="SensorPool">1</Data>
+<Data Name="IsolationLevel">0</Data>
+<Data Name="IsolationSensorAdapter">-</Data>
+<Data Name="IsolationEngineAdapter">-</Data>
+<Data Name="IsolationStorageAdapter">-</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Biometrics" Guid="{a0e3d8ea-c34f-4419-a1db-90435b8b21d0}"></Provider>
+<EventID Qualifiers="">1108</EventID>
+<Version>0</Version>
+<Level>5</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:22.495232"></TimeCreated>
+<EventRecordID>6</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2884" ThreadID="5456"></Execution>
+<Channel>Microsoft-Windows-Biometrics/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="BiometricSensor">Analog NUI Voice Virtual Sensor (\Voice\Virtual Sensors\{F25AB4A2-593A-4A89-B9FF-8144BEA81E15})</Data>
+<Data Name="SensorAdapter">NUIVoiceWBSAdapters.dll</Data>
+<Data Name="EngineAdapter">NUIVoiceWBSAdapters.dll</Data>
+<Data Name="StorageAdapter">WinBioStorageAdapter.dll</Data>
+<Data Name="DatabaseID">{51f39552-1075-4199-b513-0c10ea185db0}</Data>
+<Data Name="SensorMode">1</Data>
+<Data Name="SensorPool">1</Data>
+<Data Name="IsolationLevel">0</Data>
+<Data Name="IsolationSensorAdapter">-</Data>
+<Data Name="IsolationEngineAdapter">-</Data>
+<Data Name="IsolationStorageAdapter">-</Data>
+</EventData>
+</Event>
+
+</Events>

@@ -1,0 +1,476 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">11</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000080</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:57.739975"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3588" ThreadID="3732"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Error">-2147023559</Data>
+<Data Name="Expression">ClientGetAllPackagesToBeInstalledForUser(userSid.c_str(), specialProfile, &amp;m_packagesToBeInstalled, &amp;m_numPackagesToBeInstalled)</Data>
+<Data Name="Function">AppReadiness::PackagesToBeInstalledIterator::PackagesToBeInstalledIterator</Data>
+<Data Name="File">onecoreuap\shell\appreadiness\src\core\User.h</Data>
+<Data Name="Line">195</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">106</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>7</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.575998"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3588" ThreadID="3592"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">S-1-5-21-2389065719-3342106636-307857974-1000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">107</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>7</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:56.595467"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3588" ThreadID="3592"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">S-1-5-21-2389065719-3342106636-307857974-1000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">103</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>14</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:56.813896"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3588" ThreadID="3652"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">217</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:44.961065"></TimeCreated>
+<EventRecordID>5</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2324" ThreadID="4128"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">S-1-5-21-2389065719-3342106636-307857974-1000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">107</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>7</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:34.988726"></TimeCreated>
+<EventRecordID>6</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2324" ThreadID="3624"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">S-1-5-21-2389065719-3342106636-307857974-1000</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">106</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>7</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:36.601507"></TimeCreated>
+<EventRecordID>7</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2324" ThreadID="3624"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">11</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000080</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:42.549236"></TimeCreated>
+<EventRecordID>8</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0000-3c15-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2324" ThreadID="4328"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Error">-2147009274</Data>
+<Data Name="Expression">operationResult</Data>
+<Data Name="Function">AppReadiness::Tasks::RegisterPackage::Invoke::&lt;lambda_639c96d30cc89c5a11d708565c2b2b4d&gt;::operator ()</Data>
+<Data Name="File">onecoreuap\shell\appreadiness\src\tasks\registerpackage.cpp</Data>
+<Data Name="Line">141</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">309</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>2</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000004</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:50.497471"></TimeCreated>
+<EventRecordID>9</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-9110-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2324" ThreadID="2940"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">310</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>2</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000004</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:50.504307"></TimeCreated>
+<EventRecordID>10</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0002-9110-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2324" ThreadID="2940"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">105</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>7</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:25:44.778332"></TimeCreated>
+<EventRecordID>11</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2324" ThreadID="4104"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsIdle">False</Data>
+<Data Name="Reason">S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">105</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>7</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:28:14.796463"></TimeCreated>
+<EventRecordID>12</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2324" ThreadID="4104"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsIdle">False</Data>
+<Data Name="Reason">ExternalObjects</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">105</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>7</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:30:44.801676"></TimeCreated>
+<EventRecordID>13</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2324" ThreadID="4104"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsIdle">False</Data>
+<Data Name="Reason">ExternalObjects</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">105</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>7</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:33:14.803432"></TimeCreated>
+<EventRecordID>14</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2324" ThreadID="4104"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsIdle">False</Data>
+<Data Name="Reason">ExternalObjects</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">105</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>7</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:35:44.822933"></TimeCreated>
+<EventRecordID>15</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2324" ThreadID="4104"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsIdle">False</Data>
+<Data Name="Reason">ExternalObjects</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">107</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>7</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:23.951309"></TimeCreated>
+<EventRecordID>16</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2324" ThreadID="3624"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">103</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>14</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:24.120358"></TimeCreated>
+<EventRecordID>17</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2324" ThreadID="4104"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">217</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:37:10.574049"></TimeCreated>
+<EventRecordID>18</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4336" ThreadID="4404"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">S-1-5-21-2389065719-3342106636-307857974-1001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">105</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>7</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:39:08.887215"></TimeCreated>
+<EventRecordID>19</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4336" ThreadID="4360"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsIdle">True</Data>
+<Data Name="Reason">None</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">103</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>14</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:39:08.905779"></TimeCreated>
+<EventRecordID>20</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4336" ThreadID="4360"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">11</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>6</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000080</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:54.506926"></TimeCreated>
+<EventRecordID>21</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0001-5be3-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3652" ThreadID="3816"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Error">-2147009274</Data>
+<Data Name="Expression">operationResult</Data>
+<Data Name="Function">AppReadiness::Tasks::RegisterPackage::Invoke::&lt;lambda_639c96d30cc89c5a11d708565c2b2b4d&gt;::operator ()</Data>
+<Data Name="File">onecoreuap\shell\appreadiness\src\tasks\registerpackage.cpp</Data>
+<Data Name="Line">141</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">309</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>2</Task>
+<Opcode>1</Opcode>
+<Keywords>0x4000000000000004</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:58.665461"></TimeCreated>
+<EventRecordID>22</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0003-49ea-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3652" ThreadID="2820"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">S-1-5-21-2389065719-3342106636-307857974-1002</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">310</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>2</Task>
+<Opcode>2</Opcode>
+<Keywords>0x4000000000000004</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:58.672493"></TimeCreated>
+<EventRecordID>23</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0003-49ea-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3652" ThreadID="2820"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="User">S-1-5-21-2389065719-3342106636-307857974-1002</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-AppReadiness" Guid="{f0be35f8-237b-4814-86b5-ade51192e503}"></Provider>
+<EventID Qualifiers="">105</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>7</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:43:19.963135"></TimeCreated>
+<EventRecordID>24</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3652" ThreadID="836"></Execution>
+<Channel>Microsoft-Windows-AppReadiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="IsIdle">False</Data>
+<Data Name="Reason">ExternalObjects</Data>
+</EventData>
+</Event>
+
+</Events>

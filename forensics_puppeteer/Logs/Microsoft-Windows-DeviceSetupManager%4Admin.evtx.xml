@@ -1,0 +1,821 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">109</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:43.786144"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1788" ThreadID="1848"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_CoreServiceMode">2</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">109</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:56.677637"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2816" ThreadID="2896"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_CoreServiceMode">3</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">100</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:56.753307"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2816" ThreadID="2896"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_CoreServiceMode">3</Data>
+<Data Name="Prop_Event_Window_Seconds">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">109</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:38.203373"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2816" ThreadID="2896"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_CoreServiceMode">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">112</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:39.018141"></TimeCreated>
+<EventRecordID>5</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2816" ThreadID="1128"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_DeviceName">Microsoft Print to PDF</Data>
+<Data Name="Prop_ContainerId">{d397268a-724c-b4ef-d641-c9234ba2948b}</Data>
+<Data Name="Prop_TaskCount">4</Data>
+<Data Name="Prop_PropertyCount">42</Data>
+<Data Name="Prop_WorkTime_MilliSeconds">807</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">112</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:39.036488"></TimeCreated>
+<EventRecordID>6</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2816" ThreadID="1128"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_DeviceName">Generic Non-PnP Monitor</Data>
+<Data Name="Prop_ContainerId">{1074b24d-b986-5a01-b420-b3d39c2f9286}</Data>
+<Data Name="Prop_TaskCount">2</Data>
+<Data Name="Prop_PropertyCount">42</Data>
+<Data Name="Prop_WorkTime_MilliSeconds">11</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">112</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:39.240866"></TimeCreated>
+<EventRecordID>7</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2816" ThreadID="2092"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_DeviceName">Microphone (High Definition Audio Device)</Data>
+<Data Name="Prop_ContainerId">{1a951afb-a34c-5715-8e36-857530726511}</Data>
+<Data Name="Prop_TaskCount">4</Data>
+<Data Name="Prop_PropertyCount">42</Data>
+<Data Name="Prop_WorkTime_MilliSeconds">1028</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">112</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:39.432621"></TimeCreated>
+<EventRecordID>8</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2816" ThreadID="1864"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_DeviceName">Microsoft XPS Document Writer</Data>
+<Data Name="Prop_ContainerId">{0a568158-2954-f19c-89f3-03acaee1f85e}</Data>
+<Data Name="Prop_TaskCount">4</Data>
+<Data Name="Prop_PropertyCount">42</Data>
+<Data Name="Prop_WorkTime_MilliSeconds">1212</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">123</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:57.985018"></TimeCreated>
+<EventRecordID>9</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2816" ThreadID="1948"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_Seconds">19</Data>
+<Data Name="Prop_DeviceId">HDAUDIO\FUNC_01&amp;VEN_8384&amp;DEV_7680&amp;SUBSYS_83847680&amp;REV_1034\4&amp;31E60982&amp;0&amp;0001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">121</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:57.985022"></TimeCreated>
+<EventRecordID>10</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2816" ThreadID="1948"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_DevnodeId">HDAUDIO\FUNC_01&amp;VEN_8384&amp;DEV_7680&amp;SUBSYS_83847680&amp;REV_1034\4&amp;31E60982&amp;0&amp;0001</Data>
+<Data Name="HRESULT">2149842974</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:58.036802"></TimeCreated>
+<EventRecordID>11</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0000-941a-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2816" ThreadID="2896"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_UpTime_Seconds">1844674371492</Data>
+<Data Name="Prop_WorkTime_MilliSeconds">19824</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">121</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:58.112991"></TimeCreated>
+<EventRecordID>12</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2816" ThreadID="1948"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_DevnodeId">ACPI\PNP0F03\4&amp;1D401FB5&amp;0</Data>
+<Data Name="HRESULT">2149842974</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">121</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:58.228416"></TimeCreated>
+<EventRecordID>13</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2816" ThreadID="1948"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_DevnodeId">PCI\VEN_8086&amp;DEV_2668&amp;SUBSYS_76808384&amp;REV_01\3&amp;267A616A&amp;0&amp;28</Data>
+<Data Name="HRESULT">2149842974</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">100</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.036680"></TimeCreated>
+<EventRecordID>14</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-9cff-2c2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="1168"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_CoreServiceMode">0</Data>
+<Data Name="Prop_Event_Window_Seconds">5</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">202</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.058542"></TimeCreated>
+<EventRecordID>15</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2004"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">202</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.059595"></TimeCreated>
+<EventRecordID>16</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="1996"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">200</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.059765"></TimeCreated>
+<EventRecordID>17</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="1996"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">200</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.059914"></TimeCreated>
+<EventRecordID>18</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2004"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">202</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.062206"></TimeCreated>
+<EventRecordID>19</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2028"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">200</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.062531"></TimeCreated>
+<EventRecordID>20</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2028"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">202</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.068087"></TimeCreated>
+<EventRecordID>21</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2028"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">202</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.071888"></TimeCreated>
+<EventRecordID>22</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="1996"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">202</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.086149"></TimeCreated>
+<EventRecordID>23</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2004"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">202</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.192720"></TimeCreated>
+<EventRecordID>24</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="1996"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">201</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.192865"></TimeCreated>
+<EventRecordID>25</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="1996"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">112</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.194424"></TimeCreated>
+<EventRecordID>26</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="1996"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_DeviceName">Generic Non-PnP Monitor</Data>
+<Data Name="Prop_ContainerId">{ed17222b-f1c7-537f-9546-745658ade2e3}</Data>
+<Data Name="Prop_TaskCount">4</Data>
+<Data Name="Prop_PropertyCount">34</Data>
+<Data Name="Prop_WorkTime_MilliSeconds">138</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">202</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.194630"></TimeCreated>
+<EventRecordID>27</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2004"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">201</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.194830"></TimeCreated>
+<EventRecordID>28</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2004"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">112</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.196667"></TimeCreated>
+<EventRecordID>29</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2004"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_DeviceName">USB Tablet</Data>
+<Data Name="Prop_ContainerId">{224ad886-cdac-11ec-a537-806e6f6e6963}</Data>
+<Data Name="Prop_TaskCount">4</Data>
+<Data Name="Prop_PropertyCount">34</Data>
+<Data Name="Prop_WorkTime_MilliSeconds">138</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">202</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.266432"></TimeCreated>
+<EventRecordID>30</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2028"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">201</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.266617"></TimeCreated>
+<EventRecordID>31</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2028"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">112</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.269096"></TimeCreated>
+<EventRecordID>32</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2028"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_DeviceName">COUNCIL-HQ</Data>
+<Data Name="Prop_ContainerId">{00000000-0000-0000-ffff-ffffffffffff}</Data>
+<Data Name="Prop_TaskCount">4</Data>
+<Data Name="Prop_PropertyCount">36</Data>
+<Data Name="Prop_WorkTime_MilliSeconds">217</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">105</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:11.269131"></TimeCreated>
+<EventRecordID>33</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2028"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">112</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:16.234968"></TimeCreated>
+<EventRecordID>34</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2004"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_DeviceName">Generic Non-PnP Monitor</Data>
+<Data Name="Prop_ContainerId">{ed17222b-f1c7-537f-9546-745658ade2e3}</Data>
+<Data Name="Prop_TaskCount">1</Data>
+<Data Name="Prop_PropertyCount">34</Data>
+<Data Name="Prop_WorkTime_MilliSeconds">1156</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">123</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:26.650862"></TimeCreated>
+<EventRecordID>35</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2028"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_Seconds">71</Data>
+<Data Name="Prop_DeviceId">USB\VID_80EE&amp;PID_0021\5&amp;12C8F4C0&amp;0&amp;1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">112</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:27.837082"></TimeCreated>
+<EventRecordID>36</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2028"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_DeviceName">USB Tablet</Data>
+<Data Name="Prop_ContainerId">{224ad886-cdac-11ec-a537-806e6f6e6963}</Data>
+<Data Name="Prop_TaskCount">1</Data>
+<Data Name="Prop_PropertyCount">34</Data>
+<Data Name="Prop_WorkTime_MilliSeconds">72758</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">123</EventID>
+<Version>0</Version>
+<Level>3</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:38.821363"></TimeCreated>
+<EventRecordID>37</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="1996"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_Seconds">12</Data>
+<Data Name="Prop_DeviceId">ACPI\PNP0F03\4&amp;1D401FB5&amp;0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">112</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:39.165192"></TimeCreated>
+<EventRecordID>38</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="2004"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_DeviceName">Fax</Data>
+<Data Name="Prop_ContainerId">{ca0e9e80-3e97-fcac-730a-8cb080fa2581}</Data>
+<Data Name="Prop_TaskCount">4</Data>
+<Data Name="Prop_PropertyCount">34</Data>
+<Data Name="Prop_WorkTime_MilliSeconds">43634</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">112</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:39.491968"></TimeCreated>
+<EventRecordID>39</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="1996"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_DeviceName">COUNCIL-HQ</Data>
+<Data Name="Prop_ContainerId">{00000000-0000-0000-ffff-ffffffffffff}</Data>
+<Data Name="Prop_TaskCount">1</Data>
+<Data Name="Prop_PropertyCount">36</Data>
+<Data Name="Prop_WorkTime_MilliSeconds">84415</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">106</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:39.492504"></TimeCreated>
+<EventRecordID>40</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="1996"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_RetryCycleCount">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-DeviceSetupManager" Guid="{fcbb06bb-6a2a-46e3-abaa-246cb4e508b2}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:25:24.497322"></TimeCreated>
+<EventRecordID>41</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0003-9cff-2c2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="1088" ThreadID="1168"></Execution>
+<Channel>Microsoft-Windows-DeviceSetupManager/Admin</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="Prop_UpTime_Seconds">133</Data>
+<Data Name="Prop_WorkTime_MilliSeconds">84646</Data>
+</EventData>
+</Event>
+
+</Events>

@@ -1,0 +1,354 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-HelloForBusiness" Guid="{906b8a99-63ce-58d7-86ab-10989bbd5567}"></Provider>
+<EventID Qualifiers="">8025</EventID>
+<Version>0</Version>
+<Level>16</Level>
+<Task>6</Task>
+<Opcode>12</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.044611"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5064" ThreadID="5084"></Execution>
+<Channel>Microsoft-Windows-HelloForBusiness/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ServiceName">Microsoft Passport</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-HelloForBusiness" Guid="{906b8a99-63ce-58d7-86ab-10989bbd5567}"></Provider>
+<EventID Qualifiers="">8025</EventID>
+<Version>0</Version>
+<Level>16</Level>
+<Task>6</Task>
+<Opcode>12</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:06.120861"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5096" ThreadID="5116"></Execution>
+<Channel>Microsoft-Windows-HelloForBusiness/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ServiceName">Microsoft Passport Container</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-HelloForBusiness" Guid="{906b8a99-63ce-58d7-86ab-10989bbd5567}"></Provider>
+<EventID Qualifiers="">3054</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>12</Task>
+<Opcode>10</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:50.548895"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3804" ThreadID="4288"></Execution>
+<Channel>Microsoft-Windows-HelloForBusiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-HelloForBusiness" Guid="{906b8a99-63ce-58d7-86ab-10989bbd5567}"></Provider>
+<EventID Qualifiers="">8210</EventID>
+<Version>0</Version>
+<Level>16</Level>
+<Task>12</Task>
+<Opcode>12</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:50.548899"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3804" ThreadID="4288"></Execution>
+<Channel>Microsoft-Windows-HelloForBusiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-HelloForBusiness" Guid="{906b8a99-63ce-58d7-86ab-10989bbd5567}"></Provider>
+<EventID Qualifiers="">7201</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>12</Task>
+<Opcode>12</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:50.548899"></TimeCreated>
+<EventRecordID>5</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3804" ThreadID="4288"></Execution>
+<Channel>Microsoft-Windows-HelloForBusiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-HelloForBusiness" Guid="{906b8a99-63ce-58d7-86ab-10989bbd5567}"></Provider>
+<EventID Qualifiers="">7054</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>12</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:50.548899"></TimeCreated>
+<EventRecordID>6</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3804" ThreadID="4288"></Execution>
+<Channel>Microsoft-Windows-HelloForBusiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="Error">0x00000001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-HelloForBusiness" Guid="{906b8a99-63ce-58d7-86ab-10989bbd5567}"></Provider>
+<EventID Qualifiers="">5520</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>15</Task>
+<Opcode>12</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:37.846464"></TimeCreated>
+<EventRecordID>7</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="880" ThreadID="3844"></Execution>
+<Channel>Microsoft-Windows-HelloForBusiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-HelloForBusiness" Guid="{906b8a99-63ce-58d7-86ab-10989bbd5567}"></Provider>
+<EventID Qualifiers="">8025</EventID>
+<Version>0</Version>
+<Level>16</Level>
+<Task>6</Task>
+<Opcode>12</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:37.952633"></TimeCreated>
+<EventRecordID>8</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3980" ThreadID="4028"></Execution>
+<Channel>Microsoft-Windows-HelloForBusiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ServiceName">Microsoft Passport</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-HelloForBusiness" Guid="{906b8a99-63ce-58d7-86ab-10989bbd5567}"></Provider>
+<EventID Qualifiers="">3054</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>12</Task>
+<Opcode>10</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:41.874380"></TimeCreated>
+<EventRecordID>9</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4196" ThreadID="4332"></Execution>
+<Channel>Microsoft-Windows-HelloForBusiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-HelloForBusiness" Guid="{906b8a99-63ce-58d7-86ab-10989bbd5567}"></Provider>
+<EventID Qualifiers="">8210</EventID>
+<Version>0</Version>
+<Level>16</Level>
+<Task>12</Task>
+<Opcode>12</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:41.874382"></TimeCreated>
+<EventRecordID>10</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4196" ThreadID="4332"></Execution>
+<Channel>Microsoft-Windows-HelloForBusiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-HelloForBusiness" Guid="{906b8a99-63ce-58d7-86ab-10989bbd5567}"></Provider>
+<EventID Qualifiers="">7201</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>12</Task>
+<Opcode>12</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:41.874382"></TimeCreated>
+<EventRecordID>11</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4196" ThreadID="4332"></Execution>
+<Channel>Microsoft-Windows-HelloForBusiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-HelloForBusiness" Guid="{906b8a99-63ce-58d7-86ab-10989bbd5567}"></Provider>
+<EventID Qualifiers="">7054</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>12</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:41.874384"></TimeCreated>
+<EventRecordID>12</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4196" ThreadID="4332"></Execution>
+<Channel>Microsoft-Windows-HelloForBusiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1001"></Security>
+</System>
+<EventData><Data Name="Error">0x00000001</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-HelloForBusiness" Guid="{906b8a99-63ce-58d7-86ab-10989bbd5567}"></Provider>
+<EventID Qualifiers="">8025</EventID>
+<Version>0</Version>
+<Level>16</Level>
+<Task>6</Task>
+<Opcode>12</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:22.293417"></TimeCreated>
+<EventRecordID>13</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3640" ThreadID="3496"></Execution>
+<Channel>Microsoft-Windows-HelloForBusiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ServiceName">Microsoft Passport</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-HelloForBusiness" Guid="{906b8a99-63ce-58d7-86ab-10989bbd5567}"></Provider>
+<EventID Qualifiers="">8025</EventID>
+<Version>0</Version>
+<Level>16</Level>
+<Task>6</Task>
+<Opcode>12</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:22.390366"></TimeCreated>
+<EventRecordID>14</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3720" ThreadID="2932"></Execution>
+<Channel>Microsoft-Windows-HelloForBusiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ServiceName">Microsoft Passport Container</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-HelloForBusiness" Guid="{906b8a99-63ce-58d7-86ab-10989bbd5567}"></Provider>
+<EventID Qualifiers="">5520</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>15</Task>
+<Opcode>12</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:46.066578"></TimeCreated>
+<EventRecordID>15</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2696" ThreadID="6596"></Execution>
+<Channel>Microsoft-Windows-HelloForBusiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-HelloForBusiness" Guid="{906b8a99-63ce-58d7-86ab-10989bbd5567}"></Provider>
+<EventID Qualifiers="">3054</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>12</Task>
+<Opcode>10</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:58.702332"></TimeCreated>
+<EventRecordID>16</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4976" ThreadID="5576"></Execution>
+<Channel>Microsoft-Windows-HelloForBusiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-HelloForBusiness" Guid="{906b8a99-63ce-58d7-86ab-10989bbd5567}"></Provider>
+<EventID Qualifiers="">8210</EventID>
+<Version>0</Version>
+<Level>16</Level>
+<Task>12</Task>
+<Opcode>12</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:58.702333"></TimeCreated>
+<EventRecordID>17</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4976" ThreadID="5576"></Execution>
+<Channel>Microsoft-Windows-HelloForBusiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-HelloForBusiness" Guid="{906b8a99-63ce-58d7-86ab-10989bbd5567}"></Provider>
+<EventID Qualifiers="">7201</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>12</Task>
+<Opcode>12</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:58.702333"></TimeCreated>
+<EventRecordID>18</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4976" ThreadID="5576"></Execution>
+<Channel>Microsoft-Windows-HelloForBusiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-HelloForBusiness" Guid="{906b8a99-63ce-58d7-86ab-10989bbd5567}"></Provider>
+<EventID Qualifiers="">7054</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>12</Task>
+<Opcode>11</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:40:58.702335"></TimeCreated>
+<EventRecordID>19</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4976" ThreadID="5576"></Execution>
+<Channel>Microsoft-Windows-HelloForBusiness/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-21-2389065719-3342106636-307857974-1002"></Security>
+</System>
+<EventData><Data Name="Error">0x00000001</Data>
+</EventData>
+</Event>
+
+</Events>

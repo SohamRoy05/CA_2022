@@ -1,0 +1,198 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{cfc18ec0-96b1-4eba-961b-622caee05b0a}"></Provider>
+<EventID Qualifiers="">100</EventID>
+<Version>2</Version>
+<Level>3</Level>
+<Task>4002</Task>
+<Opcode>34</Opcode>
+<Keywords>0x8000000000010000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:39.280621"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="{ac38061f-61b0-0001-f918-38acb061d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3076" ThreadID="3944"></Execution>
+<Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="BootTsVersion">2</Data>
+<Data Name="BootStartTime">2022-05-07 01:20:43.892073</Data>
+<Data Name="BootEndTime">2022-05-07 01:20:43.892073</Data>
+<Data Name="SystemBootInstance">1</Data>
+<Data Name="UserBootInstance">1</Data>
+<Data Name="BootTime">45822</Data>
+<Data Name="MainPathBootTime">22022</Data>
+<Data Name="BootKernelInitTime">137</Data>
+<Data Name="BootDriverInitTime">248</Data>
+<Data Name="BootDevicesInitTime">132</Data>
+<Data Name="BootPrefetchInitTime">0</Data>
+<Data Name="BootPrefetchBytes">0</Data>
+<Data Name="BootAutoChkTime">0</Data>
+<Data Name="BootSmssInitTime">888</Data>
+<Data Name="BootCriticalServicesInitTime">327</Data>
+<Data Name="BootUserProfileProcessingTime">1026</Data>
+<Data Name="BootMachineProfileProcessingTime">66</Data>
+<Data Name="BootExplorerInitTime">0</Data>
+<Data Name="BootNumStartupApps">0</Data>
+<Data Name="BootPostBootTime">23800</Data>
+<Data Name="BootIsRebootAfterInstall">False</Data>
+<Data Name="BootRootCauseStepImprovementBits">0</Data>
+<Data Name="BootRootCauseGradualImprovementBits">0</Data>
+<Data Name="BootRootCauseStepDegradationBits">0</Data>
+<Data Name="BootRootCauseGradualDegradationBits">0</Data>
+<Data Name="BootIsDegradation">False</Data>
+<Data Name="BootIsStepDegradation">False</Data>
+<Data Name="BootIsGradualDegradation">False</Data>
+<Data Name="BootImprovementDelta">0</Data>
+<Data Name="BootDegradationDelta">0</Data>
+<Data Name="BootIsRootCauseIdentified">False</Data>
+<Data Name="OSLoaderDuration">557</Data>
+<Data Name="BootPNPInitStartTimeMS">137</Data>
+<Data Name="BootPNPInitDuration">379</Data>
+<Data Name="OtherKernelInitDuration">191</Data>
+<Data Name="SystemPNPInitStartTimeMS">550</Data>
+<Data Name="SystemPNPInitDuration">199</Data>
+<Data Name="SessionInitStartTimeMS">770</Data>
+<Data Name="Session0InitDuration">208</Data>
+<Data Name="Session1InitDuration">30</Data>
+<Data Name="SessionInitOtherDuration">650</Data>
+<Data Name="WinLogonStartTimeMS">1658</Data>
+<Data Name="OtherLogonInitActivityDuration">19271</Data>
+<Data Name="UserLogonWaitDuration">1475</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{cfc18ec0-96b1-4eba-961b-622caee05b0a}"></Provider>
+<EventID Qualifiers="">200</EventID>
+<Version>1</Version>
+<Level>3</Level>
+<Task>4007</Task>
+<Opcode>40</Opcode>
+<Keywords>0x8000000000010000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:24:36.333933"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="{2f2cff59-615d-0001-7f06-2d2f5d61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2756" ThreadID="2720"></Execution>
+<Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ShutdownTsVersion">1</Data>
+<Data Name="ShutdownStartTime">2022-05-07 01:22:56.545279</Data>
+<Data Name="ShutdownEndTime">2022-05-07 01:23:04.218281</Data>
+<Data Name="ShutdownTime">7673</Data>
+<Data Name="ShutdownUserSessionTime">989</Data>
+<Data Name="ShutdownUserPolicyTime">1</Data>
+<Data Name="ShutdownUserProfilesTime">31</Data>
+<Data Name="ShutdownSystemSessionsTime">6322</Data>
+<Data Name="ShutdownPreShutdownNotificationsTime">1275</Data>
+<Data Name="ShutdownServicesTime">5014</Data>
+<Data Name="ShutdownKernelTime">360</Data>
+<Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+<Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+<Data Name="ShutdownRootCauseStepDegradationBits">0</Data>
+<Data Name="ShutdownRootCauseGradualDegradationBits">0</Data>
+<Data Name="ShutdownIsDegradation">False</Data>
+<Data Name="ShutdownTimeChange">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{cfc18ec0-96b1-4eba-961b-622caee05b0a}"></Provider>
+<EventID Qualifiers="">200</EventID>
+<Version>1</Version>
+<Level>3</Level>
+<Task>4007</Task>
+<Opcode>40</Opcode>
+<Keywords>0x8000000000010000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:38:12.290579"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0002-688c-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2640" ThreadID="2948"></Execution>
+<Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="ShutdownTsVersion">1</Data>
+<Data Name="ShutdownStartTime">2022-05-06 15:36:22.735489</Data>
+<Data Name="ShutdownEndTime">2022-05-06 15:36:26.936243</Data>
+<Data Name="ShutdownTime">4200</Data>
+<Data Name="ShutdownUserSessionTime">1311</Data>
+<Data Name="ShutdownUserPolicyTime">2</Data>
+<Data Name="ShutdownUserProfilesTime">29</Data>
+<Data Name="ShutdownSystemSessionsTime">2465</Data>
+<Data Name="ShutdownPreShutdownNotificationsTime">1146</Data>
+<Data Name="ShutdownServicesTime">1289</Data>
+<Data Name="ShutdownKernelTime">423</Data>
+<Data Name="ShutdownRootCauseStepImprovementBits">0</Data>
+<Data Name="ShutdownRootCauseGradualImprovementBits">0</Data>
+<Data Name="ShutdownRootCauseStepDegradationBits">64</Data>
+<Data Name="ShutdownRootCauseGradualDegradationBits">64</Data>
+<Data Name="ShutdownIsDegradation">True</Data>
+<Data Name="ShutdownTimeChange">0</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Diagnostics-Performance" Guid="{cfc18ec0-96b1-4eba-961b-622caee05b0a}"></Provider>
+<EventID Qualifiers="">100</EventID>
+<Version>2</Version>
+<Level>3</Level>
+<Task>4002</Task>
+<Opcode>34</Opcode>
+<Keywords>0x8000000000010000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:38:12.785616"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="{0e625a87-615f-0003-40a8-620e5f61d801}" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2640" ThreadID="3028"></Execution>
+<Channel>Microsoft-Windows-Diagnostics-Performance/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="BootTsVersion">2</Data>
+<Data Name="BootStartTime">2022-05-06 15:36:29.854374</Data>
+<Data Name="BootEndTime">2022-05-06 15:38:11.180567</Data>
+<Data Name="SystemBootInstance">2</Data>
+<Data Name="UserBootInstance">1</Data>
+<Data Name="BootTime">27738</Data>
+<Data Name="MainPathBootTime">11538</Data>
+<Data Name="BootKernelInitTime">90</Data>
+<Data Name="BootDriverInitTime">263</Data>
+<Data Name="BootDevicesInitTime">190</Data>
+<Data Name="BootPrefetchInitTime">0</Data>
+<Data Name="BootPrefetchBytes">0</Data>
+<Data Name="BootAutoChkTime">0</Data>
+<Data Name="BootSmssInitTime">2491</Data>
+<Data Name="BootCriticalServicesInitTime">275</Data>
+<Data Name="BootUserProfileProcessingTime">199</Data>
+<Data Name="BootMachineProfileProcessingTime">68</Data>
+<Data Name="BootExplorerInitTime">7179</Data>
+<Data Name="BootNumStartupApps">9</Data>
+<Data Name="BootPostBootTime">16200</Data>
+<Data Name="BootIsRebootAfterInstall">False</Data>
+<Data Name="BootRootCauseStepImprovementBits">0</Data>
+<Data Name="BootRootCauseGradualImprovementBits">0</Data>
+<Data Name="BootRootCauseStepDegradationBits">0</Data>
+<Data Name="BootRootCauseGradualDegradationBits">0</Data>
+<Data Name="BootIsDegradation">False</Data>
+<Data Name="BootIsStepDegradation">False</Data>
+<Data Name="BootIsGradualDegradation">False</Data>
+<Data Name="BootImprovementDelta">0</Data>
+<Data Name="BootDegradationDelta">0</Data>
+<Data Name="BootIsRootCauseIdentified">False</Data>
+<Data Name="OSLoaderDuration">589</Data>
+<Data Name="BootPNPInitStartTimeMS">90</Data>
+<Data Name="BootPNPInitDuration">856</Data>
+<Data Name="OtherKernelInitDuration">187</Data>
+<Data Name="SystemPNPInitStartTimeMS">987</Data>
+<Data Name="SystemPNPInitDuration">228</Data>
+<Data Name="SessionInitStartTimeMS">1272</Data>
+<Data Name="Session0InitDuration">234</Data>
+<Data Name="Session1InitDuration">24</Data>
+<Data Name="SessionInitOtherDuration">2232</Data>
+<Data Name="WinLogonStartTimeMS">3763</Data>
+<Data Name="OtherLogonInitActivityDuration">327</Data>
+<Data Name="UserLogonWaitDuration">4950</Data>
+</EventData>
+</Event>
+
+</Events>

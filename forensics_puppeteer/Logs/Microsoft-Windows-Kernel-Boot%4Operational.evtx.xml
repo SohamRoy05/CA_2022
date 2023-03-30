@@ -1,0 +1,428 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">235</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>99</Task>
+<Opcode>11</Opcode>
+<Keywords>0x2000080000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:33.692110"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Boot/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="StatusCode">3221225474</Data>
+<Data Name="Position">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">208</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>78</Task>
+<Opcode>12</Opcode>
+<Keywords>0x2000080000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:33.692110"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Boot/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InitState">1</Data>
+<Data Name="StatusCode">3221225473</Data>
+<Data Name="FailureAddress">11461467</Data>
+<Data Name="ReferenceAddress">12903872</Data>
+<Data Name="ReasonCode">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">49</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>29</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:33.692112"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Boot/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ImageName">\EFI\Microsoft\Boot\CiPolicies\Active\{CDD5CB55-DB68-4D71-AA38-3DF2B6473A52}.cip</Data>
+<Data Name="SiPolicyStatus">3236495362</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">235</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>99</Task>
+<Opcode>11</Opcode>
+<Keywords>0x2000080000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:33.692184"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Boot/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="StatusCode">3221225474</Data>
+<Data Name="Position">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">208</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>78</Task>
+<Opcode>12</Opcode>
+<Keywords>0x2000080000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:19:33.692186"></TimeCreated>
+<EventRecordID>5</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Boot/Operational</Channel>
+<Computer>WIN-GE1PLB8KFNS</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InitState">1</Data>
+<Data Name="StatusCode">3221225473</Data>
+<Data Name="FailureAddress">269415346</Data>
+<Data Name="ReferenceAddress">270576448</Data>
+<Data Name="ReasonCode">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">235</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>99</Task>
+<Opcode>11</Opcode>
+<Keywords>0x2000080000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:44.035151"></TimeCreated>
+<EventRecordID>6</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Boot/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="StatusCode">3221225474</Data>
+<Data Name="Position">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">208</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>78</Task>
+<Opcode>12</Opcode>
+<Keywords>0x2000080000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:44.035151"></TimeCreated>
+<EventRecordID>7</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Boot/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InitState">1</Data>
+<Data Name="StatusCode">3221225473</Data>
+<Data Name="FailureAddress">11461467</Data>
+<Data Name="ReferenceAddress">12903872</Data>
+<Data Name="ReasonCode">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">49</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>29</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:44.035154"></TimeCreated>
+<EventRecordID>8</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Boot/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ImageName">\EFI\Microsoft\Boot\CiPolicies\Active\{CDD5CB55-DB68-4D71-AA38-3DF2B6473A52}.cip</Data>
+<Data Name="SiPolicyStatus">3236495362</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">235</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>99</Task>
+<Opcode>11</Opcode>
+<Keywords>0x2000080000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:44.035416"></TimeCreated>
+<EventRecordID>9</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Boot/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="StatusCode">3221225474</Data>
+<Data Name="Position">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">208</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>78</Task>
+<Opcode>12</Opcode>
+<Keywords>0x2000080000000000</Keywords>
+<TimeCreated SystemTime="2022-05-07 01:20:44.035418"></TimeCreated>
+<EventRecordID>10</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Boot/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InitState">1</Data>
+<Data Name="StatusCode">3221225473</Data>
+<Data Name="FailureAddress">269415346</Data>
+<Data Name="ReferenceAddress">270576448</Data>
+<Data Name="ReasonCode">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">235</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>99</Task>
+<Opcode>11</Opcode>
+<Keywords>0x2000080000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:05.918861"></TimeCreated>
+<EventRecordID>11</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Boot/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="StatusCode">3221225474</Data>
+<Data Name="Position">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">208</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>78</Task>
+<Opcode>12</Opcode>
+<Keywords>0x2000080000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:05.918861"></TimeCreated>
+<EventRecordID>12</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Boot/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InitState">1</Data>
+<Data Name="StatusCode">3221225473</Data>
+<Data Name="FailureAddress">11461467</Data>
+<Data Name="ReferenceAddress">12903872</Data>
+<Data Name="ReasonCode">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">49</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>29</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:05.918863"></TimeCreated>
+<EventRecordID>13</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Boot/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ImageName">\EFI\Microsoft\Boot\CiPolicies\Active\{CDD5CB55-DB68-4D71-AA38-3DF2B6473A52}.cip</Data>
+<Data Name="SiPolicyStatus">3236495362</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">235</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>99</Task>
+<Opcode>11</Opcode>
+<Keywords>0x2000080000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:05.919046"></TimeCreated>
+<EventRecordID>14</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Boot/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="StatusCode">3221225474</Data>
+<Data Name="Position">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">208</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>78</Task>
+<Opcode>12</Opcode>
+<Keywords>0x2000080000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:05.919046"></TimeCreated>
+<EventRecordID>15</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Boot/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InitState">1</Data>
+<Data Name="StatusCode">3221225473</Data>
+<Data Name="FailureAddress">269415346</Data>
+<Data Name="ReferenceAddress">270576448</Data>
+<Data Name="ReasonCode">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">235</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>99</Task>
+<Opcode>11</Opcode>
+<Keywords>0x2000080000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:29.967085"></TimeCreated>
+<EventRecordID>16</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Boot/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="StatusCode">3221225474</Data>
+<Data Name="Position">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">208</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>78</Task>
+<Opcode>12</Opcode>
+<Keywords>0x2000080000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:29.967085"></TimeCreated>
+<EventRecordID>17</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Boot/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InitState">1</Data>
+<Data Name="StatusCode">3221225473</Data>
+<Data Name="FailureAddress">11461467</Data>
+<Data Name="ReferenceAddress">12903872</Data>
+<Data Name="ReasonCode">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">49</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>29</Task>
+<Opcode>0</Opcode>
+<Keywords>0x2000000000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:29.967085"></TimeCreated>
+<EventRecordID>18</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Boot/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="ImageName">\EFI\Microsoft\Boot\CiPolicies\Active\{CDD5CB55-DB68-4D71-AA38-3DF2B6473A52}.cip</Data>
+<Data Name="SiPolicyStatus">3236495362</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">235</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>99</Task>
+<Opcode>11</Opcode>
+<Keywords>0x2000080000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:29.967155"></TimeCreated>
+<EventRecordID>19</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Boot/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="StatusCode">3221225474</Data>
+<Data Name="Position">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Kernel-Boot" Guid="{15ca44ff-4d7a-4baa-bba5-0998955e531e}"></Provider>
+<EventID Qualifiers="">208</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>78</Task>
+<Opcode>12</Opcode>
+<Keywords>0x2000080000000000</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:29.967155"></TimeCreated>
+<EventRecordID>20</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="8"></Execution>
+<Channel>Microsoft-Windows-Kernel-Boot/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="InitState">1</Data>
+<Data Name="StatusCode">3221225473</Data>
+<Data Name="FailureAddress">269415346</Data>
+<Data Name="ReferenceAddress">270576448</Data>
+<Data Name="ReasonCode">1</Data>
+</EventData>
+</Event>
+
+</Events>

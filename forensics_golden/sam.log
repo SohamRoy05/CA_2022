@@ -1,0 +1,9 @@
+Mon May 16 16:25:23 2022: Log opened.
+Mon May 16 16:25:23 2022: File: Z:\home\kali\HTB\CA\forensics_golden\NTUSER.DAT
+Mon May 16 16:25:23 2022: Environment set up.
+Mon May 16 16:25:23 2022: Parsed Plugins file sam
+Mon May 16 16:25:23 2022: Launching samparse v.20120722
+Mon May 16 16:25:23 2022: SAM\Domains\Account\Users not found.
+Mon May 16 16:25:23 2022: SAM\Domains\Builtin\Aliases not found.
+Mon May 16 16:25:23 2022: 0 plugins completed with errors.
+Mon May 16 16:25:23 2022: samparse complete.

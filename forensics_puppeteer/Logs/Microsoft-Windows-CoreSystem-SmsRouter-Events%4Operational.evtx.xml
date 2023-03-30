@@ -1,0 +1,848 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">100</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>1</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:14.491657"></TimeCreated>
+<EventRecordID>1</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6864" ThreadID="2156"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">200</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>2</Task>
+<Opcode>1</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:15.081995"></TimeCreated>
+<EventRecordID>2</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6864" ThreadID="2156"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:15.094721"></TimeCreated>
+<EventRecordID>3</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6864" ThreadID="2156"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">CSmsDeviceManager::Initialize</Data>
+<Data Name="LineNumber">1633</Data>
+<Data Name="HResultName">-2147221005</Data>
+<Data Name="Context">Failed to load CLSIDFromProgID("CellularAPI"), Ignoring the error</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:21:15.096008"></TimeCreated>
+<EventRecordID>4</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6864" ThreadID="6956"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">CSmsDeviceManager::UninitializeWwanWatcher</Data>
+<Data Name="LineNumber">856</Data>
+<Data Name="HResultName">-2147024875</Data>
+<Data Name="Context">WwanRegisterNotification(WwanNotificationSourceNone) failed</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:58.019943"></TimeCreated>
+<EventRecordID>5</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6864" ThreadID="6956"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">CSmsDeviceManager::UninitializeWwanWatcher</Data>
+<Data Name="LineNumber">856</Data>
+<Data Name="HResultName">-2147024875</Data>
+<Data Name="Context">WwanRegisterNotification(WwanNotificationSourceNone) failed</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:58.019947"></TimeCreated>
+<EventRecordID>6</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6864" ThreadID="6956"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">CSmsDeviceManager::Uninitialize</Data>
+<Data Name="LineNumber">1765</Data>
+<Data Name="HResultName">-2147024875</Data>
+<Data Name="Context">UninitializeWwanWatcher</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">201</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>2</Task>
+<Opcode>2</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:58.025053"></TimeCreated>
+<EventRecordID>7</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6864" ThreadID="6956"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>DESKTOP-DBOP9M0</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>2</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:22:58.087770"></TimeCreated>
+<EventRecordID>8</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="6864" ThreadID="6956"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">100</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>1</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:18.376078"></TimeCreated>
+<EventRecordID>9</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5548" ThreadID="5576"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">200</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>2</Task>
+<Opcode>1</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:18.404346"></TimeCreated>
+<EventRecordID>10</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5548" ThreadID="5576"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:18.406660"></TimeCreated>
+<EventRecordID>11</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5548" ThreadID="5576"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">CSmsDeviceManager::Initialize</Data>
+<Data Name="LineNumber">1633</Data>
+<Data Name="HResultName">-2147221005</Data>
+<Data Name="Context">Failed to load CLSIDFromProgID("CellularAPI"), Ignoring the error</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:23:18.409481"></TimeCreated>
+<EventRecordID>12</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5548" ThreadID="5624"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">CSmsDeviceManager::UninitializeWwanWatcher</Data>
+<Data Name="LineNumber">856</Data>
+<Data Name="HResultName">-2147024875</Data>
+<Data Name="Context">WwanRegisterNotification(WwanNotificationSourceNone) failed</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:18.309813"></TimeCreated>
+<EventRecordID>13</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5548" ThreadID="5688"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">CSmsDeviceManager::UninitializeWwanWatcher</Data>
+<Data Name="LineNumber">856</Data>
+<Data Name="HResultName">-2147024875</Data>
+<Data Name="Context">WwanRegisterNotification(WwanNotificationSourceNone) failed</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:18.309814"></TimeCreated>
+<EventRecordID>14</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5548" ThreadID="5688"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">CSmsDeviceManager::Uninitialize</Data>
+<Data Name="LineNumber">1765</Data>
+<Data Name="HResultName">-2147024875</Data>
+<Data Name="Context">UninitializeWwanWatcher</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">201</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>2</Task>
+<Opcode>2</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:18.310005"></TimeCreated>
+<EventRecordID>15</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5548" ThreadID="5688"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>2</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:26:18.358892"></TimeCreated>
+<EventRecordID>16</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="5548" ThreadID="5688"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">100</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>1</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:27:18.389055"></TimeCreated>
+<EventRecordID>17</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7904" ThreadID="7884"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">200</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>2</Task>
+<Opcode>1</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:27:18.422096"></TimeCreated>
+<EventRecordID>18</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7904" ThreadID="7884"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:27:18.423882"></TimeCreated>
+<EventRecordID>19</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7904" ThreadID="7884"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">CSmsDeviceManager::Initialize</Data>
+<Data Name="LineNumber">1633</Data>
+<Data Name="HResultName">-2147221005</Data>
+<Data Name="Context">Failed to load CLSIDFromProgID("CellularAPI"), Ignoring the error</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:27:18.424456"></TimeCreated>
+<EventRecordID>20</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7904" ThreadID="3244"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">CSmsDeviceManager::UninitializeWwanWatcher</Data>
+<Data Name="LineNumber">856</Data>
+<Data Name="HResultName">-2147024875</Data>
+<Data Name="Context">WwanRegisterNotification(WwanNotificationSourceNone) failed</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:27:18.424818"></TimeCreated>
+<EventRecordID>21</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7904" ThreadID="3244"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">_BriDeleteEvent2</Data>
+<Data Name="LineNumber">551</Data>
+<Data Name="HResultName">-2147024809</Data>
+<Data Name="Context">Unable to find client context for handle=1.</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:29:18.428452"></TimeCreated>
+<EventRecordID>22</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7904" ThreadID="3244"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">CSmsDeviceManager::UninitializeWwanWatcher</Data>
+<Data Name="LineNumber">856</Data>
+<Data Name="HResultName">-2147024875</Data>
+<Data Name="Context">WwanRegisterNotification(WwanNotificationSourceNone) failed</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:29:18.428453"></TimeCreated>
+<EventRecordID>23</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7904" ThreadID="3244"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">CSmsDeviceManager::Uninitialize</Data>
+<Data Name="LineNumber">1765</Data>
+<Data Name="HResultName">-2147024875</Data>
+<Data Name="Context">UninitializeWwanWatcher</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">201</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>2</Task>
+<Opcode>2</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:29:18.428560"></TimeCreated>
+<EventRecordID>24</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7904" ThreadID="3244"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>2</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:29:18.495836"></TimeCreated>
+<EventRecordID>25</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7904" ThreadID="3244"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">100</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>1</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:31:26.793535"></TimeCreated>
+<EventRecordID>26</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3176" ThreadID="3712"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">200</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>2</Task>
+<Opcode>1</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:31:26.831089"></TimeCreated>
+<EventRecordID>27</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3176" ThreadID="3712"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:31:26.832993"></TimeCreated>
+<EventRecordID>28</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3176" ThreadID="3712"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">CSmsDeviceManager::Initialize</Data>
+<Data Name="LineNumber">1633</Data>
+<Data Name="HResultName">-2147221005</Data>
+<Data Name="Context">Failed to load CLSIDFromProgID("CellularAPI"), Ignoring the error</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:31:26.833452"></TimeCreated>
+<EventRecordID>29</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3176" ThreadID="972"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">CSmsDeviceManager::UninitializeWwanWatcher</Data>
+<Data Name="LineNumber">856</Data>
+<Data Name="HResultName">-2147024875</Data>
+<Data Name="Context">WwanRegisterNotification(WwanNotificationSourceNone) failed</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:34:26.728271"></TimeCreated>
+<EventRecordID>30</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3176" ThreadID="5020"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">CSmsDeviceManager::UninitializeWwanWatcher</Data>
+<Data Name="LineNumber">856</Data>
+<Data Name="HResultName">-2147024875</Data>
+<Data Name="Context">WwanRegisterNotification(WwanNotificationSourceNone) failed</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:34:26.728273"></TimeCreated>
+<EventRecordID>31</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3176" ThreadID="5020"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">CSmsDeviceManager::Uninitialize</Data>
+<Data Name="LineNumber">1765</Data>
+<Data Name="HResultName">-2147024875</Data>
+<Data Name="Context">UninitializeWwanWatcher</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">201</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>2</Task>
+<Opcode>2</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:34:26.728437"></TimeCreated>
+<EventRecordID>32</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3176" ThreadID="5020"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>2</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:34:26.768011"></TimeCreated>
+<EventRecordID>33</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3176" ThreadID="5020"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">100</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>1</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:35:26.780890"></TimeCreated>
+<EventRecordID>34</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7512" ThreadID="7784"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">200</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>2</Task>
+<Opcode>1</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:35:26.827211"></TimeCreated>
+<EventRecordID>35</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7512" ThreadID="7784"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:35:26.829430"></TimeCreated>
+<EventRecordID>36</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7512" ThreadID="7784"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">CSmsDeviceManager::Initialize</Data>
+<Data Name="LineNumber">1633</Data>
+<Data Name="HResultName">-2147221005</Data>
+<Data Name="Context">Failed to load CLSIDFromProgID("CellularAPI"), Ignoring the error</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:35:26.829885"></TimeCreated>
+<EventRecordID>37</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7512" ThreadID="5208"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">CSmsDeviceManager::UninitializeWwanWatcher</Data>
+<Data Name="LineNumber">856</Data>
+<Data Name="HResultName">-2147024875</Data>
+<Data Name="Context">WwanRegisterNotification(WwanNotificationSourceNone) failed</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:35:26.830360"></TimeCreated>
+<EventRecordID>38</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7512" ThreadID="5208"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">_BriDeleteEvent2</Data>
+<Data Name="LineNumber">551</Data>
+<Data Name="HResultName">-2147024809</Data>
+<Data Name="Context">Unable to find client context for handle=1.</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:25.261894"></TimeCreated>
+<EventRecordID>39</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7512" ThreadID="5208"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">CSmsDeviceManager::UninitializeWwanWatcher</Data>
+<Data Name="LineNumber">856</Data>
+<Data Name="HResultName">-2147024875</Data>
+<Data Name="Context">WwanRegisterNotification(WwanNotificationSourceNone) failed</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">102</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>1</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000001</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:25.262056"></TimeCreated>
+<EventRecordID>40</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7512" ThreadID="5208"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData><Data Name="AnsiStringName">CSmsDeviceManager::Uninitialize</Data>
+<Data Name="LineNumber">1765</Data>
+<Data Name="HResultName">-2147024875</Data>
+<Data Name="Context">UninitializeWwanWatcher</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">201</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>2</Task>
+<Opcode>2</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:25.263855"></TimeCreated>
+<EventRecordID>41</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7512" ThreadID="5208"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CoreSystem-SmsRouter" Guid="{a9c11050-9e93-4fa4-8fe0-7c4750a345b2}"></Provider>
+<EventID Qualifiers="">101</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>2</Opcode>
+<Keywords>0x8000000000000002</Keywords>
+<TimeCreated SystemTime="2022-05-06 15:36:25.347437"></TimeCreated>
+<EventRecordID>42</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="7512" ThreadID="5208"></Execution>
+<Channel>Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational</Channel>
+<Computer>Council-HQ</Computer>
+<Security UserID="S-1-5-19"></Security>
+</System>
+<EventData></EventData>
+</Event>
+
+</Events>
